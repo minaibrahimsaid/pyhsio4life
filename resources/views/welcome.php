@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v3.12.1, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v3.12.1, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+  <meta name="description" content="">
+  <title>physio 4 life</title>
+  <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+  <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material.css">
+  <link rel="stylesheet" href="assets/et-line-font-plugin/style.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise-gallery/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+
+
+
+</head>
+<body>
+<section id="ext_menu-7">
+
+    <nav class="navbar navbar-dropdown navbar-fixed-top">
+        <div class="container">
+
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
+
+                    <div class="navbar-brand">
+
+                        <a class="navbar-caption" href="/">physio 4 life</a>
+                    </div>
+
+                </div>
+                <div class="mbr-table-cell">
+
+                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="hamburger-icon"></div>
+                    </button>
+
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="/">home</a></li><li class="nav-item"><a class="nav-link link" href="/services">services</a></li><li class="nav-item"><a class="nav-link link" href="/contact-us">Contact Us</a></li><li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li></ul>
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+</section>
+
+<section class="engine"><a rel="external" href="/">physio 4 life</a></section><section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
+    <div>
+        <div>
+            <div>
+                <ol class="carousel-indicators">
+                    <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
+                            <div class="container-slide container">
+
+                                <div class="row">
+                                    <div class="col-md-8 col-md-offset-2 text-xs-center">
+                                        <h2 class="mbr-section-title display-1">physio 4 life</h2>
+                                        <p class="mbr-section-lead lead">We do not add years to life but life to year<br> <i class="fas fa-circle 2x" style="color:green"></i> online<br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/alternative-medicine-1327808-2000x1328.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay"></div>
+                            <div class="container-slide container">
+
+                                <div class="row">
+                                    <div class="col-md-8 col-md-offset-1">
+                                        <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                        <p class="mbr-section-lead lead"> <i class="fas fa-circle 2x" style="color:green"></i> online<br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev" href="#slider-0">
+                    <span class="icon-prev" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next" href="#slider-0">
+                    <span class="icon-next" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content2-j" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lead"><blockquote>"&nbsp;We do not add years to life but life to year&nbsp;"</blockquote></div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section" id="msg-box5-3" style="background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 40px;">
+
+
+    <div class="container">
+        <div class="row">
+            <div class="mbr-table-md-up">
+
+              <div class="mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 43%;">
+                  <div class="mbr-figure"><img src="assets/images/download-1400x931.jpg"></div>
+              </div>
+
+
+
+
+              <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
+                  <h3 class="mbr-section-title display-2">What is physiotherapy ?</h3>
+                  <div class="lead">
+
+                    <p>
+                    Physiotherapy is a healthcare profession involved with diagnosis and treatment of someone who has difficulty moving or performing functional activities because of an injury, health problem or disability.
+Physiotherapy does not involve medications in treating conditions affecting your joint, muscle or nerve issue. Physiotherapy involves thorough evaluation and examination to find the underlying cause of the problem. Based on the results of the evaluation, physiotherapist will create an individualized treatment plan for you, provide lifestyle advice and education to help you get better and stay better. </p>
+                  </div>
+
+
+              </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section" id="msg-box5-n" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
+
+
+    <div class="container">
+        <div class="row">
+            <div class="mbr-table-md-up">
+
+
+
+              <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
+                  <h3 class="mbr-section-title display-2">Why is Physiotherapy important?</h3>
+                  <div class="lead">
+
+                    <p>Physiotherapy helps people of all ages to restore their activity, strength, and motion following an injury such as sports injury, motor vehicle accident, slip and fall and work-related injury or surgery. Physiotherapy focuses on removing the cause of the problem as opposed to superficially treating the symptoms. the results are often more permanent with less chance of the disorder returning. It also provides lasting relief from pain.</p>
+
+                  </div>
+
+
+              </div>
+
+
+
+
+
+              <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 38%;">
+                  <div class="mbr-figure"><img src="assets/images/desktop.jpg"></div>
+              </div>
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article mbr-parallax-background" id="msg-box8-p" style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg); padding-top: 40px; padding-bottom: 40px;">
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">Why Physio 4 Life ?</h3>
+
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content6-q" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-6 lead">
+            <ul>
+            <li>
+            <em>Our health care delivered by qualified, experienced, registered Physiotherapists and Canadian Physiotherapists association (CPA) members.&nbsp;
+            </em>
+            </li>
+            <li>
+            <em>
+            In physio 4 life, you get the explanation of your problem, hands on treatment, methods to speed up recovery, strategies to prevent recurrence.
+            </em>
+            </li>
+            <li>
+            <em>
+            Physiotherapists in physio 4 life are treating individuals of all ages and fitness levels.
+            </em>
+            </li>
+            <li>
+            <em>
+            Getting better in the shortest period.
+            </em>
+            </li>
+            <li>
+            <em>Physiotherapists in physio 4 life are keeping up to date with the latest research and treatment skills to ensure that they are providing you with the most advanced and informed treatment methods to achieve effective and long-lasting results.
+            </em>
+            </li>
+            </ul>
+            </div>
+            <div class="col-xs-12 col-md-6 lead"><ul><li><em>Physiotherapists in physio 4 life do complete examination, to know the exact underlying cause of the problem and treat the cause, not just the symptoms.</em></li><li><em> Physiotherapists in physio 4 life offer direct insurance billing, which saves you from having to do all the paperwork on your own, saving your time.</em></li><li><em> Physiotherapists in physio 4 life have the Physiotherapy modalities needed to assist in your recovery, reduce pain, swelling and the inflammatory process.</em></li></ul></div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section mbr-section__container article" id="header3-r" style="background-color: rgb(239, 239, 239); padding-top: 20px; padding-bottom: 20px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="mbr-section-title display-2">What problems do physiotherapists treat?&nbsp;</h3>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content1-s" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lead"><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href="http://google.com/">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p></div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section" id="testimonials1-u" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
+
+
+
+        <div class="mbr-section mbr-section__container mbr-section__container--middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-xs-center">
+                        <h3 class="mbr-section-title display-2">Our Staf&nbsp;</h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    <div class="mbr-testimonials mbr-section mbr-section-nopadding">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xs-12 col-md-6">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                        <ul>
+                        <li> Nivirt has been practicing physiotherapy since 1993, over 25 years experience in the field of physiotherapy. Nivirt is a  registered physiotherapist in Ontario.
+                        </li>
+                        <li>She has graduated from Faculty of Physical Therapy, Cairo University, Egypt 1993 and MSc degree of physical therapy from the same university in 2002 . </li>
+                        <li>She became a registered physiotherapist in Canada in 2017, and she had been working in 2 private clinics, Physiocare and Physiocan sand she has excellent Google reviews.</li>
+                        <li>She has had intense additional courses in manual therapy, sports medicine, pain control and Acupuncture. She has experience working in both private and hospitals in Egypt. </li>
+                        <li>She is a member of college of physiotherapist Ontario and Canadian Physiotherapy Association (CPA)</li>
+                        <li>She enjoys treating musculoskeletal injuries using the most advanced techniques in physiotherapy and takes a holistic approach to care. </li>
+                        </ul>
+                        </div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/face3.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name">Nivirt Tadrous</div>
+                            <small class="mbr-author-desc">physiotherapist</small>
+                        </div>
+                    </div>
+                </div><div class="col-xs-12 col-md-6">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                        <ul>
+                        <li> Dina received a Bachelor of Physical Therapy from Cairo University in 1999, and in 2008 she completed a Master of Physical Therapy from Cairo University. </li>
+                        <li>She has completed additional courses in musculoskeletal, cardio respiratory, and neurological physical therapy in Canada through the Ontario internationally educated physical therapy Bridging Program at University of Toronto </li>
+                        <li>She completed advanced manual therapy in upper limb conditions, and lumbo-pelvic conditions. </li>
+                        <li> She has over three years experience in pelvic health.</li>
+                        <li>She completed courses for patients who suffer from loss of bladder and bowel control, prolapse, constipation, and pelvic pain.</li>
+                        <li> She has completed a special course for treating rectus diastasis from Bellies Inc., and has a real passion for treating pregnant women and post-natal patients.</li>
+                        <li> She taken special courses in treating chronic pelvic pain and visceral release for bladder dysfunction. Recently, she completed oncology and female organs, as well lymphatic drainage for the pelvic region</li>
+                        <li> She is a member of the Women Health Division and Orthopedic Division of the Canadian Physiotherapy Association.</li>
+                        <li> She enjoys working out, yoga, and meditation. She loves singing and was an opera singer at the Cairo Opera House.</li>
+                        </ul>
+                        </div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/face1.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name">Dina Soliman</div>
+                            <small class="mbr-author-desc">physiotherapist</small>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="mbr-section" id="testimonials1-u" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 0px;">
+
+
+
+        <div class="mbr-section mbr-section__container mbr-section__container--middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-xs-center">
+                        <h3 class="mbr-section-title display-2">Our Facility&nbsp;</h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content1-s" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lead"><p>We have recently opened our new physiotherapy premises at
+66 Harwood Ave. Ajax It is located across the street from Ajax library. Parking is available.</p></div>
+        </div>
+    </div>
+
+</section>
+<section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b" style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Address</strong><br>
+1234 Street Name<br>
+City, AA 99999<br><br><br>
+<strong>Contacts</strong><br>
+Email: support@mobirise.com<br>
+Phone: +1 (0) 000 0000 001<br>
+Fax: +1 (0) 000 0000 002</p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> </ul></div>
+            <div class="col-xs-12 col-md-6">
+                <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a" style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+
+    <div class="container">
+        <p class="text-xs-center">Copyright (c)  Physio 4 life.</p>
+    </div>
+</footer>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+  <script src="assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/jarallax/jarallax.js"></script>
+  <script src="assets/masonry/masonry.pkgd.min.js"></script>
+  <script src="assets/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/mobirise-gallery/player.min.js"></script>
+  <script src="assets/mobirise-gallery/script.js"></script>
+
+
+  <input name="animation" type="hidden">
+  </body>
+</html>
