@@ -179,7 +179,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
 
 
               <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 38%;">
-                  <div class="mbr-figure"><img src="assets/images/desktop.jpg"></div>
+                  <div class="mbr-figure"><img src="assets/images/massage-2722936-2000x1332.jpg"></div>
               </div>
 
             </div>
@@ -377,7 +377,9 @@ Fax: +1 (0) 000 0000 002</p>
             </div>
             <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> </ul></div>
             <div class="col-xs-12 col-md-6">
-                <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div>
+                <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
+                <div id="map"></div>
+
             </div>
         </div>
     </div>
@@ -405,8 +407,21 @@ Fax: +1 (0) 000 0000 002</p>
   <script src="assets/theme/js/script.js"></script>
   <script src="assets/mobirise-gallery/player.min.js"></script>
   <script src="assets/mobirise-gallery/script.js"></script>
+  <script >
 
-
+function initMap() {
+  // The location of Uluru
+  var uluru = {lat: -25.344, lng: 131.036};
+  // The map, centered at Uluru
+  var map = new google.maps.Map(
+      document.getElementById('map'), {zoom: 4, center: uluru});
+  // The marker, positioned at Uluru
+  var marker = new google.maps.Marker({position: uluru, map: map});
+}
+    </script>
+     <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARD5Gyx77OqXLt_aX3GzzqVd68iX1gamY&callback=initMap">
+    </script>
   <input name="animation" type="hidden">
   </body>
 </html>
