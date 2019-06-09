@@ -379,7 +379,7 @@ Fax: +1 +1 289 660 8666</p>
             <div class="col-xs-12 col-md-6">
                 <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
                 <div id="map">
-                <iframe <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7468.4840640647535!2d-79.02835943392569!3d43.85010959839869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4dfdfcc7cb8f7%3A0xc33c18fa74befe0c!2s66+Harwood+Ave+S%2C+Ajax%2C+ON+L1S+2H6!5e0!3m2!1sen!2sca!4v1552491393630" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7468.4840640647535!2d-79.02835943392569!3d43.85010959839869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4dfdfcc7cb8f7%3A0xc33c18fa74befe0c!2s66+Harwood+Ave+S%2C+Ajax%2C+ON+L1S+2H6!5e0!3m2!1sen!2sca!4v1552491393630" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             </div>
         </div>
