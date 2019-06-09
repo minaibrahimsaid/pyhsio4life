@@ -297,7 +297,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
                         </ul>
                         </div>
                         <div class="mbr-author card-footer">
-                            <div class="mbr-author-img"><img src="assets/images/face3.jpg" class="img-circle"></div>
+                            <div class="mbr-author-img"><img src="assets/images/face.jpg" class="img-circle"></div>
                             <div class="mbr-author-name">Nivirt Tadrous</div>
                             <small class="mbr-author-desc">physiotherapist</small>
                         </div>
@@ -319,7 +319,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
                         </ul>
                         </div>
                         <div class="mbr-author card-footer">
-                            <div class="mbr-author-img"><img src="assets/images/face1.jpg" class="img-circle"></div>
+                            <!-- <div class="mbr-author-img"><img src="assets/images/" class="img-circle"></div> -->
                             <div class="mbr-author-name">Dina Soliman</div>
                             <small class="mbr-author-desc">physiotherapist</small>
                         </div>
