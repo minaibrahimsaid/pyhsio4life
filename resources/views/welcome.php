@@ -68,7 +68,7 @@
                     <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
-                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg);">
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/alternative-medicine-1327808-2000x1328.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
                             <div class="container-slide container">
@@ -76,13 +76,13 @@
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-2 text-xs-center">
                                         <h2 class="mbr-section-title display-1">physio 4 life</h2>
-                                        <p class="mbr-section-lead lead">We do not add years to life but life to year<br> <i class="fas fa-circle 2x" style="color:green"></i> online<br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                        <p class="mbr-section-lead lead">We do not add years to life but life to year<br> <i class="fas fa-circle 2x" style="color:green"></i> online<br><i class="fas fa-phone-alt"></i> +1 289 660 7666<br></p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/alternative-medicine-1327808-2000x1328.jpg);">
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
@@ -90,7 +90,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-1">
                                         <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
-                                        <p class="mbr-section-lead lead"> <i class="fas fa-circle 2x" style="color:green"></i> online<br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                        <p class="mbr-section-lead lead"> <i class="fas fa-circle 2x" style="color:green"></i> online<br><i class="fas fa-phone-alt"></i> +1 289 660 7666<br></p>
 
 
                                     </div>
@@ -368,18 +368,19 @@ Physiotherapy does not involve medications in treating conditions affecting your
         <div class="row">
             <div class="mbr-footer-content col-xs-12 col-md-3">
                 <p><strong>Address</strong><br>
-1234 Street Name<br>
-City, AA 99999<br><br><br>
+66 Harwood Ave S.<br>
+Ajax, ON LIS 2H6<br><br><br>
 <strong>Contacts</strong><br>
 Email: support@mobirise.com<br>
-Phone: +1 (0) 000 0000 001<br>
-Fax: +1 (0) 000 0000 002</p>
+Phone: +1 289 660 7666<br>
+Fax: +1 +1 289 660 8666</p>
             </div>
             <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> </ul></div>
             <div class="col-xs-12 col-md-6">
                 <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
-                <div id="map"></div>
-
+                <div id="map">
+                <iframe <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7468.4840640647535!2d-79.02835943392569!3d43.85010959839869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4dfdfcc7cb8f7%3A0xc33c18fa74befe0c!2s66+Harwood+Ave+S%2C+Ajax%2C+ON+L1S+2H6!5e0!3m2!1sen!2sca!4v1552491393630" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
             </div>
         </div>
     </div>
@@ -392,6 +393,12 @@ Fax: +1 (0) 000 0000 002</p>
     </div>
 </footer>
 
+<style>
+  #map {
+        height: 200px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+</style>
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
@@ -407,21 +414,6 @@ Fax: +1 (0) 000 0000 002</p>
   <script src="assets/theme/js/script.js"></script>
   <script src="assets/mobirise-gallery/player.min.js"></script>
   <script src="assets/mobirise-gallery/script.js"></script>
-  <script >
-
-function initMap() {
-  // The location of Uluru
-  var uluru = {lat: -25.344, lng: 131.036};
-  // The map, centered at Uluru
-  var map = new google.maps.Map(
-      document.getElementById('map'), {zoom: 4, center: uluru});
-  // The marker, positioned at Uluru
-  var marker = new google.maps.Marker({position: uluru, map: map});
-}
-    </script>
-     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARD5Gyx77OqXLt_aX3GzzqVd68iX1gamY&callback=initMap">
-    </script>
   <input name="animation" type="hidden">
   </body>
 </html>
