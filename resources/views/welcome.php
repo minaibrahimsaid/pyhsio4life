@@ -46,7 +46,8 @@
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="/">home</a></li><li class="nav-item"><a class="nav-link link" href="/services">services</a></li><li class="nav-item"><a class="nav-link link" href="/contact-us">Contact Us</a></li><li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li><li class="nav-item"><a class="nav-link link" href="/gallery">Gallery</a></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="/">home</a></li><li class="nav-item"><a class="nav-link link" href="/services">services</a></li><li class="nav-item"><a class="nav-link link" href="/contact-us">Contact Us</a></li><li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li><li class="nav-item"><a class="nav-link link" href="/gallery">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link link" href="/about-us">About Us</a></li></ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
@@ -67,7 +68,7 @@
                     <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
-                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/alternative-medicine-1327808-2000x1328.jpg);">
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/massage-2722936-2000x1332.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
                             <div class="container-slide container">
@@ -81,7 +82,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg);">
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/3.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
@@ -137,7 +138,7 @@
 
 
               <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
-                  <h3 class="mbr-section-title display-2">What is physiotherapy ?</h3>
+                  <h3 class="mbr-section-title display-3">What is physiotherapy ?</h3>
                   <div class="lead">
 
                     <p>
@@ -163,7 +164,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
 
 
               <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
-                  <h3 class="mbr-section-title display-2">Why is Physiotherapy important?</h3>
+                  <h3 class="mbr-section-title display-3">Why is Physiotherapy important?</h3>
                   <div class="lead">
 
                     <p>Physiotherapy helps people of all ages to restore their activity, strength, and motion following an injury such as sports injury, motor vehicle accident, slip and fall and work-related injury or surgery. Physiotherapy focuses on removing the cause of the problem as opposed to superficially treating the symptoms. the results are often more permanent with less chance of the disorder returning. It also provides lasting relief from pain.</p>
@@ -244,18 +245,68 @@ Physiotherapy does not involve medications in treating conditions affecting your
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h3 class="mbr-section-title display-2">What problems do physiotherapists treat?&nbsp;</h3>
+                <h3 class="mbr-section-title display-4">What problems do physiotherapists treat?&nbsp;</h3>
 
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section article mbr-section__container" id="content1-s" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section article mbr-section__container" id="content6-q" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 lead"><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href="http://google.com/">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p></div>
+            <div class="col-xs-12 col-md-6 lead">
+            <ul>
+            <li>
+            <em>Joints and Muscles pain &nbsp;
+            </em>
+            </li>
+            <li>
+            <em>
+            Back and neck pain.
+            </em>
+            </li>
+            <li>
+            <em>
+            Sciatica.
+            </em>
+            </li>
+            <li>
+            <em>
+            Disc prolapse.
+            </em>
+            </li>
+            <li>
+            <em>Frozen shoulder.
+            </em>
+            </li>
+
+            <li><em>Sporting injuries</em>
+            <ul>
+            <li><em>Ankle & knee injuries</em></li>
+            <li><em>Shin splints / heel pain</em></li>
+            <li><em>Ankle sprains</em></li>
+            <li><em>Soft Tissue Injury</em></li>
+            </ul>
+            </li>
+            </ul>
+            </div>
+            <div class="col-xs-12 col-md-6 lead">
+            <ul>
+            <li><em>Pelvic issues, such as bladder and bowel problems related to childbirth.</em></li>
+            <li><em>Posture and alignment problems, including symptomatic scoliosis.</em></li>
+            <li><em>Problems related to Motor Vehicle Accident such as Whiplash Associated Disorder (WAD)</em></li>
+            <li><em>Work related injuries</em></li>
+            <li><em>Post operative Rehabilitation</em>
+            <ul>
+            <li><em>Joint Arthroplasty (replacement) Hip, Knee, Shoulder, Ankle</em></li>
+            <li><em>Arthroscopic surgery</em></li>
+            <li><em>Fracture fixation and orthopaedic surgery</em></li>
+            <li><em>Spinal operations including  discectomy and fusions</em></li>
+            </ul>
+            </li>
+            </ul></div>
         </div>
     </div>
 
@@ -374,7 +425,9 @@ Email: theomaged1@yahoo.com<br>
 Phone: +1 289 660 7666<br>
 Fax: +1 +1 289 660 8666</p>
             </div>
-            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> </ul></div>
+            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> 
+            <li><a class="text-white" href="/about-us">About Us</a></li> 
+            </ul></div>
             <div class="col-xs-12 col-md-6">
                 <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
                 <div id="map">

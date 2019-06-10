@@ -39,4 +39,9 @@ class WelcomeController extends Controller
     {
         return view('gallery');
     }
+
+    public function aboutus()
+    {
+        return view('aboutus');
+    }
 }

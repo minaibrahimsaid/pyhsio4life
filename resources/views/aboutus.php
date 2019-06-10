@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -60,75 +59,106 @@
     </nav>
 
 </section>
+<section class="mbr-section" id="testimonials1-u" style="background-color: rgb(255, 255, 255); padding-top: 10rem; padding-bottom: 0px;">
 
 
 
+        <div class="mbr-section mbr-section__container mbr-section__container--middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-xs-center">
+                        <h3 class="mbr-section-title display-2">Our Facility&nbsp;</h3>
 
-<section class="engine"></section><section class="mbr-section mbr-after-navbar" id="form1-x" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
-    
-    <div class="mbr-section mbr-section__container mbr-section__container--middle">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-xs-center">
-                    <h3 class="mbr-section-title display-2">CONTACT FORM</h3>
-                    <small class="mbr-section-subtitle">Shape your future web project with sharp design and refine coded functions.</small>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="mbr-section mbr-section-nopadding">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-lg-10 col-lg-offset-1" data-form-type="formoid">
-
-
-                    <div data-form-alert="true">
-                        <div hidden="" data-form-alert-success="true" class="alert alert-form alert-success text-xs-center">Thanks for filling out form!</div>
                     </div>
-
-
-                    <form action="/contactussubmit" method="post" data-form-title="CONTACT FORM">
-
-                        <input type="hidden" value="KiEHc9gxwm1lopCsmozqaw7WAT0DDNukedzIpSSewEZgq3VpRoO3+K/Z4cMWAETnG1DgSc4Ncu1HgdTQRrWO2QdfpNtUWqHy3wzklwKZCH76Ikgjl8bz/qRugOP+zbub" data-form-email="true">
-
-                        <div class="row row-sm-offset">
-
-                            <div class="col-xs-12 col-md-4">
-                                <div class="form-group">
-                                    <label class="form-control-label" for="form1-x-name">Name<span class="form-asterisk">*</span></label>
-                                    <input type="text" class="form-control" name="name" required="" data-form-field="Name" id="form1-x-name">
-                                </div>
-                            </div>
-
-                            <div class="col-xs-12 col-md-4">
-                                <div class="form-group">
-                                    <label class="form-control-label" for="form1-x-email">Email<span class="form-asterisk">*</span></label>
-                                    <input type="email" class="form-control" name="email" required="" data-form-field="Email" id="form1-x-email">
-                                </div>
-                            </div>
-
-                            <div class="col-xs-12 col-md-4">
-                                <div class="form-group">
-                                    <label class="form-control-label" for="form1-x-phone">Phone</label>
-                                    <input type="tel" class="form-control" name="phone" data-form-field="Phone" id="form1-x-phone">
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div class="form-group">
-                            <label class="form-control-label" for="form1-x-message">Message</label>
-                            <textarea class="form-control" name="message" rows="7" data-form-field="Message" id="form1-x-message"></textarea>
-                        </div>
-
-                        <div><button type="submit" class="btn btn-primary">CONTACT US</button></div>
-
-                    </form>
                 </div>
             </div>
         </div>
-    </div>
+
+
 </section>
+
+<section class="mbr-section article mbr-section__container" id="content1-s" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lead"><p>We have recently opened our new physiotherapy premises at
+66 Harwood Ave. Ajax It is located across the street from Ajax library. Parking is available.</p></div>
+        </div>
+    </div>
+
+</section>
+<section class="mbr-section" id="testimonials1-u" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
+
+
+
+        <div class="mbr-section mbr-section__container mbr-section__container--middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-xs-center">
+                        <h3 class="mbr-section-title display-2">Our Staf&nbsp;</h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    <div class="mbr-testimonials mbr-section mbr-section-nopadding">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xs-12 col-md-6">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                        <ul>
+                        <li> Nivirt has been practicing physiotherapy since 1993, over 25 years experience in the field of physiotherapy. Nivirt is a  registered physiotherapist in Ontario.
+                        </li>
+                        <li>She has graduated from Faculty of Physical Therapy, Cairo University, Egypt 1993 and MSc degree of physical therapy from the same university in 2002 . </li>
+                        <li>She became a registered physiotherapist in Canada in 2017, and she had been working in 2 private clinics, Physiocare and Physiocan sand she has excellent Google reviews.</li>
+                        <li>She has had intense additional courses in manual therapy, sports medicine, pain control and Acupuncture. She has experience working in both private and hospitals in Egypt. </li>
+                        <li>She is a member of college of physiotherapist Ontario and Canadian Physiotherapy Association (CPA)</li>
+                        <li>She enjoys treating musculoskeletal injuries using the most advanced techniques in physiotherapy and takes a holistic approach to care. </li>
+                        </ul>
+                        </div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/face.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name">Nivirt Tadrous</div>
+                            <small class="mbr-author-desc">physiotherapist</small>
+                        </div>
+                    </div>
+                </div><div class="col-xs-12 col-md-6">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                        <ul>
+                        <li> Dina received a Bachelor of Physical Therapy from Cairo University in 1999, and in 2008 she completed a Master of Physical Therapy from Cairo University. </li>
+                        <li>She has completed additional courses in musculoskeletal, cardio respiratory, and neurological physical therapy in Canada through the Ontario internationally educated physical therapy Bridging Program at University of Toronto </li>
+                        <li>She completed advanced manual therapy in upper limb conditions, and lumbo-pelvic conditions. </li>
+                        <li> She has over three years experience in pelvic health.</li>
+                        <li>She completed courses for patients who suffer from loss of bladder and bowel control, prolapse, constipation, and pelvic pain.</li>
+                        <li> She has completed a special course for treating rectus diastasis from Bellies Inc., and has a real passion for treating pregnant women and post-natal patients.</li>
+                        <li> She taken special courses in treating chronic pelvic pain and visceral release for bladder dysfunction. Recently, she completed oncology and female organs, as well lymphatic drainage for the pelvic region</li>
+                        <li> She is a member of the Women Health Division and Orthopedic Division of the Canadian Physiotherapy Association.</li>
+                        <li> She enjoys working out, yoga, and meditation. She loves singing and was an opera singer at the Cairo Opera House.</li>
+                        </ul>
+                        </div>
+                        <div class="mbr-author card-footer">
+                            <!-- <div class="mbr-author-img"><img src="assets/images/" class="img-circle"></div> -->
+                            <div class="mbr-author-name">Dina Soliman</div>
+                            <small class="mbr-author-desc">physiotherapist</small>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
 
 <section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b" style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
 
@@ -170,7 +200,6 @@ Fax: +1 +1 289 660 8666</p>
        }
 </style>
 
-
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
@@ -185,11 +214,6 @@ Fax: +1 +1 289 660 8666</p>
   <script src="assets/theme/js/script.js"></script>
   <script src="assets/mobirise-gallery/player.min.js"></script>
   <script src="assets/mobirise-gallery/script.js"></script>
-
-
   <input name="animation" type="hidden">
   </body>
 </html>
-
-
-

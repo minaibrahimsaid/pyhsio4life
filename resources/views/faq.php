@@ -46,7 +46,8 @@
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="/">home</a></li><li class="nav-item"><a class="nav-link link" href="/services">services</a></li><li class="nav-item"><a class="nav-link link" href="/contact-us">Contact Us</a></li><li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li><li class="nav-item"><a class="nav-link link" href="/gallery">Gallery</a></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="/">home</a></li><li class="nav-item"><a class="nav-link link" href="/services">services</a></li><li class="nav-item"><a class="nav-link link" href="/contact-us">Contact Us</a></li><li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li><li class="nav-item"><a class="nav-link link" href="/gallery">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link link" href="/about-us">About Us</a></li></ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
@@ -58,6 +59,7 @@
     </nav>
 
 </section>
+
 
 <section class="engine"><a rel="external" href="/">physio 4 life</a></section><section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
     <div>
@@ -304,7 +306,9 @@ Email: theomaged1@yahoo.com<br>
 Phone: +1 289 660 7666<br>
 Fax: +1 +1 289 660 8666</p>
             </div>
-            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> </ul></div>
+            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> 
+            <li><a class="text-white" href="/about-us">About Us</a></li> 
+            </ul></div>
             <div class="col-xs-12 col-md-6">
                 <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
                 <div id="map">
