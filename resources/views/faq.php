@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- Site made with Mobirise Website Builder v3.12.1, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v3.12.1, mobirise.com">
+  <meta name="generator" content="physio 4 life">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-  <meta name="description" content="">
+  <meta name="description" content=" physio 4 life">
   <title>physio 4 life</title>
   <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
@@ -301,7 +300,7 @@ It is longer than the subsequent visit since the first appointment is more of a 
 66 Harwood Ave S.<br>
 Ajax, ON LIS 2H6<br><br><br>
 <strong>Contacts</strong><br>
-Email: support@mobirise.com<br>
+Email: theomaged1@yahoo.com<br>
 Phone: +1 289 660 7666<br>
 Fax: +1 +1 289 660 8666</p>
             </div>

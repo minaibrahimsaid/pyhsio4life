@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- Site made with Mobirise Website Builder v3.12.1, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v3.12.1, mobirise.com">
+  <meta name="generator" content="physio 4 life">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-  <meta name="description" content="Website Creator Description">
+  <meta name="description" content=" physio 4 life">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
@@ -57,7 +56,7 @@
 
 </section>
 
-<section class="engine"><a rel="external" href="https://mobirise.com">Web Page Creator</a></section><section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-h" style="background-image: url(assets/images/physical-therapy-1198344-960-2000x1500.jpg);">
+<section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-h" style="background-image: url(assets/images/physical-therapy-1198344-960-2000x1500.jpg);">
 
     <div class="mbr-overlay" style="opacity: 0; background-color: rgb(239, 239, 239);"></div>
 

@@ -2,13 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- Site made with Mobirise Website Builder v3.12.1, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v3.12.1, mobirise.com">
+  <meta name="generator" content="physio 4 life">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-  <meta name="description" content="">
+  <meta name="description" content=" physio 4 life">
   <title>physio 4 life</title>
   <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
@@ -63,7 +62,7 @@
 
 
 
-<section class="engine"><a rel="external" href="https://mobirise.com">Web Site Builder</a></section><section class="mbr-section mbr-after-navbar" id="form1-x" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
+<section class="engine"></section><section class="mbr-section mbr-after-navbar" id="form1-x" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
     
     <div class="mbr-section mbr-section__container mbr-section__container--middle">
         <div class="container">
@@ -86,7 +85,7 @@
                     </div>
 
 
-                    <form action="https://mobirise.com/" method="post" data-form-title="CONTACT FORM">
+                    <form action="/contactussubmit" method="post" data-form-title="CONTACT FORM">
 
                         <input type="hidden" value="KiEHc9gxwm1lopCsmozqaw7WAT0DDNukedzIpSSewEZgq3VpRoO3+K/Z4cMWAETnG1DgSc4Ncu1HgdTQRrWO2QdfpNtUWqHy3wzklwKZCH76Ikgjl8bz/qRugOP+zbub" data-form-email="true">
 
@@ -138,7 +137,7 @@
 66 Harwood Ave S.<br>
 Ajax, ON LIS 2H6<br><br><br>
 <strong>Contacts</strong><br>
-Email: support@mobirise.com<br>
+Email: theomaged1@yahoo.com<br>
 Phone: +1 289 660 7666<br>
 Fax: +1 +1 289 660 8666</p>
             </div>
