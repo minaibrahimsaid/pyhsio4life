@@ -15,3 +15,4 @@ $router->get('/', 'WelcomeController@welcome');
 $router->get('/services', 'WelcomeController@services');
 $router->get('/contact-us', 'WelcomeController@contactus');
 $router->get('/faq', 'WelcomeController@faq');
+$router->get('/gallery', 'WelcomeController@gallery');

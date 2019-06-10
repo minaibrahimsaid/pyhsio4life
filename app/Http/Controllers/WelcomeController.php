@@ -33,4 +33,10 @@ class WelcomeController extends Controller
     {
         return view('faq');
     }
+
+
+    public function gallery()
+    {
+        return view('gallery');
+    }
 }
