@@ -46,8 +46,8 @@
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="/">home</a></li><li class="nav-item"><a class="nav-link link" href="/services">services</a></li><li class="nav-item"><a class="nav-link link" href="/contact-us">Contact Us</a></li><li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li><li class="nav-item"><a class="nav-link link" href="/gallery">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link link" href="/about-us">About Us</a></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="/">home</a></li><li class="nav-item"><a class="nav-link link" href="/about-us">About Us</a></li><li class="nav-item"><a class="nav-link link" href="/services">services</a></li><li class="nav-item"><a class="nav-link link" href="/contact-us">Contact Us</a></li><li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li><li class="nav-item"><a class="nav-link link" href="/gallery">Gallery</a></li>
+                    </ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
@@ -307,6 +307,15 @@ Physiotherapy does not involve medications in treating conditions affecting your
             </ul>
             </li>
             </ul></div>
+        </div>
+    </div>
+
+</section>
+<section class="mbr-section article mbr-section__container" id="content2-j" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12"><blockquote>"&nbsp;If you are in pain or you know someone in pain, physiotherapy is the best choice.&nbsp;"</blockquote></div>
         </div>
     </div>
 
