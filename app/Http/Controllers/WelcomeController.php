@@ -44,4 +44,9 @@ class WelcomeController extends Controller
     {
         return view('aboutus');
     }
+
+    public function booking()
+    {
+        return view('booking');
+    }
 }
