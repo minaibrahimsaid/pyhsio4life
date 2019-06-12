@@ -108,10 +108,10 @@
             <div class="row">
 
                 <div class="col-xs-12 col-md-6">
-                <div class="mbr-author card-footer">
+                <div class="mbr-author card-footer" style="text-align: center;">
                             <div class="mbr-author-img"><img src="assets/images/face.jpg" class="img-circle"></div>
                             <div class="mbr-author-name">Nivirt Tadrous</div>
-                            <small class="mbr-author-desc">physiotherapist</small>
+                            <small class="mbr-author-desc"> registered physiotherapist</small>
                         </div>
                     <div class="mbr-testimonial card mbr-testimonial-lg">
                         <div class="card-block">
@@ -128,7 +128,11 @@
                         
                     </div>
                 </div><div class="col-xs-12 col-md-6">
-
+                <div class="mbr-author card-footer" style="text-align: center;">
+                            <!-- <div class="mbr-author-img"><img src="assets/images/" class="img-circle"></div> -->
+                            <div class="mbr-author-name">Dina Soliman</div>
+                            <small class="mbr-author-desc">registered physiotherapist</small>
+                        </div>
                     <div class="mbr-testimonial card mbr-testimonial-lg">
                         <div class="card-block">
                         <ul>
@@ -142,11 +146,6 @@
                         <li> She is a member of the Women Health Division and Orthopedic Division of the Canadian Physiotherapy Association.</li>
                         <li> She enjoys working out, yoga, and meditation. She loves singing and was an opera singer at the Cairo Opera House.</li>
                         </ul>
-                        </div>
-                        <div class="mbr-author card-footer">
-                            <!-- <div class="mbr-author-img"><img src="assets/images/" class="img-circle"></div> -->
-                            <div class="mbr-author-name">Dina Soliman</div>
-                            <small class="mbr-author-desc">physiotherapist</small>
                         </div>
                     </div>
                 </div>
