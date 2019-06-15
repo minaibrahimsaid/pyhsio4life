@@ -18,3 +18,4 @@ $router->get('/faq', 'WelcomeController@faq');
 $router->get('/gallery', 'WelcomeController@gallery');
 $router->get('/about-us', 'WelcomeController@aboutus');
 $router->get('/booking', 'WelcomeController@booking');
+$router->post('/booking', 'WelcomeController@addbooking');

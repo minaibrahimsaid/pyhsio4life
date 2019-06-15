@@ -84,7 +84,7 @@
                         <div class="wizard-content">
                             <h1>Book an Appointment</h1>
                             <div class="booking-step">
-                                <form method="POST" novalidate="">
+                                <form method="POST"  action="/booking">
                                     <div class="form-container">
                                         <div class="row">
                                             <div class="col-sm-6">
@@ -93,7 +93,7 @@
                                                         <div>Preferred Appointment Date <span class="star">*</span>
                                                         </div>
                                                     </label>
-                                                    <div class="DayPickerInput"><input type="text" id="date-picker-input-1" class="form-control"/></div>
+                                                    <div class="DayPickerInput"><input type="text" id="date-picker-input-1" class="form-control" name="date"/></div>
                                                 </div>
                                             </div>
                                             <div class="col-sm-6">
@@ -102,8 +102,8 @@
                                                         <div>Preferred Appointment Time <span class="star">*</span>
                                                         </div>
                                                     </label><select id="preferredAppointmentTime"
-                                                        class="form-control preferredAppointmentTime" required="">
-                                                        <option disabled="" value="">--- Select a time of day ---
+                                                        class="form-control preferredAppointmentTime" required="" name="time">
+                                                        <option disabled="" >--- Select a time of day ---
                                                         </option>
                                                         <option value="morning">Morning (8 AM - 11 AM)</option>
                                                         <option value="afternoon">Afternoon (12 PM - 4 PM)</option>
@@ -117,15 +117,15 @@
                                                 <div class="form-group firstName-group"><label for="firstName">
                                                         <div>First Name <span class="star">*</span></div>
                                                     </label><input id="firstName" type="text"
-                                                        class="form-control firstName" required=""
-                                                        placeholder="First Name"></div>
+                                                        class="form-control firstName" required
+                                                        placeholder="First Name" name="f_name"></div>
                                             </div>
                                             <div class="col-sm-6">
                                                 <div class="form-group lastName-group"><label for="lastName">
                                                         <div>Last Name <span class="star">*</span></div>
                                                     </label><input id="lastName" type="text"
-                                                        class="form-control lastName" required=""
-                                                        placeholder="Last Name"></div>
+                                                        class="form-control lastName" required
+                                                        placeholder="Last Name" name="l_name"></div>
                                             </div>
                                         </div>
                                         <div class="row">
@@ -133,33 +133,28 @@
                                                 <div class="form-group emailAddress-group"><label for="emailAddress">
                                                         <div>Email Address <span class="star">*</span></div>
                                                     </label><input id="emailAddress" type="email"
-                                                        class="form-control emailAddress" required=""
-                                                        placeholder="Email Address"></div>
+                                                        class="form-control emailAddress" required
+                                                        placeholder="Email Address" name="email"></div>
                                             </div>
                                             <div class="col-sm-6">
                                                 <div class="form-group phoneNumber-group"><label for="phoneNumber">
                                                         <div>Phone Number <span class="star">*</span></div>
                                                     </label><input value="" id="phoneNumber" type="tel"
-                                                        class="form-control phoneNumber" required=""
-                                                        placeholder="e.g. (500) 444-3333"></div>
+                                                        class="form-control phoneNumber" required
+                                                        placeholder="e.g. (500) 444-3333" name="phone"></div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12">
                                                 <div class="form-group message-group"><label for="message">Tell us about
                                                         your condition</label><textarea id="message"
-                                                        class="form-control message"></textarea></div>
+                                                        class="form-control message" name="condition"></textarea></div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12">
                                                 <div class="form-group submit-button-group"><button
-                                                        class="btn btn-primary" type="submit" disabled="">Book Now<div
-                                                            class="tiles">
-                                                            <div class="tile tile1"></div>
-                                                            <div class="tile tile2"></div>
-                                                            <div class="tile tile3"></div>
-                                                        </div></button></div>
+                                                        class="btn btn-primary" type="submit">Book Now</button></div>
                                             </div>
                                         </div>
                                     </div>
@@ -262,7 +257,14 @@
                 }
 			})
 			.datepicker('widget').wrap('<div class="ll-skin-lugo"/>');
-		});
+        });
+        // $('.form-control').change(function() {
+        //     if($('input').val() == ''){
+        //         alert('Input can not be left blank');
+        //     }
+        //     // console.log("SSS"  , $("input:empty") , $("#phoneNumber").val() )
+        // });
+
     </script>
 </body>
 
