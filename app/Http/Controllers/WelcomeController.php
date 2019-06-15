@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
+use Illuminate\Http\RedirectResponse;
 
 
 class WelcomeController extends Controller
@@ -55,13 +56,11 @@ class WelcomeController extends Controller
 
     public function addbooking(Request $request)
     {
-        $to_name = 'mina7esh@gmail.com';
         $to_email ='mina7esh@gmail.com';
-        Mail::send('emails.mail', $request->all(), function($message) use ($to_name, $to_email) {
-        $message->to($to_email, $to_name)
-                ->subject('Artisans Web Testing Mail');
-        $message->from('physio4lifewebsite@gmail.com','Artisans Web');
-        
+        Mail::send('emails.mail', $request->all(), function($message) use ($to_email) {
+        $message->to($to_email)->subject('new appointment');
+        $message->from('physio4lifewebsite@gmail.com','Physio4life');
     });
-    }
+    return redirect()->route('booking');
+  }
 }

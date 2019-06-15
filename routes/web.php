@@ -17,5 +17,7 @@ $router->get('/contact-us', 'WelcomeController@contactus');
 $router->get('/faq', 'WelcomeController@faq');
 $router->get('/gallery', 'WelcomeController@gallery');
 $router->get('/about-us', 'WelcomeController@aboutus');
-$router->get('/booking', 'WelcomeController@booking');
+$router->get('/booking', [
+    'as' => 'booking', 'uses' => 'WelcomeController@booking'
+] );
 $router->post('/booking', 'WelcomeController@addbooking');
