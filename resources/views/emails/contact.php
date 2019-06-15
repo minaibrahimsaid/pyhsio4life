@@ -405,15 +405,17 @@
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
 <div style="color:#132F40;font-family:'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif;line-height:120%;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
 <div style="font-size: 12px; line-height: 14px; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #132F40;">
-<p style="font-size: 14px; line-height: 26px; margin: 0;"><span style="font-size: 22px;"> New Appointment</span></p>
+<p style="font-size: 14px; line-height: 26px; margin: 0;"><span style="font-size: 22px;"> New Message</span></p>
 </div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 5px; padding-bottom: 30px; font-family: Arial, sans-serif"><![endif]-->
 <div style="color:#555555;font-family:'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif;line-height:150%;padding-top:5px;padding-right:10px;padding-bottom:30px;padding-left:10px;">
 <div style="font-size: 12px; line-height: 18px; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #555555;">
-<p style="font-size: 14px; line-height: 21px; margin: 0;"> <?php echo $f_name; ?>  <?php echo $l_name; ?>  booked appointment at <?php echo $time; ?> in <?php echo $date; ?>  and his/her phone is <?php echo $phone; ?> and the email 
-<?php echo $email;  ?> and his/her condition is <?php echo $condition;  ?>
+<p style="font-size: 14px; line-height: 21px; margin: 0;"> <?php echo $name; ?>   sent you a message   <?php if(isset($phone)){
+echo 'and his/her phone is '.$phone;
+} ?> and the email 
+<?php echo $email;  ?> and his/her message is <p> <?php echo $note;  ?><p>
  </p>
 </div>
 </div>
@@ -426,7 +428,7 @@
 <div style="font-size: 12px; line-height: 14px; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #555555;">
 <p style="font-size: 14px; line-height: 19px; margin: 0;"><span style="font-size: 16px;">Thanks You</span><br/><span style="font-size: 16px; line-height: 19px;"><span style="color: #ffbf00; font-size: 16px; line-height: 19px;"><strong></strong></span></span></p>
 </div>
-</div>Thanks so much for joining our site!
+</div>
 <!--[if mso]></td></tr></table><![endif]-->
 <!--[if (!mso)&(!IE)]><!-->
 </div>

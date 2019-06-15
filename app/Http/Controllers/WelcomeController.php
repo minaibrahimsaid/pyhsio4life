@@ -1,10 +1,9 @@
 <?php
 
 namespace App\Http\Controllers;
+
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Illuminate\Http\RedirectResponse;
-
 
 class WelcomeController extends Controller
 {
@@ -38,7 +37,6 @@ class WelcomeController extends Controller
         return view('faq');
     }
 
-
     public function gallery()
     {
         return view('gallery');
@@ -56,11 +54,23 @@ class WelcomeController extends Controller
 
     public function addbooking(Request $request)
     {
-        $to_email ='mina7esh@gmail.com';
-        Mail::send('emails.mail', $request->all(), function($message) use ($to_email) {
-        $message->to($to_email)->subject('new appointment');
-        $message->from('physio4lifewebsite@gmail.com','Physio4life');
-    });
-    return redirect()->route('booking');
-  }
+        $to_email = 'theomaged1@yahoo.com';
+        Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
+            $message->to($to_email)->subject('new appointment');
+            $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
+        });
+        return redirect()->route('booking');
+    }
+
+    public function contactusmail(Request $request)
+    {
+        // dd($request->all());
+        // $to_email = 'theomaged1@yahoo.com';
+        $to_email="mina7esh@gmail.com";
+        Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
+            $message->to($to_email)->subject('new message');
+            $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
+        });
+        return redirect()->route('contact-us');
+    }
 }
