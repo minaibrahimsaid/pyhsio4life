@@ -54,7 +54,7 @@ class WelcomeController extends Controller
 
     public function addbooking(Request $request)
     {
-        $to_email = 'theomaged1@yahoo.com';
+        $to_email = 'physio4lifeajax@gmail.com';
         Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
             $message->to($to_email)->subject('new appointment');
             $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
@@ -66,7 +66,7 @@ class WelcomeController extends Controller
     {
         // dd($request->all());
         // $to_email = 'theomaged1@yahoo.com';
-        $to_email="mina7esh@gmail.com";
+        $to_email="physio4lifeajax@gmail.com";
         Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
             $message->to($to_email)->subject('new message');
             $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
