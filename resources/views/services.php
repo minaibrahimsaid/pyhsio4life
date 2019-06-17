@@ -122,6 +122,8 @@
           <li>Passive stretching </li>
           <li> Manual muscle relaxation techniques</li>
           <li> Mobilisations of the nervous system (Neural Flossing).</li>
+          <div class="mbr-figure service-image"><img src="assets/images/2.jpeg"></div>
+
           </ul>
             </div>
         </div>
@@ -308,6 +310,8 @@ In contrast to surgical lasers, the therapeutic lasers gently pass through your 
         Acupuncture is a branch of traditional Chinese medicine. It involves inserting ultra-thin, sterilised, disposable needles at specific acupuncture points to balance the body’s Chi
 In Chinese medicine Qi (or Chi) refers to the flow of vital energy in the body through channels or meridians. If a problem occurs, energy slows down or becomes stagnated. By stimulating appropriate points on the body, acupuncture is thought to release these blockages and promote healing.
 Acupuncture in Physiotherapy is used together with more traditional, conventional physiotherapy treatments such as manual therapy and exercise.
+<div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
+
         </ul>
         </div>
       </div>
@@ -473,6 +477,8 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
         <li>Stimulating or relaxing muscle</li>
         <li>Sports rehabilitation</li>
 The physiotherapist will use different taping techniques to achieve the desired results.
+<div class="mbr-figure service-image"><img src="assets/images/5.jpeg"></div>
+
         </ul>
         </div>
       </div>
@@ -524,6 +530,7 @@ The physiotherapist will use different taping techniques to achieve the desired 
         <li> Post natal conditions – pelvic floor weakness, neck, back, vaginal, rectum , pubic bone or  perineal pain, Scarring from c- section or episiotomy.</li>
         <li> Pelvic floor and abdominal muscle weakness – Including poor awareness of how to exercise these muscles correctly or effectively.</li>
 Physiotherapy for these conditions includes a confidential and private assessment of the pelvic floor and abdominal muscles, bladder and bowel function. Your physiotherapist will get a good understanding of various factors that affect your lifestyle and then design a treatment program to suit your specific condition and lifestyle.
+<div class="mbr-figure service-image"><img src="assets/images/4.jpeg"></div>
         </ul>
         </div>
       </div>
@@ -584,6 +591,10 @@ Fax: +1 +1 289 660 8666</p>
 
 .service-header{
   background-color: blue;
+}
+
+.service-image{
+  padding-right: 20px;
 }
 
 </style>

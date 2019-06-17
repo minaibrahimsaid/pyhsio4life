@@ -77,7 +77,7 @@
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-2 text-xs-center">
                                         <h2 class="mbr-section-title display-1">physio 4 life</h2>
-                                        <p class="mbr-section-lead lead">We do not add years to life but life to year<br> <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a></a><br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                        <p class="mbr-section-lead lead">We do not add years to life but life to years<br> <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a></a><br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
                                     </div>
                                 </div>
                             </div>
