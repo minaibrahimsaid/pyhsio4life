@@ -199,11 +199,6 @@
         <ul>
         Electrotherapy is used by to provide pain relief, and promote healing for problems of the joint and/or muscle.
 
-        </ul>
-        </div>
-      </div>
-    </div>
-
     <div class="card">
       <div class="card-header service-header" id="heading6">
         <h5 class="mb-0">
@@ -294,6 +289,11 @@ In contrast to surgical lasers, the therapeutic lasers gently pass through your 
     </div>
 
 
+        </ul>
+        </div>
+      </div>
+    </div>
+
     <div class="card">
       <div class="card-header service-header" id="heading11">
         <h5 class="mb-0">
@@ -341,9 +341,9 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
     <div class="col-md-6">
 
 
-   
 
-   
+
+
 
     <div class="card">
       <div class="card-header service-header" id="heading13">
@@ -360,12 +360,6 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
         fully functioning state. Based on the initial assessment, the physiotherapist will determine a treatment plan that includes specific exercise program fitted your condition.
         The exercise program may include mobility (range of motion) exercises, flexibility (stretching) exercises, stability, coordination exercises,
          muscle performance (strengthening and endurance ) exercises, balance exercises  and  neuromuscular control( proprioception) exercises.
-        </ul>
-        </div>
-      </div>
-    </div>
-
-
 
     <div class="card">
       <div class="card-header service-header" id="heading14">
@@ -449,6 +443,13 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
         </div>
       </div>
     </div>
+
+        </ul>
+        </div>
+      </div>
+    </div>
+
+
 
 
 
@@ -546,8 +547,8 @@ Email: theomaged1@yahoo.com<br>
 Phone: +1 289 660 7666<br>
 Fax: +1 +1 289 660 8666</p>
             </div>
-            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> 
-            <li><a class="text-white" href="/about-us">About Us</a></li> 
+            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li>
+            <li><a class="text-white" href="/about-us">About Us</a></li>
             </ul></div>
             <div class="col-xs-12 col-md-6">
                 <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
