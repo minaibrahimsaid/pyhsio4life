@@ -326,15 +326,20 @@ Physiotherapy focuses on removing the cause of the problem as opposed to superfi
 
 </section>
 
-<section class="mbr-section mbr-section__container article" id="header3-r" style="background-color: rgb(239, 239, 239); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section article mbr-parallax-background" id="msg-box8-p" style="background-image: url(assets/images/100.jpg); padding-top: 40px; padding-bottom: 40px;">
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
+    </div>
     <div class="container">
         <div class="row">
-            <div class="col-xs-12">
-                <h3 class="mbr-section-title display-4">What problems do physiotherapists treat?&nbsp;</h3>
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-3">What problems do physiotherapists treat?</h3>
+
 
             </div>
         </div>
     </div>
+
 </section>
 
 <section class="mbr-section article mbr-section__container" id="content6-q" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
