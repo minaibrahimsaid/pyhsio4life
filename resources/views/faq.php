@@ -79,7 +79,7 @@
                                         <h2 class="mbr-section-title display-1">physio 4 life</h2>
                                         <p class="mbr-section-lead lead">We do not add years to life but life to years<br>
                                         <div class="online-button">
-                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a>
+                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> Book online </a>
                                         </div>
                                          <br>
                                          <div class="online-button">
@@ -100,7 +100,7 @@
                                         <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
                                         <p class="mbr-section-lead lead">
                                         <div class="online-button">
-                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a>
+                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> Book online </a>
                                         </div>
                                          <br>
                                          <div class="online-button">

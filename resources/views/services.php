@@ -71,7 +71,7 @@
                     <h1 class="mbr-section-title display-1">physio4life</h1>
                     <p class="mbr-section-lead lead">
                     <div class="online-button">
-                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a>
+                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> Book online </a>
                                         </div>
                                          <br>
                                          <div class="online-button">
