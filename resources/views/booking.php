@@ -178,7 +178,7 @@
                         66 Harwood Ave S.<br>
                         Ajax, ON LIS 2H6<br><br><br>
                         <strong>Contacts</strong><br>
-                        Email: theomaged1@yahoo.com<br>
+                        Email: Physio4lifeajax@gmail.com<br>
                         Phone: +1 289 660 7666<br>
                         Fax: +1 +1 289 660 8666</p>
                 </div>

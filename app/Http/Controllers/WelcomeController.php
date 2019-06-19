@@ -65,7 +65,7 @@ class WelcomeController extends Controller
     public function contactusmail(Request $request)
     {
         // dd($request->all());
-        // $to_email = 'theomaged1@yahoo.com';
+        // $to_email = 'Physio4lifeajax@gmail.com';
         $to_email="physio4lifeajax@gmail.com";
         Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
             $message->to($to_email)->subject('new message');
