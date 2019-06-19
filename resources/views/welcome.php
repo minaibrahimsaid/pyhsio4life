@@ -137,7 +137,7 @@
 
 </section>
 
-<section class="mbr-section" id="msg-box5-3" style="background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 40px;">
+<!-- <section class="mbr-section" id="msg-box5-3" style="background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 40px;">
 
 
     <div class="container">
@@ -162,6 +162,44 @@ Physiotherapy does not involve medications in treating conditions affecting your
 
 
               </div>
+            </div>
+        </div>
+    </div>
+
+</section> -->
+
+<section class="mbr-section article mbr-parallax-background" id="msg-box8-p" style="background-image: url(assets/images/88.jpg); padding-top: 40px; padding-bottom: 40px;">
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">What is physiotherapy ?</h3>
+
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content6-q" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-6 lead">
+            <p>
+            Physiotherapy is a healthcare profession involved with diagnosis and treatment of someone who has difficulty moving or performing functional activities because of an injury, health problem or disability.
+</p>
+<br>
+<p>
+Physiotherapy does not involve medications in treating conditions affecting your joint, muscle or nerve issue. Physiotherapy involves thorough evaluation and examination to find the underlying cause of the problem. 
+</p>
+<br>
+
+<p>Based on the results of the evaluation, physiotherapist will create an individualized treatment plan for you, provide lifestyle advice and education to help you get better and stay better.
+</p>
             </div>
         </div>
     </div>
