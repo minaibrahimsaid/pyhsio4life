@@ -206,6 +206,8 @@ Depending on your specific problems and goals, your physiotherapist may employ a
       <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+        <div class="mbr-figure service-image"><img src="assets/images/IMG_5027.jpg"></div>
+
         Electrotherapy is used by to provide pain relief, and promote healing for problems of the joint and/or muscle.
 
     <div class="card">
@@ -269,7 +271,9 @@ Depending on your specific problems and goals, your physiotherapist may employ a
       <div id="collapse9" class="collapse" aria-labelledby="heading9" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
-        High frequency sound waves are used to treat injuries to soft tissues. The sound waves pass through the skin causing the tissues in the affected area to vibrate. Gel is used to assist transmission of the ultrasonic waves. These waves help to improve blood flow to the injured site, increase the breakdown of scar tissue, consequently, decrease pain and speed up the healing process. It also helps in reducing swelling in affected area.
+        <div class="mbr-figure service-image"><img src="assets/images/IMG_5027.jpg"></div>
+
+        <p>High frequency sound waves are used to treat injuries to soft tissues. The sound waves pass through the skin causing the tissues in the affected area to vibrate. Gel is used to assist transmission of the ultrasonic waves. </p><p>These waves help to improve blood flow to the injured site, increase the breakdown of scar tissue, consequently, decrease pain and speed up the healing process. It also helps in reducing swelling in affected area.</p>
         </ul>
         </div>
       </div>
@@ -286,12 +290,18 @@ Depending on your specific problems and goals, your physiotherapist may employ a
       <div id="collapse10" class="collapse" aria-labelledby="heading10" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+        <div class="mbr-figure service-image"><img src="assets/images/IMG_5020.jpg"></div>
+
         LASER stands for Light Amplification by Stimulated Emission of Radiation.   lasers are often referred to as:
           <li>Cold Lasers or Low-Level Laser Therapy (LLLT)</li>
           <li>High Power Laser Therapy (HPLT)</li>
-The Low-Level Laser Therapy utilizes red and near infrared light over areas of injury or wounds in order to accelerate the healing process of soft tissue, reduce inflammation and also to give relief from acute and chronic pain.
-The High power Laser Therapy allows deep tissue penetration. Its maximum power is more than 50 times higher than in cold laser therapy. It is effective for wide range of conditions such as muscle injuries, tendinopathies, degenerative joint disorders, ligament sprain.
-In contrast to surgical lasers, the therapeutic lasers gently pass through your skin without breaking the skin or causing discomfort.
+          <br>
+          <p>
+          <strong>
+The Low-Level Laser :</strong>Therapy utilizes red and near infrared light over areas of injury or wounds in order to accelerate the healing process of soft tissue, reduce inflammation and also to give relief from acute and chronic pain.
+        </p><br><p>
+        <strong>The High power Laser : </strong> Therapy allows deep tissue penetration. Its maximum power is more than 50 times higher than in cold laser therapy. It is effective for wide range of conditions such as muscle injuries, tendinopathies, degenerative joint disorders, ligament sprain.
+In contrast to surgical lasers, the therapeutic lasers gently pass through your skin without breaking the skin or causing discomfort.</p>
         </ul>
         </div>
       </div>
