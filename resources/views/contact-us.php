@@ -93,7 +93,7 @@
                                 <strong>Contacts</strong><br>
                                 Email: Physio4lifeajax@gmail.com<br>
                                 Phone: +1 289 660 7666<br>
-                                Fax: +1 +1 289 660 8666</p>
+                                Fax: +1 289 660 8666</p>
                         </div>
 
 
@@ -223,7 +223,7 @@
                         <strong>Contacts</strong><br>
                         Email: Physio4lifeajax@gmail.com<br>
                         Phone: +1 289 660 7666<br>
-                        Fax: +1 +1 289 660 8666</p>
+                        Fax: +1 289 660 8666</p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p class="mbr-contacts__text"><strong>Links</strong></p>
