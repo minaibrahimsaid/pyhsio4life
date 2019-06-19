@@ -570,10 +570,12 @@ The physiotherapist will use different taping techniques to achieve the desired 
       <div id="collapse20" class="collapse" aria-labelledby="heading20" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+        <div class="mbr-figure service-image"><img src="assets/images/4.jpeg"></div>
+
         Women’s Health physiotherapy can help to manage a range of conditions including:
         <li>Stress Incontinence – leakage of urine when you run, laugh, cough or sneeze</li>
         <li>Urge incontinence – leakage when you have a strong and sudden urge to go to the toilet, but don’t make it in time</li>
-        <li> Bowel dysfunction – problems with constipation or control of wind or faeces.</li>
+        <li> Bowel dysfunction – problems with constipation or control of wind or Fecal incontinence</li>
         <li>Prolapse of pelvic organs – including bladder, bowel or uterus</li>
         <li>Pain in the pelvic, abdominal or vulva region</li>
         <li>Pain with sexual intercourse</li>
@@ -582,7 +584,6 @@ The physiotherapist will use different taping techniques to achieve the desired 
         <li> Post natal conditions – pelvic floor weakness, neck, back, vaginal, rectum , pubic bone or  perineal pain, Scarring from c- section or episiotomy.</li>
         <li> Pelvic floor and abdominal muscle weakness – Including poor awareness of how to exercise these muscles correctly or effectively.</li>
 Physiotherapy for these conditions includes a confidential and private assessment of the pelvic floor and abdominal muscles, bladder and bowel function. Your physiotherapist will get a good understanding of various factors that affect your lifestyle and then design a treatment program to suit your specific condition and lifestyle.
-<div class="mbr-figure service-image"><img src="assets/images/4.jpeg"></div>
         </ul>
         </div>
       </div>
