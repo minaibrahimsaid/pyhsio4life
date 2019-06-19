@@ -175,7 +175,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 text-xs-center">
-                <h3 class="mbr-section-title display-2">What is physiotherapy ?</h3>
+                <h3 class="mbr-section-title display-3">What is physiotherapy ?</h3>
 
 
             </div>
