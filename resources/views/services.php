@@ -119,8 +119,10 @@ Depending on your specific problems and goals, your physiotherapist may employ a
           </div>
         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
           <div class="card-body">
-
+          
           <ul>
+          <div class="mbr-figure service-image"><img src="assets/images/2.jpeg"></div>
+
           Manual therapy is a clinical approach utilizing specific hands-on techniques to remove movement restrictions and help patients to move better. These techniques include:
 
           <li> Mobilisations of spinal and peripheral joints</li>
@@ -128,7 +130,6 @@ Depending on your specific problems and goals, your physiotherapist may employ a
           <li>Passive stretching </li>
           <li> Manual muscle relaxation techniques</li>
           <li> Mobilisations of the nervous system (Neural Flossing).</li>
-          <div class="mbr-figure service-image"><img src="assets/images/2.jpeg"></div>
 
           </ul>
             </div>
