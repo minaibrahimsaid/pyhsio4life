@@ -83,7 +83,7 @@
                                         </div>
                                          <br>
                                          <div class="online-button">
-                                         <i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                         <i class="fas fa-phone-alt"></i> <a href="tel:4162192827">4162192827</a><br></p>
                                          </div>
                                     </div>
                                 </div>
