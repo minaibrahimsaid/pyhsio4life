@@ -207,7 +207,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
 
 </section>
 
-<section class="mbr-section" id="msg-box5-n" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
+<!-- <section class="mbr-section" id="msg-box5-n" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
 
 
     <div class="container">
@@ -239,9 +239,41 @@ Physiotherapy does not involve medications in treating conditions affecting your
         </div>
     </div>
 
-</section>
+</section> -->
 
 <section class="mbr-section article mbr-parallax-background" id="msg-box8-p" style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg); padding-top: 40px; padding-bottom: 40px;">
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-3">Why is Physiotherapy important?</h3>
+
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content6-q" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-6 lead">
+            <p>
+            Physiotherapy helps people of all ages to restore their activity, strength, and motion following an injury such as sports injury, motor vehicle accident, slip and fall and work-related injury or surgery. </p>
+<br>
+<p>
+Physiotherapy focuses on removing the cause of the problem as opposed to superficially treating the symptoms. the results are often more permanent with less chance of the disorder returning. It also provides lasting relief from pain.</p><br>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article mbr-parallax-background" id="msg-box8-p" style="background-image: url(assets/images/2.jpg); padding-top: 40px; padding-bottom: 40px;">
 
     <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
     </div>
