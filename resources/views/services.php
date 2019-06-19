@@ -325,10 +325,16 @@ In contrast to surgical lasers, the therapeutic lasers gently pass through your 
         <div class="card-body">
         <ul>
         <div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
-
-        Acupuncture is a branch of traditional Chinese medicine. It involves inserting ultra-thin, sterilised, disposable needles at specific acupuncture points to balance the body’s Chi
-In Chinese medicine Qi (or Chi) refers to the flow of vital energy in the body through channels or meridians. If a problem occurs, energy slows down or becomes stagnated. By stimulating appropriate points on the body, acupuncture is thought to release these blockages and promote healing.
+          <p>        Acupuncture is a branch of traditional Chinese medicine. It involves inserting ultra-thin, sterilised, disposable needles at specific acupuncture points to balance the body’s Chi
+</p>
+<br>
+<p>
+In Chinese medicine Qi (or Chi) refers to the flow of vital energy in the body through channels or meridians. If a problem occurs, energy slows down or becomes stagnated. 
+        </p>
+        <br><p>By stimulating appropriate points on the body, acupuncture is thought to release these blockages and promote healing.
+        </p><br><p>
 Acupuncture in Physiotherapy is used together with more traditional, conventional physiotherapy treatments such as manual therapy and exercise.
+        </p>
 
         </ul>
         </div>
@@ -346,12 +352,16 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
       <div id="collapse12" class="collapse" aria-labelledby="heading12" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+          <p>
         Dry needling is based on Western medicine principles. It is an effective technique for the treatment of muscular pain.
+        </p>
+        <br>
+        <p>
          Dry needling or intramuscular stimulation (IMS), involves inserting ultra thin needle into the skin directly at myofascial trigger point ;
            muscle knot;  which contributes to muscle pain and dysfunction. A local twitch response is often experienced.
             It means the trigger point has been stimulated, increasing the blood flow to the area which is extremely effective for relaxing overactive muscles.
              When this local twitch response occurs, a brief painful response might be felt but it won’t last.
-         After dry needling treatment, the area that was treated will feel much softer and relaxed.
+         After dry needling treatment, the area that was treated will feel much softer and relaxed.</p>
         </ul>
         </div>
       </div>
@@ -378,11 +388,20 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
       <div id="collapse13" class="collapse" aria-labelledby="heading13" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+        <div class="mbr-figure service-image"><img src="assets/images/101.jpg"></div>
+        <p>
         In Physical therapy, therapeutic exercises can be described by physiotherapists to return an injured person to a pain free,
-        fully functioning state. Based on the initial assessment, the physiotherapist will determine a treatment plan that includes specific exercise program fitted your condition.
+        fully functioning state.
+        </p><br>
+        <p>
+        Based on the initial assessment, the physiotherapist will determine a treatment plan that includes specific exercise program fitted your condition.
+        </p>
+        <br>
+        <p>
+        
         The exercise program may include mobility (range of motion) exercises, flexibility (stretching) exercises, stability, coordination exercises,
          muscle performance (strengthening and endurance ) exercises, balance exercises  and  neuromuscular control( proprioception) exercises.
-
+        </p>
     <div class="card">
       <div class="card-header service-header" id="heading14">
         <h5 class="mb-0">
@@ -438,8 +457,13 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
       <div id="collapse16" class="collapse" aria-labelledby="heading16" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+          <p>
         Balance exercises are the exercises that focus on maintaining an individual’s center of gravity.
+        </p>
+        <br>
+        <p>
          These exercises will improve your ability to control and stabilize your body’s position and prevent falls.
+        </p>
        </ul>
         </div>
       </div>
@@ -458,9 +482,19 @@ Acupuncture in Physiotherapy is used together with more traditional, conventiona
       <div id="collapse17" class="collapse" aria-labelledby="heading17" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+          <p>
         These are advanced exercises to restore the ability of the brain to sense the position of a joint and control its movement relative to the rest of the body.
-         Proprioceptive ability is often lost or reduced following an injury to certain joint. By doing these advanced type of exercises,
+        </p>
+        <br>
+        <p>
+        
+        Proprioceptive ability is often lost or reduced following an injury to certain joint.
+        </p>
+        <br>
+        <p>
+        By doing these advanced type of exercises,
           a joint can return completely to the pre injury state which will decrease the risk for any future injury to this joint.
+        </p>
         </ul>
         </div>
       </div>
