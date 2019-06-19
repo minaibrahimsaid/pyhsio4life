@@ -271,7 +271,7 @@ Depending on your specific problems and goals, your physiotherapist may employ a
       <div id="collapse9" class="collapse" aria-labelledby="heading9" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
-        <div class="mbr-figure service-image"><img src="assets/images/IMG_5027.jpg"></div>
+        <div class="mbr-figure service-image"><img src="assets/images/IMG_5026.jpg"></div>
 
         <p>High frequency sound waves are used to treat injuries to soft tissues. The sound waves pass through the skin causing the tissues in the affected area to vibrate. Gel is used to assist transmission of the ultrasonic waves. </p><p>These waves help to improve blood flow to the injured site, increase the breakdown of scar tissue, consequently, decrease pain and speed up the healing process. It also helps in reducing swelling in affected area.</p>
         </ul>
@@ -324,10 +324,11 @@ In contrast to surgical lasers, the therapeutic lasers gently pass through your 
       <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
         <div class="card-body">
         <ul>
+        <div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
+
         Acupuncture is a branch of traditional Chinese medicine. It involves inserting ultra-thin, sterilised, disposable needles at specific acupuncture points to balance the body’s Chi
 In Chinese medicine Qi (or Chi) refers to the flow of vital energy in the body through channels or meridians. If a problem occurs, energy slows down or becomes stagnated. By stimulating appropriate points on the body, acupuncture is thought to release these blockages and promote healing.
 Acupuncture in Physiotherapy is used together with more traditional, conventional physiotherapy treatments such as manual therapy and exercise.
-<div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
 
         </ul>
         </div>
