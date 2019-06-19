@@ -99,14 +99,14 @@
 
 <section class="mbr-section" id="msg-box5-g" style="background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 80px;">
     <div class="container">
-        There are different treatment approaches commonly used by physiotherapist:
-
-    Depending on your specific problems and goals, your physiotherapist may employ a combination of the following:
       <div class="row">
       <div class="col-md-6">
 
       <div class="sub-title">
          <h4 style="font-weight: bold; padding: 15px;"> Musculoskeletal physiotherapy</h4>
+        <p> There are different treatment approaches commonly used by physiotherapist:
+
+Depending on your specific problems and goals, your physiotherapist may employ a combination of the following: <p>
      </div>
       <div class="accordion" id="accordionExample">
         <div class="card">
