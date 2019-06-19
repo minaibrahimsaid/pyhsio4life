@@ -194,7 +194,8 @@ Physiotherapy does not involve medications in treating conditions affecting your
 </p>
 <br>
 <p>
-Physiotherapy does not involve medications in treating conditions affecting your joint, muscle or nerve issue. Physiotherapy involves thorough evaluation and examination to find the underlying cause of the problem. 
+Physiotherapy does not involve medications in treating conditions affecting your joint, muscle or nerve issue.
+</p><br><p> Physiotherapy involves thorough evaluation and examination to find the underlying cause of the problem. 
 </p>
 <br>
 
