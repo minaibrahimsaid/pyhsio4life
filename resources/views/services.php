@@ -69,8 +69,14 @@
                 <div class="mbr-section col-md-10 col-md-offset-1 text-xs-center">
 
                     <h1 class="mbr-section-title display-1">physio4life</h1>
-                    <p class="mbr-section-lead lead"><a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a><br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
-
+                    <p class="mbr-section-lead lead">
+                    <div class="online-button">
+                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a>
+                                        </div>
+                                         <br>
+                                         <div class="online-button">
+                                         <i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                         </div>
                 </div>
             </div>
         </div>
@@ -595,6 +601,18 @@ Fax: +1 289 660 8666</p>
 
 .service-image{
   padding-right: 20px;
+}
+.online-button{
+  color: white;
+  letter-spacing: 5px;
+  font-size: larger;
+  font-family: sans-serif;
+  background-color: #116DB4;
+  height: 60px;
+  width: 60%;
+  line-height: 60px;
+  margin: auto;
+  cursor: pointer;
 }
 
 </style>

@@ -77,7 +77,14 @@
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-2 text-xs-center">
                                         <h2 class="mbr-section-title display-1">physio 4 life</h2>
-                                        <p class="mbr-section-lead lead">We do not add years to life but life to years<br> <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a></a><br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                        <p class="mbr-section-lead lead">We do not add years to life but life to years<br>
+                                        <div class="online-button">
+                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a>
+                                        </div>
+                                         <br>
+                                         <div class="online-button">
+                                         <i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                         </div>
                                     </div>
                                 </div>
                             </div>
@@ -89,10 +96,16 @@
                             <div class="container-slide container">
 
                                 <div class="row">
-                                    <div class="col-md-8 col-md-offset-1">
+                                    <div class="col-md-8 col-md-offset-1 text-xs-center">
                                         <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
-                                        <p class="mbr-section-lead lead"> <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a><br><i class="fas fa-phone-alt"></i> 4162192827<br></p>
-
+                                        <p class="mbr-section-lead lead">
+                                        <div class="online-button">
+                                         <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> online</a>
+                                        </div>
+                                         <br>
+                                         <div class="online-button">
+                                         <i class="fas fa-phone-alt"></i> 4162192827<br></p>
+                                         </div>
 
                                     </div>
                                 </div>
@@ -341,6 +354,19 @@ Fax: +1 289 660 8666</p>
 .question-header{
     cursor: pointer;
     background: transparent;
+}
+
+.online-button{
+  color: white;
+  letter-spacing: 5px;
+  font-size: larger;
+  font-family: sans-serif;
+  background-color: #116DB4;
+  height: 60px;
+  width: 60%;
+  line-height: 60px;
+  margin: auto;
+  cursor: pointer;
 }
 
 </style>
