@@ -109,6 +109,26 @@
 
                             </div>
                         </div>
+
+
+
+
+                        <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
+                            data-tags="Animated" data-video-url="false">
+                            <div href="#lb-gallery1-11" data-slide-to="15" data-toggle="modal">
+
+
+
+                                <img alt="" src="assets/images/17.jpeg">
+
+                                <span class="icon-focus"></span>
+
+                            </div>
+                        </div>
+
+
+
+
                         <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
                             data-tags="Creative" data-video-url="false">
                             <div href="#lb-gallery1-11" data-slide-to="2" data-toggle="modal">
@@ -354,6 +374,10 @@
                             </div>
                             <div class="carousel-item">
                                 <img alt="" src="assets/images/16.jpeg">
+                            </div>
+
+                            <div class="carousel-item">
+                                <img alt="" src="assets/images/17.jpeg">
                             </div>
                         </div>
                         <a class="left carousel-control" role="button" data-slide="prev" href="#lb-gallery1-11">

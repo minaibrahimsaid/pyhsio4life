@@ -88,7 +88,7 @@
                         <div class="lead">
 
                             <p><strong>Address</strong><br>
-                                8.00am – 6.00pm<br>
+                                9.00am –7.00pm<br>
                                 Ajax, ON LIS 2H6<br><br><br>
                                 <strong>Contacts</strong><br>
                                 Email: Physio4lifeajax@gmail.com<br>
@@ -104,12 +104,12 @@
                         <div class="lead">
 
                             <p>
-                                    <strong>Monday : </strong>	8.00am – 6.00pm<br>
-                                    <strong>Tuesday : </strong>8.00am – 6.00pm<br>
-                                    <strong>Wednesday : </strong>8.00am – 6.00pm<br>
-                                    <strong>Thursday : </strong>8.00am – 6.00pm<br>
-                                    <strong>Friday : </strong>8.00am – 6.00pm<br>
-                                    <strong>Saturday : </strong>8.00am – 6.00pm<br>
+                                    <strong>Monday : </strong>	9.00am –7.00pm<br>
+                                    <strong>Tuesday : </strong>9.00am –7.00pm<br>
+                                    <strong>Wednesday : </strong>9.00am –7.00pm<br>
+                                    <strong>Thursday : </strong>9.00am –7.00pm<br>
+                                    <strong>Friday : </strong>9.00am –7.00pm<br>
+                                    <strong>Saturday : </strong> By appointment<br>
                                 </p>
                         </div>
 
@@ -218,7 +218,7 @@
             <div class="row">
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p><strong>Address</strong><br>
-                        8.00am – 6.00pm<br>
+                        9.00am –7.00pm<br>
                         Ajax, ON LIS 2H6<br><br><br>
                         <strong>Contacts</strong><br>
                         Email: Physio4lifeajax@gmail.com<br>
