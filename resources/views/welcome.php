@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
   <meta name="description" content=" physio 4 life">
+  <meta name="google-site-verification" content="ENZYIzSVTpXDC4YpxBLX6H9E3zV0PQGNh3W0j5H8e8g" />
   <title>physio 4 life</title>
   <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
