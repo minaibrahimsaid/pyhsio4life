@@ -364,6 +364,9 @@
                                 <img alt="" src="assets/images/11.jpeg">
                             </div>
                             <div class="carousel-item">
+                                <img alt="" src="assets/images/12.jpeg">
+                            </div>
+                            <div class="carousel-item">
                                 <img alt="" src="assets/images/13.jpeg">
                             </div>
                             <div class="carousel-item">
@@ -372,6 +375,7 @@
                             <div class="carousel-item">
                                 <img alt="" src="assets/images/15.jpeg">
                             </div>
+
                             <div class="carousel-item">
                                 <img alt="" src="assets/images/16.jpeg">
                             </div>
