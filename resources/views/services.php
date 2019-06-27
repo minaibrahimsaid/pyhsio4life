@@ -17,6 +17,8 @@
   <link rel="stylesheet" href="assets/animate.css/animate.min.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+
 
   <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
 
@@ -621,7 +623,13 @@ Fax: +1 289 660 8666</p>
 </section>
 
 <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a" style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
-
+<div style="text-align:center;">
+             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
+                href="https://www.facebook.com/physio4lifeajax/"><i
+                    class="socicon socicon-facebook"></i></a>
+                     <a class="btn btn-social" title="Google" target="_blank"
+                href="https://www.google.com/search?ei=DUwVXcPDOITctAav1KOYCw&q=physio4life+ajax+&oq=physio4life+ajax+&gs_l=psy-ab.3..35i39j0i22i30.899.4671..5294...0.0..0.157.1371.11j3......0....1..gws-wiz.......0i71j0j0i131j0i67.jyv0pbIOw94"><i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
+                href="/"><i class="socicon socicon-instagram"></i></a>  </div>
     <div class="container">
         <p class="text-xs-center">Copyright (c)  Physio 4 life.</p>
     </div>

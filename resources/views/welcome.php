@@ -1048,7 +1048,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
     <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
         style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
         <div style="text-align:center;">
-             <a class="btn btn-social" title="Facebook" target="_blank"
+             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
                 href="https://www.facebook.com/physio4lifeajax/"><i
                     class="socicon socicon-facebook"></i></a>
                      <a class="btn btn-social" title="Google" target="_blank"
