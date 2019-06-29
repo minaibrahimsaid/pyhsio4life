@@ -355,7 +355,7 @@ Fax: +1 289 660 8666</p>
 </style>
 <style>
 .question{
-    color: black;
+    color: #1275f7;;
     font-weight: bold;
 }
 
