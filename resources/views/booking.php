@@ -176,7 +176,7 @@
             <div class="row">
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p><strong>Address</strong><br>
-                        66 Harwood Ave S.<br>
+                        <br>
                         66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
                         <strong>Contacts</strong><br>
                         Email: Physio4lifeajax@gmail.com<br>
