@@ -90,12 +90,11 @@
                         <div class="lead">
 
                             <p><strong>Address</strong><br>
-                                9.00am –7.00pm<br>
                                 66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
                                 <strong>Contacts</strong><br>
                                 Email: Physio4lifeajax@gmail.com<br>
                                 <h6>Phone: +1 289-660-7666</h6>
-                                Fax: +1 289 660 8666</p>
+                                 <h6>Fax: +1 289-660-8666</h6></p>
                         </div>
 
 
@@ -112,6 +111,7 @@
                                     <strong>Thursday  </strong>9:00 am – 7:00 pm<br>
                                     <strong>Friday </strong>9:00 am – 7:00 pm<br>
                                     <strong>Saturday  </strong> By appointment<br>
+                                    <strong>Sunday  </strong> Day off<br>
                                 </p>
                         </div>
 
@@ -220,12 +220,12 @@
             <div class="row">
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p><strong>Address</strong><br>
-                        9.00am –7.00pm<br>
+                        <br>
                         66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
                         <strong>Contacts</strong><br>
                         Email: Physio4lifeajax@gmail.com<br>
-                        Phone: +1 289-660-7666<br>
-                        Fax: +1 289 660 8666</p>
+                         <h6>Phone: +1 289-660-7666</h6><br>
+                         <h6>Fax: +1 289-660-8666</h6></p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p class="mbr-contacts__text"><strong>Links</strong></p>
