@@ -74,8 +74,115 @@
         </nav>
 
     </section>
+    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
+    <div>
+        <div>
+            <div>
+                <ol class="carousel-indicators">
+                    <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/massage-2722936-2000x1332.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
+                            <div class="container-slide container">
+                                
+                               
+                            <div class="row">
+                                    <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                    <p class="mbr-section-lead lead">We do not add years to life but life to
+                                                years</p><br>
+                                            <p class="mbr-section-lead lead">
+                                                <div class="online-button">
+                                                    <a href="/booking" style="color: white;">
+                                                        <i class="fas fa-circle 2x" style="color:green">
+                                                        </i> Book online 
+                                                    </a>
+                                                </div>
+                                                <br>
+                                                <div class="online-button">
+                                                <i class="fas fa-phone-alt"></i> <a
+                                                    href="tel:2896607666">2896607666</a><br>
+                                                </div>
 
-    <section class="engine"><a rel="external" href="/">physio 4 life</a></section>
+                                            </p>
+
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/6.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay"></div>
+                            <div class="container-slide container">
+                                
+                                
+                            <div class="row">
+                                    <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                            <p class="mbr-section-lead lead">
+                                                <div class="online-button">
+                                                    <a href="/booking" style="color: white;">
+                                                        <i class="fas fa-circle 2x" style="color:green">
+                                                        </i> Book online 
+                                                    </a>
+                                                </div>
+                                                <br>
+                                                <div class="online-button">
+                                                <i class="fas fa-phone-alt"></i> <a
+                                                    href="tel:2896607666">2896607666</a><br>
+                                                </div>
+
+                                            </p>
+
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay"></div>
+                            <div class="container-slide container">
+                               
+                            <div class="row">
+                                    <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                            <p class="mbr-section-lead lead">
+                                                <div class="online-button">
+                                                    <a href="/booking" style="color: white;">
+                                                        <i class="fas fa-circle 2x" style="color:green">
+                                                        </i> Book online 
+                                                    </a>
+                                                </div>
+                                                <br>
+                                                <div class="online-button">
+                                                <i class="fas fa-phone-alt"></i> <a
+                                                    href="tel:2896607666">2896607666</a><br>
+                                                </div>
+
+                                            </p>
+
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev" href="#slider-0">
+                    <span class="icon-prev" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next" href="#slider-0">
+                    <span class="icon-next" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- 
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
         data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
         id="slider-0">
@@ -116,8 +223,53 @@
                             </div>
                         </div>
                     </div>
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/massage-2722936-2000x1332.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay"></div>
+                            <div class="container-slide container">
+                                
+                                <div class="row">
+                                    <div class="col-md-8 col-md-offset-1">
+                                        <h2 class="mbr-section-title display-1">VIDEO SLIDE</h2>
+                                        <p class="mbr-section-lead lead">Slide with youtube video background and color overlay. Title and text are aligned to the left.</p>
+
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
                         data-bg-video-slide="false" style="background-image: url(assets/images/3.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay"></div>
+                            <div class="container-slide container">
+
+                                <div class="row">
+                                    <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                            <p class="mbr-section-lead lead">
+                                                <div class="online-button">
+                                                    <a href="/booking" style="color: white;">
+                                                        <i class="fas fa-circle 2x" style="color:green">
+                                                        </i> Book online 
+                                                    </a>
+                                                </div>
+                                                <br>
+                                                <div class="online-button">
+                                                <i class="fas fa-phone-alt"></i> <a
+                                                    href="tel:2896607666">2896607666</a><br>
+                                                </div>
+
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                    </div>
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
+                        data-bg-video-slide="false" style="background-image: url(assets/images/6.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
@@ -141,6 +293,7 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
 
@@ -157,7 +310,7 @@
         </div>
         </div>
         </div>
-    </section>
+    </section>  -->
 
     <section class="mbr-section article mbr-section__container" id="content2-j"
         style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
@@ -518,8 +671,8 @@ Physiotherapy does not involve medications in treating conditions affecting your
                             </div>
                             <div class="mbr-table-cell">
 
-                                <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse"
-                                    data-target="#exCollapsingNavbar">
+                                <button class="navbar-toggler pull-xs-right hidden-md-up" type="button"
+                                    data-toggle="collapse" data-target="#exCollapsingNavbar">
                                     <div class="hamburger-icon"></div>
                                 </button>
 
@@ -532,8 +685,8 @@ Physiotherapy does not involve medications in treating conditions affecting your
                                     <li class="nav-item"><a class="nav-link link" href="/faq">FAQ</a></li>
                                     <li class="nav-item"><a class="nav-link link" href="/gallery">Gallery</a></li>
                                 </ul>
-                                <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
-                                    data-target="#exCollapsingNavbar">
+                                <button hidden="" class="navbar-toggler navbar-close" type="button"
+                                    data-toggle="collapse" data-target="#exCollapsingNavbar">
                                     <div class="close-icon"></div>
                                 </button>
 
@@ -546,16 +699,19 @@ Physiotherapy does not involve medications in treating conditions affecting your
             </section>
 
             <section class="engine"><a rel="external" href="/">physio 4 life</a></section>
-            <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
+            <section
+                class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
                 data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
                 id="slider-0">
                 <div>
                     <div>
                         <div>
                             <ol class="carousel-indicators">
-                                <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li>
+                                <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0"
+                                    class="active"></li>
                                 <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li>
-                                <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
+                                <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2">
+                                </li>
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
@@ -568,12 +724,14 @@ Physiotherapy does not involve medications in treating conditions affecting your
                                             <div class="row">
                                                 <div class="col-md-8 col-md-offset-2 text-xs-center">
                                                     <h2 class="mbr-section-title display-1">physio 4 life</h2>
-                                                    <p class="mbr-section-lead lead">We do not add years to life but life to
+                                                    <p class="mbr-section-lead lead">We do not add years to life but
+                                                        life to
                                                         years<br>
 
                                                         <div class="online-button">
-                                                            <a href="/booking" style="color: white;"><i class="fas fa-circle 2x"
-                                                                    style="color:green"></i> Book online </a>
+                                                            <a href="/booking" style="color: white;"><i
+                                                                    class="fas fa-circle 2x" style="color:green"></i>
+                                                                Book online </a>
                                                         </div>
                                                         <br>
                                                         <div class="online-button">
@@ -597,8 +755,9 @@ Physiotherapy does not involve medications in treating conditions affecting your
                                                 <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
                                                 <p class="mbr-section-lead lead">
                                                     <div class="online-button">
-                                                        <a href="/booking" style="color: white;"><i class="fas fa-circle 2x"
-                                                                style="color:green"></i> Book online </a>
+                                                        <a href="/booking" style="color: white;"><i
+                                                                class="fas fa-circle 2x" style="color:green"></i> Book
+                                                            online </a>
                                                     </div>
                                                     <br>
                                                     <div class="online-button">
@@ -697,22 +856,28 @@ Physiotherapy does not involve medications in treating conditions affecting your
                     <div class="row">
                         <div class="col-xs-12 col-md-6 lead">
                             <p>
-                                Physiotherapy is a healthcare profession involved with diagnosis and treatment of someone who
-                                has difficulty moving or performing functional activities because of an injury, health problem
+                                Physiotherapy is a healthcare profession involved with diagnosis and treatment of
+                                someone who
+                                has difficulty moving or performing functional activities because of an injury, health
+                                problem
                                 or disability.
                             </p>
                             <br>
                             <p>
-                                Physiotherapy does not involve medications in treating conditions affecting your joint, muscle
+                                Physiotherapy does not involve medications in treating conditions affecting your joint,
+                                muscle
                                 or nerve issue.
                             </p><br>
-                            <p> Physiotherapy involves thorough evaluation and examination to find the underlying cause of the
+                            <p> Physiotherapy involves thorough evaluation and examination to find the underlying cause
+                                of the
                                 problem.
                             </p>
                             <br>
 
-                            <p>Based on the results of the evaluation, physiotherapist will create an individualized treatment
-                                plan for you, provide lifestyle advice and education to help you get better and stay better.
+                            <p>Based on the results of the evaluation, physiotherapist will create an individualized
+                                treatment
+                                plan for you, provide lifestyle advice and education to help you get better and stay
+                                better.
                             </p>
                         </div>
                     </div>
@@ -778,13 +943,17 @@ Physiotherapy does not involve medications in treating conditions affecting your
                     <div class="row">
                         <div class="col-xs-12 col-md-6 lead">
                             <p>
-                                Physiotherapy helps people of all ages to restore their activity, strength, and motion following
-                                an injury such as sports injury, motor vehicle accident, slip and fall and work-related injury
+                                Physiotherapy helps people of all ages to restore their activity, strength, and motion
+                                following
+                                an injury such as sports injury, motor vehicle accident, slip and fall and work-related
+                                injury
                                 or surgery. </p>
                             <br>
                             <p>
-                                Physiotherapy focuses on removing the cause of the problem as opposed to superficially treating
-                                the symptoms. the results are often more permanent with less chance of the disorder returning.
+                                Physiotherapy focuses on removing the cause of the problem as opposed to superficially
+                                treating
+                                the symptoms. the results are often more permanent with less chance of the disorder
+                                returning.
                                 It also provides lasting relief from pain.</p><br>
                         </div>
                     </div>
@@ -817,19 +986,22 @@ Physiotherapy does not involve medications in treating conditions affecting your
                         <div class="col-xs-12 col-md-6 lead">
                             <ul>
                                 <li>
-                                    <em>Our health care delivered by qualified, experienced, registered Physiotherapists and
+                                    <em>Our health care delivered by qualified, experienced, registered Physiotherapists
+                                        and
                                         Canadian Physiotherapists association (CPA) members.&nbsp;
                                     </em>
                                 </li>
                                 <li>
                                     <em>
-                                        In physio 4 life, you get the explanation of your problem, hands on treatment, methods
+                                        In physio 4 life, you get the explanation of your problem, hands on treatment,
+                                        methods
                                         to speed up recovery, strategies to prevent recurrence.
                                     </em>
                                 </li>
                                 <li>
                                     <em>
-                                        Physiotherapists in physio 4 life are treating individuals of all ages and fitness
+                                        Physiotherapists in physio 4 life are treating individuals of all ages and
+                                        fitness
                                         levels.
                                     </em>
                                 </li>
@@ -839,8 +1011,10 @@ Physiotherapy does not involve medications in treating conditions affecting your
                                     </em>
                                 </li>
                                 <li>
-                                    <em>Physiotherapists in physio 4 life are keeping up to date with the latest research and
-                                        treatment skills to ensure that they are providing you with the most advanced and
+                                    <em>Physiotherapists in physio 4 life are keeping up to date with the latest
+                                        research and
+                                        treatment skills to ensure that they are providing you with the most advanced
+                                        and
                                         informed treatment methods to achieve effective and long-lasting results.
                                     </em>
                                 </li>
@@ -848,11 +1022,14 @@ Physiotherapy does not involve medications in treating conditions affecting your
                         </div>
                         <div class="col-xs-12 col-md-6 lead">
                             <ul>
-                                <li><em>Physiotherapists in physio 4 life do complete examination, to know the exact underlying
+                                <li><em>Physiotherapists in physio 4 life do complete examination, to know the exact
+                                        underlying
                                         cause of the problem and treat the cause, not just the symptoms.</em></li>
-                                <li><em> Physiotherapists in physio 4 life offer direct insurance billing, which saves you from
+                                <li><em> Physiotherapists in physio 4 life offer direct insurance billing, which saves
+                                        you from
                                         having to do all the paperwork on your own, saving your time.</em></li>
-                                <li><em> Physiotherapists in physio 4 life have the Physiotherapy modalities needed to assist in
+                                <li><em> Physiotherapists in physio 4 life have the Physiotherapy modalities needed to
+                                        assist in
                                         your recovery, reduce pain, swelling and the inflammatory process.</em></li>
                             </ul>
                         </div>
@@ -921,7 +1098,8 @@ Physiotherapy does not involve medications in treating conditions affecting your
                         </div>
                         <div class="col-xs-12 col-md-6 lead">
                             <ul>
-                                <li><em>Pelvic issues, such as bladder and bowel problems related to childbirth.</em></li>
+                                <li><em>Pelvic issues, such as bladder and bowel problems related to childbirth.</em>
+                                </li>
                                 <li><em>Posture and alignment problems, including symptomatic scoliosis.</em></li>
                                 <li><em>Problems related to Motor Vehicle Accident such as Whiplash Associated Disorder
                                         (WAD)</em></li>
@@ -1017,7 +1195,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p><strong>Address</strong><br>
                         66 Harwood Ave S.<br>
-                        66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
+                        66 Harwood Ave S , Ajax, ON LIS 2H6 <br><br><br>
                         <strong>Contacts</strong><br>
                         Email: Physio4lifeajax@gmail.com<br>
                         Phone: +1 289-660-7666<br>
@@ -1048,12 +1226,12 @@ Physiotherapy does not involve medications in treating conditions affecting your
     <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
         style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
         <div style="text-align:center;">
-             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
-                href="https://www.facebook.com/physio4lifeajax/"><i
-                    class="socicon socicon-facebook"></i></a>
-                     <a class="btn btn-social" title="Google" target="_blank"
-                href="https://www.google.com/search?ei=DUwVXcPDOITctAav1KOYCw&q=physio4life+ajax+&oq=physio4life+ajax+&gs_l=psy-ab.3..35i39j0i22i30.899.4671..5294...0.0..0.157.1371.11j3......0....1..gws-wiz.......0i71j0j0i131j0i67.jyv0pbIOw94"><i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
-                href="/"><i class="socicon socicon-instagram"></i></a>  </div>
+            <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
+                href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
+            <a class="btn btn-social" title="Google" target="_blank"
+                href="https://www.google.com/search?ei=DUwVXcPDOITctAav1KOYCw&q=physio4life+ajax+&oq=physio4life+ajax+&gs_l=psy-ab.3..35i39j0i22i30.899.4671..5294...0.0..0.157.1371.11j3......0....1..gws-wiz.......0i71j0j0i131j0i67.jyv0pbIOw94"><i
+                    class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
+                href="/"><i class="socicon socicon-instagram"></i></a> </div>
         <div class="container">
             <p class="text-xs-center">Copyright (c) Physio 4 life.</p>
         </div>
