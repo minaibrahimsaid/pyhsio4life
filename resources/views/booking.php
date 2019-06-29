@@ -83,6 +83,9 @@
                     <div class="col-md-8">
                         <div class="wizard-content">
                             <h1>Book an Appointment</h1>
+                            <p style="font-style: italic; margin: 0;"> * We will call you back to confirm the appointment</p>
+                            <p style="font-style: italic; margin: 0;">* The session will take about 45 minutes</p>
+                            <br>
                             <div class="booking-step">
                                 <form method="POST"  action="/booking">
                                     <div class="form-container">
@@ -99,16 +102,15 @@
                                             <div class="col-sm-6">
                                                 <div class="form-group preferredAppointmentTime-group"><label
                                                         for="preferredAppointmentTime">
-                                                        <div>Preferred Appointment Time <span class="star">*</span>
+                                                        <div>Preferred Appointment Period <span class="star">*</span>
                                                         </div>
                                                     </label><select id="preferredAppointmentTime"
                                                         class="form-control preferredAppointmentTime" required="" name="time">
                                                         <option disabled="" >--- Select a time of day ---
                                                         </option>
-                                                        <option value="morning">Morning (8 AM - 11 AM)</option>
-                                                        <option value="afternoon">Afternoon (12 PM - 4 PM)</option>
-                                                        <option value="evening">Evening (5 PM - 7 PM)</option>
-                                                        <option value="any">Anytime (8 AM - 7 PM)</option>
+                                                        <option value="morning">Morning (9 AM - 12 PM)</option>
+                                                        <option value="afternoon">Afternoon (12 PM - 3 PM)</option>
+                                                        <option value="evening">Evening (3 PM - 7 PM)</option>
                                                     </select></div>
                                             </div>
                                         </div>
@@ -175,10 +177,10 @@
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p><strong>Address</strong><br>
                         66 Harwood Ave S.<br>
-                        Ajax, ON LIS 2H6<br><br><br>
+                        66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
                         <strong>Contacts</strong><br>
                         Email: Physio4lifeajax@gmail.com<br>
-                        Phone: +1 289 660 7666<br>
+                        Phone: +1 289-660-7666<br>
                         Fax: +1 289 660 8666</p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
