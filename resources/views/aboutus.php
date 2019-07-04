@@ -120,7 +120,7 @@
                         <li> Nivirt has been practicing physiotherapy since 1993, over 25 years experience in the field of physiotherapy. Nivirt is a  registered physiotherapist in Ontario.
                         </li>
                         <li>She has graduated from Faculty of Physical Therapy, Cairo University, Egypt 1993 and MSc degree of physical therapy from the same university in 2002 . </li>
-                        <li>She became a registered physiotherapist in Canada in 2017, and she had been working in 2 private clinics, Physiocare and Physiocan sand she has excellent Google reviews.</li>
+                        <li>She became a registered physiotherapist in Canada in 2017, and she had been working in 2 private clinics, Physiocare and Physiocan and she has excellent Google reviews.</li>
                         <li>She has had intense additional courses in manual therapy, sports medicine, pain control and Acupuncture. She has experience working in both private and hospitals in Egypt. </li>
                         <li>She is a member of college of physiotherapist Ontario and Canadian Physiotherapy Association (CPA)</li>
                         <li>She enjoys treating musculoskeletal injuries using the most advanced techniques in physiotherapy and takes a holistic approach to care. </li>
