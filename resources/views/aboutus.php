@@ -186,18 +186,19 @@ Email: Physio4lifeajax@gmail.com<br>
     </div>
 </section>
 
-<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a" style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
-<div style="text-align:center;">
-             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
-                href="https://www.facebook.com/physio4lifeajax/"><i
-                    class="socicon socicon-facebook"></i></a>
-                     <a class="btn btn-social" title="Google" target="_blank"
-                href="https://www.google.com/search?ei=DUwVXcPDOITctAav1KOYCw&q=physio4life+ajax+&oq=physio4life+ajax+&gs_l=psy-ab.3..35i39j0i22i30.899.4671..5294...0.0..0.157.1371.11j3......0....1..gws-wiz.......0i71j0j0i131j0i67.jyv0pbIOw94"><i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
-                href="/"><i class="socicon socicon-instagram"></i></a>  </div>
-    <div class="container">
-        <p class="text-xs-center">Copyright (c) wilsonroadvet.</p>
-    </div>
-</footer>
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
+        style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
+        <div style="text-align:center;">
+            <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
+                href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
+            <a class="btn btn-social" title="Google" target="_blank"
+href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.892474,-78.8412599,17z/data=!3m1!4b1!4m5!3m4!1s0x89d51cd52647b2e5:0x92e4f41ed490e0f5!8m2!3d43.892474!4d-78.8390712">                <i
+                    class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
+                href="/"><i class="socicon socicon-instagram"></i></a> </div>
+        <div class="container">
+            <p class="text-xs-center">Copyright (c) wilsonroadvet.</p>
+        </div>
+    </footer>
 
 <style>
   #map {

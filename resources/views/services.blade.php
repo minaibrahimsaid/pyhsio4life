@@ -74,7 +74,7 @@
 
   <section
     class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar"
-    id="header1-h" style="background-image: url(assets/images/physical-therapy-1198344-960-2000x1500.jpg);">
+    id="header1-h" style="background-image: url(assets/images/5.jpg);">
 
     <div class="mbr-overlay" style="opacity: 0; background-color: rgb(239, 239, 239);"></div>
 
@@ -84,7 +84,7 @@
         <div class="row">
           <div class="mbr-section col-md-10 col-md-offset-1 text-xs-center">
 
-            <h1 class="mbr-section-title display-1">physio4life</h1>
+            <h1 class="mbr-section-title display-1"> wilson road vet</h1>
             <p class="mbr-section-lead lead">
               <div class="online-button">
                 <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> Book
@@ -122,14 +122,14 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-
+          {{-- 
           <div class="sub-title">
             <h4 style="font-weight: bold; padding: 15px;"> Musculoskeletal physiotherapy</h4>
             <p> There are different treatment approaches commonly used by physiotherapist:
 
               Depending on your specific problems and goals, your physiotherapist may employ a combination of the
               following: <p>
-          </div>
+          </div> --}}
           <div class="accordion" id="accordionExample">
 
 
@@ -154,7 +154,7 @@
                         <h5 class="mb-0">
                           <button class="service collapsed" type="button" data-toggle="collapse"
                             data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                            ppy hilth weltes
+                            puppy health
                           </button>
                         </h5>
                       </div>
@@ -173,7 +173,7 @@
                         <h5 class="mb-0">
                           <button class="service collapsed" type="button" data-toggle="collapse"
                             data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-                            adult pet hilth welhes
+                            adult pet
                           </button>
                         </h5>
                       </div>
@@ -193,7 +193,7 @@
                         <h5 class="mb-0">
                           <button class="service collapsed" type="button" data-toggle="collapse"
                             data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                            senior pet heilth welhes
+                            seinor pet
                           </button>
                         </h5>
                       </div>
@@ -271,7 +271,7 @@
               <h5 class="mb-0">
                 <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse13"
                   aria-expanded="false" aria-controls="collapse13">
-                  Surgries
+                  Surgeries
                 </button>
               </h5>
             </div>
@@ -301,7 +301,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse14"
                           aria-expanded="false" aria-controls="collapse14">
-                          Spay & nete
+                          Spay & Neuter
                         </button>
                       </h5>
                     </div>
@@ -326,7 +326,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse15"
                           aria-expanded="false" aria-controls="collapse15">
-                          All suft tissue surgres
+                          All soft tissue surgeries
                         </button>
                       </h5>
                     </div>
@@ -349,7 +349,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse16"
                           aria-expanded="false" aria-controls="collapse16">
-                          Dentists
+                          Dentistry
                         </button>
                       </h5>
                     </div>
@@ -388,10 +388,10 @@
               <h5 class="mb-0">
                 <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse20"
                   aria-expanded="false" aria-controls="collapse20">
-                  Medical servisec
+                  Medical Services
 
                 </button>
-                
+
 
 
 
@@ -402,14 +402,14 @@
             <div id="collapse20" class="collapse" aria-labelledby="heading20" data-parent="#accordionExample">
               <div class="card-body">
                 <ul>
-                  description 
+                  description
 
                   <div class="card">
                     <div class="card-header service-header" id="heading6">
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
                           data-target="#collapse130" aria-expanded="false" aria-controls="collapse6">
-                          ppy hilth weltes
+                          Blood testing
                         </button>
                       </h5>
                     </div>
@@ -422,15 +422,16 @@
                       </div>
                     </div>
                   </div>
-  
-  
-  
+
+
+
                   <div class="card">
                     <div class="card-header service-header" id="heading6">
                       <h5 class="mb-0">
-                        <button class="service collapsed" type="button" data-toggle="collapse"
-                          data-target="#collapse12" aria-expanded="false" aria-controls="collapse6">
-                          ppy hilth weltes
+                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse12"
+                          aria-expanded="false" aria-controls="collapse6">
+                          Weight Management
+
                         </button>
                       </h5>
                     </div>
@@ -449,7 +450,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
                           data-target="#collapse132" aria-expanded="false" aria-controls="collapse6">
-                          ppy hilth weltes
+                          .... control
                         </button>
                       </h5>
                     </div>
@@ -468,7 +469,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
                           data-target="#collapse131" aria-expanded="false" aria-controls="collapse6">
-                          ppy hilth weltes
+                          Diet Consultation
                         </button>
                       </h5>
                     </div>
@@ -481,7 +482,28 @@
                       </div>
                     </div>
                   </div>
-  
+
+
+                  
+                  <div class="card">
+                    <div class="card-header service-header" id="heading6">
+                      <h5 class="mb-0">
+                        <button class="service collapsed" type="button" data-toggle="collapse"
+                          data-target="#collapse100" aria-expanded="false" aria-controls="collapse6">
+                          Prevention
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapse100" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
+                      <div class="card-body">
+                        <ul>
+                          In electrical stimulation, electrodes are placed on the surface of the skin, which can cause
+                          muscles to contract.
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
 
 
                 </ul>
@@ -501,7 +523,8 @@
         <div class="mbr-footer-content col-xs-12 col-md-3">
           <p><strong>Address</strong><br>
             <br>
-            66 Harwood Ave S , Ajax, ON LIS 2H6 <br><br><br>
+            371 Wilson Road South
+            Oshawa, Ontario <br><br><br>
             <strong>Contacts</strong><br>
             Email: Physio4lifeajax@gmail.com<br>
             <h6>Phone: +1 289-660-7666</h6><br>
@@ -531,18 +554,18 @@
   </section>
 
   <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
-    style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
-    <div style="text-align:center;">
+  style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
+  <div style="text-align:center;">
       <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
-        href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
+          href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
       <a class="btn btn-social" title="Google" target="_blank"
-        href="https://www.google.com/search?ei=DUwVXcPDOITctAav1KOYCw&q=physio4life+ajax+&oq=physio4life+ajax+&gs_l=psy-ab.3..35i39j0i22i30.899.4671..5294...0.0..0.157.1371.11j3......0....1..gws-wiz.......0i71j0j0i131j0i67.jyv0pbIOw94"><i
-          class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
-        href="/"><i class="socicon socicon-instagram"></i></a> </div>
-    <div class="container">
-      <p class="text-xs-center">Copyright (c)wilsonroadvet.</p>
-    </div>
-  </footer>
+href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.892474,-78.8412599,17z/data=!3m1!4b1!4m5!3m4!1s0x89d51cd52647b2e5:0x92e4f41ed490e0f5!8m2!3d43.892474!4d-78.8390712">                <i
+              class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
+          href="/"><i class="socicon socicon-instagram"></i></a> </div>
+  <div class="container">
+      <p class="text-xs-center">Copyright (c) wilsonroadvet.</p>
+  </div>
+</footer>
 
   <style>
     #map {

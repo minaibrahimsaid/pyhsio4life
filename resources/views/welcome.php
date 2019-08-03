@@ -74,7 +74,7 @@
         </nav>
 
     </section>
-    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="100000000" id="slider-0">
+    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
     <div>
         <div>
             <div>
@@ -351,8 +351,8 @@ Physiotherapy does not involve medications in treating conditions affecting your
 
 </section> -->
 
-    <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
-        style="background-image: url(assets/images/88.jpg); padding-top: 40px; padding-bottom: 40px;">
+    <!-- <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
+        style="background-image: url(assets/images/4.jpg); padding-top: 40px; padding-bottom: 40px;">
 
         <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
         </div>
@@ -366,9 +366,9 @@ Physiotherapy does not involve medications in treating conditions affecting your
             </div>
         </div>
 
-    </section>
+    </section> -->
 
-    <section class="mbr-section article mbr-section__container" id="content6-q"
+    <!-- <section class="mbr-section article mbr-section__container" id="content6-q"
         style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
         <div class="container">
@@ -396,7 +396,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
             </div>
         </div>
 
-    </section>
+    </section> -->
 
     <!-- <section class="mbr-section" id="msg-box5-n" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
 
@@ -432,7 +432,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
 
 </section> -->
 
-    <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
+    <!-- <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg); padding-top: 40px; padding-bottom: 40px;">
 
         <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
@@ -468,7 +468,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
             </div>
         </div>
 
-    </section>
+    </section> -->
 
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/2.jpg); padding-top: 40px; padding-bottom: 40px;">
@@ -539,7 +539,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
 
     </section>
 
-    <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
+    <!-- <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/100.jpg); padding-top: 40px; padding-bottom: 40px;">
 
         <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
@@ -630,7 +630,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
         </div>
 
     </section>
-
+ -->
     <section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b"
         style="background-color: #6785c3; padding-top: 90px; padding-bottom: 90px;">
 
@@ -638,7 +638,8 @@ Physiotherapy does not involve medications in treating conditions affecting your
             <div class="row">
                 <div class="mbr-footer-content col-xs-12 col-md-3">
                     <p><strong>Address</strong><br>
-                        66 Harwood Ave S , Ajax, ON LIS 2H6 <br><br><br>
+                    371 Wilson Road South
+                        Oshawa, Ontario <br><br><br>
                         <strong>Contacts</strong><br>
                         Email: Physio4lifeajax@gmail.com<br>
                          <h6>Phone: +1 289-660-7666</h6><br>
