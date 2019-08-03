@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="physio 4 life">
+  <meta name="generator" content="wilson road vet">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-  <meta name="description" content=" physio 4 life">
-  <title>physio 4 life</title>
+  <meta name="description" content="wilsonroadvet">
+  <title>wilson road vet</title>
   <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
@@ -37,7 +37,7 @@
 
                     <div class="navbar-brand">
 
-                        <a class="navbar-caption" href="/">physio 4 life</a>
+                        <a class="navbar-caption" href="/">wilson road vet</a>
                     </div>
 
                 </div>
@@ -160,7 +160,7 @@
 </section>
 
 
-<section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b" style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
+<section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b" style="background-color: #6785c3; padding-top: 90px; padding-bottom: 90px;">
 
     <div class="container">
         <div class="row">
@@ -186,7 +186,7 @@ Email: Physio4lifeajax@gmail.com<br>
     </div>
 </section>
 
-<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a" style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a" style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
 <div style="text-align:center;">
              <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
                 href="https://www.facebook.com/physio4lifeajax/"><i
@@ -195,7 +195,7 @@ Email: Physio4lifeajax@gmail.com<br>
                 href="https://www.google.com/search?ei=DUwVXcPDOITctAav1KOYCw&q=physio4life+ajax+&oq=physio4life+ajax+&gs_l=psy-ab.3..35i39j0i22i30.899.4671..5294...0.0..0.157.1371.11j3......0....1..gws-wiz.......0i71j0j0i131j0i67.jyv0pbIOw94"><i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
                 href="/"><i class="socicon socicon-instagram"></i></a>  </div>
     <div class="container">
-        <p class="text-xs-center">Copyright (c)  Physio 4 life.</p>
+        <p class="text-xs-center">Copyright (c) wilsonroadvet.</p>
     </div>
 </footer>
 

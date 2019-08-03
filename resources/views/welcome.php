@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="generator" content="physio 4 life">
+    <meta name="generator" content="wilson road vet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-    <meta name="description" content=" physio 4 life">
+    <meta name="description" content="wilsonroadvet">
     <meta name="google-site-verification" content="ENZYIzSVTpXDC4YpxBLX6H9E3zV0PQGNh3W0j5H8e8g" />
-    <title>physio 4 life</title>
+    <title>wilson road vet</title>
     <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
@@ -42,7 +42,7 @@
 
                         <div class="navbar-brand">
 
-                            <a class="navbar-caption" href="/">physio 4 life</a>
+                            <a class="navbar-caption" href="/">wilson road vet</a>
                         </div>
 
                     </div>
@@ -74,7 +74,7 @@
         </nav>
 
     </section>
-    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
+    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="100000000" id="slider-0">
     <div>
         <div>
             <div>
@@ -82,7 +82,7 @@
                     <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
-                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/massage-2722936-2000x1332.jpg);">
+                    <div id="offer-slide" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/1.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
                             <div class="container-slide container">
@@ -90,29 +90,24 @@
                                
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
-                                    <p class="mbr-section-lead lead">We do not add years to life but life to
-                                                years</p><br>
-                                            <p class="mbr-section-lead lead">
-                                                <div class="online-button">
-                                                    <a href="/booking" style="color: white;">
-                                                        <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
-                                                    </a>
+                                    <!-- <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
+                                    <p class="mbr-section-lead lead">we love them like you do</p><br> -->
+                                            <!-- <p class="mbr-section-lead lead">
+                                                <div >
+                                                 <h1 class="offer-text" > for all clients  </h1>
                                                 </div>
                                                 <br>
-                                                <div class="online-button">
-                                                <i class="fas fa-phone-alt"></i> <a
-                                                    href="tel:2896607666">2896607666</a><br>
+                                                <div >
+                                            on all services<br>
                                                 </div>
 
-                                            </p>
+                                            </p> -->
 
                                         </div>
                                     </div>
                             </div>
                         </div>
-                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/6.jpg);">
+                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
@@ -120,7 +115,7 @@
                                 
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                    <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
                                             <p class="mbr-section-lead lead">
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
@@ -147,7 +142,7 @@
                                
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                    <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
                                             <p class="mbr-section-lead lead">
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
@@ -204,7 +199,7 @@
 
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-2 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">physio 4 life</h2>
+                                            <h2 class="mbr-section-title display-1">wilson road vet</h2>
                                             <p class="mbr-section-lead lead">We do not add years to life but life to
                                                 years<br>
 
@@ -248,7 +243,7 @@
 
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                    <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                    <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
                                             <p class="mbr-section-lead lead">
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
@@ -276,7 +271,7 @@
 
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                        <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
+                                        <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
                                         <p class="mbr-section-lead lead">
                                             <div class="online-button">
                                                 <a href="/booking" style="color: white;"><i class="fas fa-circle 2x"
@@ -318,7 +313,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote>"&nbsp;We do not add years to life but life to years&nbsp;"</blockquote>
+                    <blockquote>"&nbsp;we love them like you do&nbsp;"</blockquote>
                 </div>
             </div>
         </div>
@@ -483,7 +478,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-xs-center">
-                    <h3 class="mbr-section-title display-2">Why Physio 4 Life ?</h3>
+                    <h3 class="mbr-section-title display-2">Why wilson road vet ?</h3>
 
 
                 </div>
@@ -506,13 +501,13 @@ Physiotherapy does not involve medications in treating conditions affecting your
                         </li>
                         <li>
                             <em>
-                                In physio 4 life, you get the explanation of your problem, hands on treatment, methods
+                                In Wilson road vet, you get the explanation of your problem, hands on treatment, methods
                                 to speed up recovery, strategies to prevent recurrence.
                             </em>
                         </li>
                         <li>
                             <em>
-                                Physiotherapists in physio 4 life are treating individuals of all ages and fitness
+                                Physiotherapists in Wilson road vet are treating individuals of all ages and fitness
                                 levels.
                             </em>
                         </li>
@@ -522,7 +517,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
                             </em>
                         </li>
                         <li>
-                            <em>Physiotherapists in physio 4 life are keeping up to date with the latest research and
+                            <em>Physiotherapists in Wilson road vet are keeping up to date with the latest research and
                                 treatment skills to ensure that they are providing you with the most advanced and
                                 informed treatment methods to achieve effective and long-lasting results.
                             </em>
@@ -531,11 +526,11 @@ Physiotherapy does not involve medications in treating conditions affecting your
                 </div>
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
-                        <li><em>Physiotherapists in physio 4 life do complete examination, to know the exact underlying
+                        <li><em>Physiotherapists in Wilson road vet do complete examination, to know the exact underlying
                                 cause of the problem and treat the cause, not just the symptoms.</em></li>
-                        <li><em> Physiotherapists in physio 4 life offer direct insurance billing, which saves you from
+                        <li><em> Physiotherapists in Wilson road vet offer direct insurance billing, which saves you from
                                 having to do all the paperwork on your own, saving your time.</em></li>
-                        <li><em> Physiotherapists in physio 4 life have the Physiotherapy modalities needed to assist in
+                        <li><em> Physiotherapists in Wilson road vet have the Physiotherapy modalities needed to assist in
                                 your recovery, reduce pain, swelling and the inflammatory process.</em></li>
                     </ul>
                 </div>
@@ -637,7 +632,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
     </section>
 
     <section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b"
-        style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
+        style="background-color: #6785c3; padding-top: 90px; padding-bottom: 90px;">
 
         <div class="container">
             <div class="row">
@@ -662,9 +657,8 @@ Physiotherapy does not involve medications in treating conditions affecting your
                 <div class="col-xs-12 col-md-6">
                     <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
                     <div id="map">
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7468.4840640647535!2d-79.02835943392569!3d43.85010959839869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4dfdfcc7cb8f7%3A0xc33c18fa74befe0c!2s66+Harwood+Ave+S%2C+Ajax%2C+ON+L1S+2H6!5e0!3m2!1sen!2sca!4v1552491393630"
-                            width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca" 
+                        width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -672,16 +666,16 @@ Physiotherapy does not involve medications in treating conditions affecting your
     </section>
 
     <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
-        style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+        style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
         <div style="text-align:center;">
             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
                 href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
             <a class="btn btn-social" title="Google" target="_blank"
-                href="https://www.google.com/search?ei=DUwVXcPDOITctAav1KOYCw&q=physio4life+ajax+&oq=physio4life+ajax+&gs_l=psy-ab.3..35i39j0i22i30.899.4671..5294...0.0..0.157.1371.11j3......0....1..gws-wiz.......0i71j0j0i131j0i67.jyv0pbIOw94"><i
+href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.892474,-78.8412599,17z/data=!3m1!4b1!4m5!3m4!1s0x89d51cd52647b2e5:0x92e4f41ed490e0f5!8m2!3d43.892474!4d-78.8390712">                <i
                     class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
                 href="/"><i class="socicon socicon-instagram"></i></a> </div>
         <div class="container">
-            <p class="text-xs-center">Copyright (c) Physio 4 life.</p>
+            <p class="text-xs-center">Copyright (c) wilsonroadvet.</p>
         </div>
     </footer>
 
@@ -705,6 +699,20 @@ Physiotherapy does not involve medications in treating conditions affecting your
             margin: auto;
             cursor: pointer;
         }
+
+        .offer-text{
+    font-family: initial;
+    font-style: italic;
+    font-weight: 900;
+    color: #717BF9;
+        }
+
+        @media only screen and (max-width: 600px) {
+  #offer-slide {
+    background-image: url(assets/images/1mob.jpg) !important;
+  }
+  
+}
     </style>
 
     <script src="assets/web/assets/jquery/jquery.min.js"></script>

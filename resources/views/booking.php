@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="generator" content="physio 4 life">
+    <meta name="generator" content="wilson road vet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
-    <meta name="description" content=" physio 4 life">
-    <title>physio 4 life</title>
+    <meta name="description" content="wilsonroadvet">
+    <title>wilson road vet</title>
     <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
@@ -42,7 +42,7 @@
 
                         <div class="navbar-brand">
 
-                            <a class="navbar-caption" href="/">physio 4 life</a>
+                            <a class="navbar-caption" href="/">wilson road vet</a>
                         </div>
 
                     </div>
@@ -170,7 +170,7 @@
     </section>
 
     <section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b"
-        style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
+        style="background-color: #6785c3; padding-top: 90px; padding-bottom: 90px;">
 
         <div class="container">
             <div class="row">
@@ -206,10 +206,10 @@
     </section>
 
     <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
-        style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+        style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
 
         <div class="container">
-            <p class="text-xs-center">Copyright (c) Physio 4 life.</p>
+            <p class="text-xs-center">Copyright (c) wilsonroadvet.</p>
         </div>
     </footer>
 
