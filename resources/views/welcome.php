@@ -10,7 +10,6 @@
     <meta name="description" content="wilsonroadvet">
     <meta name="google-site-verification" content="ENZYIzSVTpXDC4YpxBLX6H9E3zV0PQGNh3W0j5H8e8g" />
     <title>wilson road vet</title>
-    <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
@@ -27,6 +26,7 @@
     <link rel="stylesheet" href="assets/mobirise-gallery/style.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
 
+<script src="https://kit.fontawesome.com/1b5e6babb1.js"></script>
 
 
 </head>
@@ -86,8 +86,8 @@
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
                             <div class="container-slide container">
-                                
-                               
+
+
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
                                     <!-- <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
@@ -111,8 +111,8 @@
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
-                                
-                                
+
+
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
                                     <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
@@ -120,7 +120,7 @@
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
+                                                        </i> Book online
                                                     </a>
                                                 </div>
                                                 <br>
@@ -139,7 +139,7 @@
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
-                               
+
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
                                     <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
@@ -147,7 +147,7 @@
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
+                                                        </i> Book online
                                                     </a>
                                                 </div>
                                                 <br>
@@ -177,7 +177,7 @@
         </div>
     </div>
 </section>
-<!-- 
+<!--
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
         data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
         id="slider-0">
@@ -222,13 +222,13 @@
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
-                                
+
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-1">
                                         <h2 class="mbr-section-title display-1">VIDEO SLIDE</h2>
                                         <p class="mbr-section-lead lead">Slide with youtube video background and color overlay. Title and text are aligned to the left.</p>
 
-                                        
+
                                     </div>
                                 </div>
                             </div>
@@ -248,7 +248,7 @@
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
+                                                        </i> Book online
                                                     </a>
                                                 </div>
                                                 <br>
@@ -495,44 +495,69 @@ Physiotherapy does not involve medications in treating conditions affecting your
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li>
-                            <em>Our health care delivered by qualified, experienced, registered Physiotherapists and
-                                Canadian Physiotherapists association (CPA) members.&nbsp;
+                            <em>Wilson Road Veterinary Clinic has performed veterinary services for small animal patients for over 40 years .&nbsp;
                             </em>
                         </li>
                         <li>
                             <em>
-                                In Wilson road vet, you get the explanation of your problem, hands on treatment, methods
-                                to speed up recovery, strategies to prevent recurrence.
+                            Dr. Greg Topolie, the original veterinarian, along with a number of veterinary associates,
+                            have continued to care for your pets in the Oshawa and surrounding Durham community.
                             </em>
                         </li>
+
                         <li>
                             <em>
-                                Physiotherapists in Wilson road vet are treating individuals of all ages and fitness
-                                levels.
-                            </em>
-                        </li>
-                        <li>
-                            <em>
-                                Getting better in the shortest period.
-                            </em>
-                        </li>
-                        <li>
-                            <em>Physiotherapists in Wilson road vet are keeping up to date with the latest research and
-                                treatment skills to ensure that they are providing you with the most advanced and
-                                informed treatment methods to achieve effective and long-lasting results.
+                            Our hospital is comprised of a group of individuals whose drive is to treat every pet as though
+                             they were one of their own and provide an exceptional level of care for pets and their owners.  //TODO
                             </em>
                         </li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
-                        <li><em>Physiotherapists in Wilson road vet do complete examination, to know the exact underlying
-                                cause of the problem and treat the cause, not just the symptoms.</em></li>
-                        <li><em> Physiotherapists in Wilson road vet offer direct insurance billing, which saves you from
-                                having to do all the paperwork on your own, saving your time.</em></li>
-                        <li><em> Physiotherapists in Wilson road vet have the Physiotherapy modalities needed to assist in
-                                your recovery, reduce pain, swelling and the inflammatory process.</em></li>
+                        <li> <em>We maintain a facility that is extremely clean, welcoming and designed to minimize both a pets and clients anxiety. //TODO
+                            </em></li>
+                        <li>                            <em>
+                            We acquire and retain an excellent, well-trained team; provide them with ongoing
+                             opportunities for continuing education and professional development.  //TODO
+                            </em></li>
                     </ul>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
+        style="background-image: url(assets/images/6.jpeg); padding-top: 40px; padding-bottom: 40px;">
+
+        <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-xs-center">
+                    <h3 class="mbr-section-title display-2">Contact us</h3>
+                    <div class="contact-div-info col-md-12">
+                        <div class="contact-card">
+                           <h3 class="icon-contactus">
+                           <i class="fas fa-map-marked-alt fa-2x"></i>
+                           </h3> dsasfsac
+                        </div>
+                          <div class="contact-card">
+                          <h3 class="icon-contactus">
+                          <i class="fas fa-mobile-alt fa-2x"></i>
+                          </h3>
+                            dsasfsac
+                        </div>
+                        <div class="contact-card">
+                        <h3 class="icon-contactus">
+                        <i class="fas fa-envelope-open-text fa-2x"></i>
+                        </h3>
+                            dsasfsac
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -658,7 +683,7 @@ Physiotherapy does not involve medications in treating conditions affecting your
                 <div class="col-xs-12 col-md-6">
                     <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
                     <div id="map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca" 
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca"
                         width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
@@ -700,6 +725,18 @@ href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.
             margin: auto;
             cursor: pointer;
         }
+        .contact-div-info{
+            display : flex;
+            flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+}
+
+
+        .contact-card{
+            margin: 5px;
+        }
 
         .offer-text{
     font-family: initial;
@@ -708,11 +745,15 @@ href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.
     color: #717BF9;
         }
 
+        .icon-contactus {
+            color: white
+        }
+
         @media only screen and (max-width: 600px) {
   #offer-slide {
     background-image: url(assets/images/1mob.jpg) !important;
   }
-  
+
 }
     </style>
 
