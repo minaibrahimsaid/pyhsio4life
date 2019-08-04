@@ -34,7 +34,7 @@
 <body>
     <section id="ext_menu-7">
 
-        <nav class="navbar navbar-dropdown navbar-fixed-top">
+        <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
             <div class="container">
 
                 <div class="mbr-table">
@@ -535,26 +535,37 @@ Physiotherapy does not involve medications in treating conditions affecting your
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <div class="col-md-12  text-xs-center">
                     <h3 class="mbr-section-title display-2">Contact us</h3>
-                    <div class="contact-div-info col-md-12">
-                        <div class="contact-card">
-                           <h3 class="icon-contactus">
+                    <div class="contact-div-info col-md-12 row">
+                        <div class="contact-card col-md-4">
+                           <h3 class="icon-contactus ">
                            <i class="fas fa-map-marked-alt fa-2x"></i>
-                           </h3> dsasfsac
+                           </h3>
+                           <h5 class="cardTitle">
+                           Our Location
+
+                           </h5>
+                           <p> 13 gafecac jcsqcasjcascjascascascasc </p>
+
                         </div>
-                          <div class="contact-card">
+                          <div class="contact-card col-md-4">
                           <h3 class="icon-contactus">
                           <i class="fas fa-mobile-alt fa-2x"></i>
                           </h3>
-                            dsasfsac
-                        </div>
-                        <div class="contact-card">
+                          <h5 class="cardTitle">
+                          Call Us
+
+
+                           </h5>                        </div>
+                        <div class="contact-card col-md-4">
                         <h3 class="icon-contactus">
                         <i class="fas fa-envelope-open-text fa-2x"></i>
                         </h3>
-                            dsasfsac
-                        </div>
+                        <h5 class="cardTitle">
+                        Email Us
+
+                           </h5>                        </div>
 
                     </div>
 
@@ -726,17 +737,18 @@ href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.
             cursor: pointer;
         }
         .contact-div-info{
-            display : flex;
+            /* display : flex;
             flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    align-self: center;
+    align-self: center; */
 }
 
+.cardTitle{
+    color : white;
+    font-family: initial;
+}
 
-        .contact-card{
-            margin: 5px;
-        }
 
         .offer-text{
     font-family: initial;
@@ -756,6 +768,20 @@ href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.
 
 }
     </style>
+
+<script>
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos >= currentScrollPos) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-150px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+</script>
+
 
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
