@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
   <meta name="description" content="wilsonroadvet">
-  <title>wilson road vet</title>
+  <title>Wilson Road Veterinary Clinc</title>
   <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
@@ -38,7 +38,7 @@
 
                     <div class="navbar-brand">
 
-                        <a class="navbar-caption" href="/">wilson road vet</a>
+                        <a class="navbar-caption" href="/">Wilson Road Veterinary Clinc</a>
                     </div>
 
                 </div>
@@ -63,7 +63,7 @@
 </section>
 
 
-<section class="engine"><a rel="external" href="/">wilson road vet</a></section><section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
+<section class="engine"><a rel="external" href="/">Wilson Road Veterinary Clinc</a></section><section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
     <div>
         <div>
             <div>
@@ -78,7 +78,7 @@
 
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-2 text-xs-center">
-                                        <h2 class="mbr-section-title display-1">wilson road vet</h2>
+                                        <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc</h2>
                                         <p class="mbr-section-lead lead">we love them like you do<br>
                                         <div class="online-button">
                                          <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> Book online </a>
@@ -99,7 +99,7 @@
 
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                        <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
+                                        <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;</h2>
                                         <p class="mbr-section-lead lead">
                                         <div class="online-button">
                                          <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> Book online </a>
@@ -317,7 +317,7 @@ It is longer than the subsequent visit since the first appointment is more of a 
 <br>
 66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
 <strong>Contacts</strong><br>
-Email: Physio4lifeajax@gmail.com<br>
+Email: wilsonrdvetclinic@gmail.com<br>
  <h6>Phone: +1 289-660-7666</h6><br>
  <h6>Fax: +1 289-660-8666</h6></p>
             </div>

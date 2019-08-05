@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
     <meta name="description" content="wilsonroadvet">
     <meta name="google-site-verification" content="ENZYIzSVTpXDC4YpxBLX6H9E3zV0PQGNh3W0j5H8e8g" />
-    <title>wilson road vet</title>
+    <title>Wilson Road Veterinary Clinc</title>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
@@ -38,7 +38,7 @@
 
                         <div class="navbar-brand">
 
-                            <a class="navbar-caption" href="/">wilson road vet</a>
+                            <a class="navbar-caption" href="/">Wilson Road Veterinary Clinc</a>
                         </div>
                     </div>
                     <div class="mbr-table-cell">
@@ -98,20 +98,8 @@
                                 <div class="container-slide container">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
-                                            {{-- <p class="mbr-section-lead lead">
-                                                <div class="online-button">
-                                                    <a href="/booking" style="color: white;">
-                                                        <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online
-                                                    </a>
-                                                </div>
-                                                <br>
-                                                <div class="online-button">
-                                                    <i class="fas fa-phone-alt"></i> <a
-                                                        href="tel:2896607666">2896607666</a><br>
-                                                </div>
-                                            </p> --}}
+                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
+                                            </h2>
                                         </div>
                                     </div>
                                 </div>
@@ -125,20 +113,8 @@
                                 <div class="container-slide container">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
-                                            {{-- <p class="mbr-section-lead lead">
-                                                <div class="online-button">
-                                                    <a href="/booking" style="color: white;">
-                                                        <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online
-                                                    </a>
-                                                </div>
-                                                <br>
-                                                <div class="online-button">
-                                                    <i class="fas fa-phone-alt"></i> <a
-                                                        href="tel:2896607666">2896607666</a><br>
-                                                </div>
-                                            </p> --}}
+                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
+                                            </h2>
                                         </div>
                                     </div>
                                 </div>
@@ -178,7 +154,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-xs-center">
-                    <h3 class="mbr-section-title display-2">Why wilson road vet ?</h3>
+                    <h4 class="mbr-section-title display-2">Why Wilson Road Veterinary Clinic ?</h4>
                 </div>
             </div>
         </div>
@@ -191,7 +167,7 @@
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li>
-                            <em>Wilson Road Veterinary Clinic has performed veterinary services for small animal
+                            <em>Wilson Road Veterinary Cinic has performed veterinary services for small animal
                                 patients for over 40 years .&nbsp;
                             </em>
                         </li>
@@ -274,21 +250,21 @@
         </div>
     </section>
     <section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b"
-        style="background-color: #6785c3; padding-top: 90px; padding-bottom: 90px;">
+        style="background-color: #6785c3; padding-top: 90px; padding-bottom: 0px !important;">
         <div class="container">
             <div class="row">
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p><strong>Address</strong><br>
+                    <h2><h6 style="font-weight: bold;">Address</h6><br>
                         371 Wilson Road South
                         Oshawa, Ontario <br><br><br>
-                        <strong>Contacts</strong><br>
-                        Email: Physio4lifeajax@gmail.com<br>
-                        <h6>Phone: +1 289-660-7666</h6><br>
-                        <h6>Fax: +1 289-660-8666</h6>
+                        <h6 style="font-weight: bold;">Contacts</h6><br>
+                        Email: wilsonrdvetclinic@gmail.com<br>
+                        <h6>Phone: +1 905-576-8885</h6><br>
+                        {{-- <h6>Fax: +1 289-660-8666</h6> --}}
                     </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text"><strong>Links</strong></p>
+                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Links</h6></p>
                     <ul>
                         <li><a class="text-white" href="/">Home</a></li>
                         <li><a class="text-white" href="/services">Services</a></li>

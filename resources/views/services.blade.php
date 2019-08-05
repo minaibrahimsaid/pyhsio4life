@@ -39,7 +39,7 @@
 
             <div class="navbar-brand">
 
-              <a class="navbar-caption" href="/">wilson road vet</a>
+              <a class="navbar-caption" href="/">Wilson Road Veterinary Clinc</a>
             </div>
 
           </div>
@@ -232,23 +232,9 @@
                 <div class="card-body">
                   <ul>
                     <div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
-                    <p> Acupuncture is a branch of traditional Chinese medicine. It involves inserting ultra-thin,
-                      sterilised, disposable needles at specific acupuncture points to balance the body’s Chi
+                    <p> Local, Niagara Falls area veterinarian offering mobile House-Call service for a variety of reasons, but primarily to ease the stress and anxiety many pets feel when visiting the veterinary office.
                     </p>
                     <br>
-                    <p>
-                      In Chinese medicine Qi (or Chi) refers to the flow of vital energy in the body through channels or
-                      meridians. If a problem occurs, energy slows down or becomes stagnated.
-                    </p>
-                    <br>
-                    <p>By stimulating appropriate points on the body, acupuncture is thought to release these blockages
-                      and promote healing.
-                    </p><br>
-                    <p>
-                      Acupuncture in Physiotherapy is used together with more traditional, conventional physiotherapy
-                      treatments such as manual therapy and exercise.
-                    </p>
-
                   </ul>
                 </div>
               </div>
@@ -526,7 +512,7 @@
             371 Wilson Road South
             Oshawa, Ontario <br><br><br>
             <strong>Contacts</strong><br>
-            Email: Physio4lifeajax@gmail.com<br>
+            Email: wilsonrdvetclinic@gmail.com<br>
             <h6>Phone: +1 289-660-7666</h6><br>
             <h6>Fax: +1 289-660-8666</h6>
           </p>

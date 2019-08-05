@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
     <meta name="description" content="wilsonroadvet">
-    <title>wilson road vet</title>
+    <title>Wilson Road Veterinary Clinc</title>
     <script src="https://kit.fontawesome.com/45b7c5018e.js"></script>
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
@@ -42,7 +42,7 @@
 
                         <div class="navbar-brand">
 
-                            <a class="navbar-caption" href="/">wilson road vet</a>
+                            <a class="navbar-caption" href="/">Wilson Road Veterinary Clinc</a>
                         </div>
 
                     </div>
@@ -93,7 +93,7 @@
 
 
 
-                                <img alt="" src="assets/images/1.jpg">
+                                <img alt="" src="assets/images/8.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -105,31 +105,12 @@
 
 
 
-                                <img alt="" src="assets/images/2.jpg">
+                                <img alt="" src="assets/images/9.jpg">
 
                                 <span class="icon-focus"></span>
 
                             </div>
                         </div>
-
-
-
-
-                        <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
-                            data-tags="Animated" data-video-url="false">
-                            <div href="#lb-gallery1-11" data-slide-to="15" data-toggle="modal">
-
-
-
-                                <img alt="" src="assets/images/17.jpeg">
-
-                                <span class="icon-focus"></span>
-
-                            </div>
-                        </div>
-
-
-
 
                         <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
                             data-tags="Creative" data-video-url="false">
@@ -137,7 +118,7 @@
 
 
 
-                                <img alt="" src="assets/images/3.jpg">
+                                <img alt="" src="assets/images/10.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -149,7 +130,7 @@
 
 
 
-                                <img alt="" src="assets/images/4.jpg">
+                                <img alt="" src="assets/images/11.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -161,7 +142,7 @@
 
 
 
-                                <img alt="" src="assets/images/5.jpg">
+                                <img alt="" src="assets/images/12.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -173,7 +154,7 @@
 
 
 
-                                <img alt="" src="assets/images/6.jpg">
+                                <img alt="" src="assets/images/13.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -185,7 +166,7 @@
 
 
 
-                                <img alt="" src="assets/images/7.jpg">
+                                <img alt="" src="assets/images/14.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -197,7 +178,7 @@
 
 
 
-                                <img alt="" src="assets/images/8.jpg">
+                                <img alt="" src="assets/images/15.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -210,7 +191,7 @@
 
 
 
-                                <img alt="" src="assets/images/9.jpeg">
+                                <img alt="" src="assets/images/16.jpeg">
 
                                 <span class="icon-focus"></span>
 
@@ -224,83 +205,13 @@
 
 
 
-                                <img alt="" src="assets/images/10.jpeg">
+                                <img alt="" src="assets/images/17.jpeg">
 
                                 <span class="icon-focus"></span>
 
                             </div>
                         </div>
 
-
-                        <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
-                            data-tags="Animated" data-video-url="false">
-                            <div href="#lb-gallery1-11" data-slide-to="10" data-toggle="modal">
-
-
-
-                                <img alt="" src="assets/images/11.jpeg">
-
-                                <span class="icon-focus"></span>
-
-                            </div>
-                        </div>
-
-
-
-                        <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
-                            data-tags="Animated" data-video-url="false">
-                            <div href="#lb-gallery1-11" data-slide-to="12" data-toggle="modal">
-
-
-
-                                <img alt="" src="assets/images/13.jpeg">
-
-                                <span class="icon-focus"></span>
-
-                            </div>
-                        </div>
-
-                        <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
-                            data-tags="Animated" data-video-url="false">
-                            <div href="#lb-gallery1-11" data-slide-to="13" data-toggle="modal">
-
-
-
-                                <img alt="" src="assets/images/14.jpeg">
-
-                                <span class="icon-focus"></span>
-
-                            </div>
-                        </div>
-
-
-                        <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
-                            data-tags="Animated" data-video-url="false">
-                            <div href="#lb-gallery1-11" data-slide-to="14" data-toggle="modal">
-
-
-
-                                <img alt="" src="assets/images/15.jpeg">
-
-                                <span class="icon-focus"></span>
-
-                            </div>
-                        </div>
-
-
-
-                        <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0"
-                            data-tags="Animated" data-video-url="false">
-                            <div href="#lb-gallery1-11" data-slide-to="15" data-toggle="modal">
-
-
-
-                                <img alt="" src="assets/images/16.jpeg">
-
-                                <span class="icon-focus"></span>
-
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div class="clearfix"></div>
@@ -325,66 +236,39 @@
                             <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="7"></li>
                             <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="8"></li>
                             <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="9"></li>
-                            <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="10"></li>
-                            <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="12"></li>
-                            <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="13"></li>
-                            <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="14"></li>
-                            <li data-app-prevent-settings="" data-target="#lb-gallery1-11" data-slide-to="15"></li>
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img alt="" src="assets/images/1.jpg">
-                            </div>
-                            <div class="carousel-item">
-                                <img alt="" src="assets/images/2.jpg">
-                            </div>
-                            <div class="carousel-item">
-                                <img alt="" src="assets/images/3.jpg">
-                            </div>
-                            <div class="carousel-item">
-                                <img alt="" src="assets/images/4.jpg">
-                            </div>
-                            <div class="carousel-item">
-                                <img alt="" src="assets/images/5.jpg">
-                            </div>
-                            <div class="carousel-item">
-                                <img alt="" src="assets/images/6.jpg">
-                            </div>
-                            <div class="carousel-item">
-                                <img alt="" src="assets/images/7.jpg">
-                            </div>
-                            <div class="carousel-item">
                                 <img alt="" src="assets/images/8.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/9.jpeg">
+                                <img alt="" src="assets/images/9.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/10.jpeg">
+                                <img alt="" src="assets/images/10.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/11.jpeg">
+                                <img alt="" src="assets/images/11.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/12.jpeg">
+                                <img alt="" src="assets/images/12.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/13.jpeg">
+                                <img alt="" src="assets/images/13.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/14.jpeg">
+                                <img alt="" src="assets/images/14.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/15.jpeg">
+                                <img alt="" src="assets/images/15.jpg">
                             </div>
-
                             <div class="carousel-item">
                                 <img alt="" src="assets/images/16.jpeg">
                             </div>
-
                             <div class="carousel-item">
                                 <img alt="" src="assets/images/17.jpeg">
                             </div>
+                        
                         </div>
                         <a class="left carousel-control" role="button" data-slide="prev" href="#lb-gallery1-11">
                             <span class="icon-prev" aria-hidden="true"></span>
@@ -415,7 +299,7 @@
                         <br>
                         66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
                         <strong>Contacts</strong><br>
-                        Email: Physio4lifeajax@gmail.com<br>
+                        Email: wilsonrdvetclinic@gmail.com<br>
                          <h6>Phone: +1 289-660-7666</h6><br>
                          <h6>Fax: +1 289-660-8666</h6></p>
                 </div>
