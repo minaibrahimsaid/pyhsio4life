@@ -99,7 +99,7 @@
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
-                                            <p class="mbr-section-lead lead">
+                                            {{-- <p class="mbr-section-lead lead">
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
@@ -111,7 +111,7 @@
                                                     <i class="fas fa-phone-alt"></i> <a
                                                         href="tel:2896607666">2896607666</a><br>
                                                 </div>
-                                            </p>
+                                            </p> --}}
                                         </div>
                                     </div>
                                 </div>
@@ -126,7 +126,7 @@
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1">wilson road vet&nbsp;</h2>
-                                            <p class="mbr-section-lead lead">
+                                            {{-- <p class="mbr-section-lead lead">
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
@@ -138,7 +138,7 @@
                                                     <i class="fas fa-phone-alt"></i> <a
                                                         href="tel:2896607666">2896607666</a><br>
                                                 </div>
-                                            </p>
+                                            </p> --}}
                                         </div>
                                     </div>
                                 </div>
@@ -361,7 +361,7 @@
             color: white
         }
 
-        @media only screen and (max-width: 600px) {
+        @media only screen and (max-width: 800px) {
             #offer-slide {
                 background-image: url(assets/images/1mob.jpg) !important;
             }
