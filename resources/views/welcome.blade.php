@@ -37,7 +37,7 @@
                     <div class="mbr-table-cell">
 
                         <div class="navbar-brand">
-
+                            <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"  > </a>
                             <a class="navbar-caption" href="/">Wilson Road Veterinary Clinc</a>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote>"&nbsp;we love them like you do&nbsp;"</blockquote>
+                    <blockquote><img src="/assets/images/logo.png" width="10%"  >    "&nbsp;we love them like you do&nbsp;"</blockquote>
                 </div>
             </div>
         </div>
@@ -173,7 +173,7 @@
                         </li>
                         <li>
                             <em>
-                                Dr. Greg Topolie, the original veterinarian, along with a number of veterinary
+                                We , along with a number of veterinary
                                 associates,
                                 have continued to care for your pets in the Oshawa and surrounding Durham community.
                             </em>
@@ -197,6 +197,10 @@
                         <li> <em>
                                 We acquire and retain an excellent, well-trained team; provide them with ongoing
                                 opportunities for continuing education and professional development. //TODO
+                            </em></li>
+
+                            <li> <em>
+                                House Call //TODO
                             </em></li>
                     </ul>
                 </div>

@@ -571,7 +571,7 @@ href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.
     }
 
     .service-header {
-      background-color: blue;
+      background-color: #116db4;
     }
 
     .service-image {
