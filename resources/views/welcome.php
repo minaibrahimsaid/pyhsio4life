@@ -107,7 +107,7 @@
                                     </div>
                             </div>
                         </div>
-                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
+                    </div><div id="offer-slide2"  class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
@@ -135,7 +135,7 @@
                                     </div>
                             </div>
                         </div>
-                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
+                    </div><div id="offer-slide3" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
@@ -764,6 +764,13 @@ href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.
         @media only screen and (max-width: 600px) {
   #offer-slide {
     background-image: url(assets/images/1mob.jpg) !important;
+  }
+  #offer-slide2 {
+    background-image: url(assets/images/2mob.jpg) !important;
+  }
+
+  #offer-slide3 {
+    background-image: url(assets/images/3mob.jpg) !important;
   }
 
 }
