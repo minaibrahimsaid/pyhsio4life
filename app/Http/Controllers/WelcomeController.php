@@ -73,4 +73,9 @@ class WelcomeController extends Controller
         });
         return redirect()->route('contact-us');
     }
+
+    public function team()
+    {
+        return view('team');
+    }
 }

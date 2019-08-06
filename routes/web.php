@@ -13,6 +13,7 @@
 
 $router->get('/', 'WelcomeController@welcome');
 $router->get('/services', 'WelcomeController@services');
+$router->get('/team', 'WelcomeController@team');
 $router->get('/contact-us', [
     'as' => 'contact-us', 'uses' => 'WelcomeController@contactus'
 ] );
