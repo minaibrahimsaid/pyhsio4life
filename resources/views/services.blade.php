@@ -240,6 +240,49 @@
               </div>
             </div>
 
+            <div class="card">
+              <div class="card-header service-header" id="heading11">
+                <h5 class="mb-0">
+                  <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse50"
+                    aria-expanded="false" aria-controls="collapse11">
+                    Humane Euthanasia
+                  </button>
+                </h5>
+              </div>
+              <div id="collapse50" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
+                <div class="card-body">
+                  <ul>
+                    <div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
+                    <p> Local, Niagara Falls area veterinarian offering mobile House-Call service for a variety of reasons, but primarily to ease the stress and anxiety many pets feel when visiting the veterinary office.
+                    </p>
+                    <br>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            
+            <div class="card">
+              <div class="card-header service-header" id="heading11">
+                <h5 class="mb-0">
+                  <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse51"
+                    aria-expanded="false" aria-controls="collapse11">
+                    Heartworm, flea and tick preventative program
+                  </button>
+                </h5>
+              </div>
+              <div id="collapse51" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
+                <div class="card-body">
+                  <ul>
+                    <div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
+                    <p> Local, Niagara Falls area veterinarian offering mobile House-Call service for a variety of reasons, but primarily to ease the stress and anxiety many pets feel when visiting the veterinary office.
+                    </p>
+                    <br>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
 
 
           </div>
@@ -436,7 +479,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
                           data-target="#collapse132" aria-expanded="false" aria-controls="collapse6">
-                          .... control
+                          Nutritional and behavioral consultations
                         </button>
                       </h5>
                     </div>
@@ -455,7 +498,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
                           data-target="#collapse131" aria-expanded="false" aria-controls="collapse6">
-                          Diet Consultation
+                          Microchip
                         </button>
                       </h5>
                     </div>
