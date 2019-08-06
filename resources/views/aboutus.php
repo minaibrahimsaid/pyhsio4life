@@ -160,40 +160,49 @@
 </section>
 
 
-<section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b" style="background-color: #6785c3; padding-top: 90px; padding-bottom: 90px;">
-
-    <div class="container">
-        <div class="row">
-            <div class="mbr-footer-content col-xs-12 col-md-3">
-                <p><strong>Address</strong><br>
-<br>
-66 Harwood Ave S , Ajax,  ON LIS 2H6 <br><br><br>
-<strong>Contacts</strong><br>
-Email: wilsonrdvetclinic@gmail.com<br>
- <h6>Phone: +1 289-660-7666</h6><br>
- <h6>Fax: +1 289-660-8666</h6></p>
-            </div>
-            <div class="mbr-footer-content col-xs-12 col-md-3"><p class="mbr-contacts__text"><strong>Links</strong></p><ul><li><a class="text-white" href="/">Home</a></li><li><a class="text-white" href="/services">Services</a></li><li><a class="text-white" href="/faq">F&Q</a></li> <li><a class="text-white" href="/contact-us">Contact Us</a></li> 
-            <li><a class="text-white" href="/about-us">About Us</a></li> 
-            </ul></div>
-            <div class="col-xs-12 col-md-6">
-                <!-- <div class="mbr-map" data-state="error"><div data-state-details="">Failed to load the library</div></div> -->
-                <div id="map">
-                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7468.4840640647535!2d-79.02835943392569!3d43.85010959839869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4dfdfcc7cb8f7%3A0xc33c18fa74befe0c!2s66+Harwood+Ave+S%2C+Ajax%2C+ON+L1S+2H6!5e0!3m2!1sen!2sca!4v1552491393630" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
+<section class="mbr-section mbr-section-md-padding mbr-footer footer2" id="contacts2-b"
+        style="background-color: #6785c3; padding-top: 90px; padding-bottom: 0px !important;">
+        <div class="container">
+            <div class="row">
+                <div class="mbr-footer-content col-xs-12 col-md-3">
+                    <h2><h6 style="font-weight: bold;">Address</h6><br>
+                        371 Wilson Road South
+                        Oshawa, Ontario <br><br><br>
+                        <h6 style="font-weight: bold;">Contacts</h6><br>
+                        Email: wilsonrdvetclinic@gmail.com<br>
+                        <h6>Phone: +1 905-576-8885</h6><br>
+                        {{-- <h6>Fax: +1 289-660-8666</h6> --}}
+                    </p>
+                </div>
+                <div class="mbr-footer-content col-xs-12 col-md-3">
+                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Links</h6></p>
+                    <ul>
+                        <li><a class="text-white" href="/">Home</a></li>
+                        <li><a class="text-white" href="/services">Services</a></li>
+                        <li><a class="text-white" href="/faq">F&Q</a></li>
+                        <li><a class="text-white" href="/contact-us">Contact Us</a></li>
+                        <li><a class="text-white" href="/about-us">About Us</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-md-6">
+                    <div id="map">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca"
+                            width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
+    <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-a"
         style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
         <div style="text-align:center;">
             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
                 href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
             <a class="btn btn-social" title="Google" target="_blank"
-href= "https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.892474,-78.8412599,17z/data=!3m1!4b1!4m5!3m4!1s0x89d51cd52647b2e5:0x92e4f41ed490e0f5!8m2!3d43.892474!4d-78.8390712">                <i
-                    class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
+                href="https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.892474,-78.8412599,17z/data=!3m1!4b1!4m5!3m4!1s0x89d51cd52647b2e5:0x92e4f41ed490e0f5!8m2!3d43.892474!4d-78.8390712">
+                <i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
                 href="/"><i class="socicon socicon-instagram"></i></a> </div>
         <div class="container">
             <p class="text-xs-center">Copyright (c) wilsonroadvet.</p>
