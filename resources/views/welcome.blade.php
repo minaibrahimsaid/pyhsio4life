@@ -37,9 +37,11 @@
                     <div class="mbr-table-cell">
 
                         <div class="navbar-brand">
-                                <a class="navbar-caption" href="/"><h2 id="clinic-name" style="    font-weight: bold;
-                                    margin-bottom: auto;">Wilson Road Veterinary Clinc</h2></a>
-                            <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"  > </a>
+                            <a class="navbar-caption" href="/">
+                                <h2 id="clinic-name" style="    font-weight: bold;
+                                    margin-bottom: auto;">Wilson Road Veterinary Clinc</h2>
+                            </a>
+                            <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a>
                         </div>
                     </div>
                     <div class="mbr-table-cell">
@@ -50,20 +52,30 @@
                         </button>
                         <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm"
                             id="exCollapsingNavbar">
-                                {{-- <li class="nav-item"><a   style="color: #6785c3;" class="nav-link link" href="/">home</a></li> --}}
-                            <li class="nav-item"><div class="dropdown show">
-                                <a style="background-color: transparent; border: 0px; color: white;  margin-top: 0px !important;" class="btn btn-secondary dropdown-toggle link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                  About Us
-                                </a>
-                              
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="background: dodgerblue; padding: 0px !important;">
-                                  <a  style="background-color: transparent; border: 0px;  margin-top: 0px !important;"  class="dropdown-item" href="/about-us">Team</a>
-                                  <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"  class="dropdown-item" href="/gallery">Clinic</a>
+                            {{-- <li class="nav-item"><a   style="color: #6785c3;" class="nav-link link" href="/">home</a></li> --}}
+                            <li class="nav-item">
+                                <div class="dropdown show">
+                                    <a style="background-color: transparent; border: 0px; color: white;  margin-top: 0px !important;"
+                                        class="btn btn-secondary dropdown-toggle link" href="#" role="button"
+                                        id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                                        aria-expanded="false">
+                                        About Us
+                                    </a>
+
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
+                                        style="background: dodgerblue; padding: 0px !important;">
+                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                            class="dropdown-item" href="/about-us">Team</a>
+                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                            class="dropdown-item" href="/gallery">Clinic</a>
+                                    </div>
                                 </div>
-                              </div></li>
-                            <li class="nav-item"><a style="color: white;" class="nav-link link" href="/services">services</a></li>
-                            <li class="nav-item"><a class="nav-link link"  style="color: white;"  href="/contact-us">Contact&nbsp;Us</a></li>
-                            <li class="nav-item"><a class="nav-link link"  style="color: white;"  href="/faq">FAQ</a></li>
+                            </li>
+                            <li class="nav-item"><a style="color: white;" class="nav-link link"
+                                    href="/services">services</a></li>
+                            <li class="nav-item"><a class="nav-link link" style="color: white;"
+                                    href="/contact-us">Contact&nbsp;Us</a></li>
+                            <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
                         <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
@@ -151,7 +163,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote><img src="/assets/images/logo.png" width="10%"  >    "&nbsp;we love them like you do&nbsp;"</blockquote>
+                    <blockquote><img src="/assets/images/logo.png" width="10%"> "&nbsp;we love them like you do&nbsp;"
+                    </blockquote>
                 </div>
             </div>
         </div>
@@ -178,23 +191,21 @@
                     <ul>
                         <li>
                             <em>Wilson Road Veterinary Cinic has performed veterinary services for small animal
-                                patients for over 40 years .&nbsp;
+                                patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
+                                community.&nbsp;
                             </em>
                         </li>
-                        <li>
-                            <em>
-                                We , along with a number of veterinary
-                                associates,
-                                have continued to care for your pets in the Oshawa and surrounding Durham community.
-                            </em>
-                        </li>
-
                         <li>
                             <em>
                                 Our hospital is comprised of a group of individuals whose drive is to treat every pet as
                                 though
                                 they were one of their own and provide an exceptional level of care for pets and their
-                                owners. //TODO
+                                owners.
+                            </em>
+                        </li>
+                        <li>
+                            <em>
+                                we open 6 days a week with extended hours and even on Saturday
                             </em>
                         </li>
                     </ul>
@@ -202,15 +213,17 @@
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li> <em>We maintain a facility that is extremely clean, welcoming and designed to minimize both
-                                a pets and clients anxiety. //TODO
+                                a pets and clients anxiety.
                             </em></li>
                         <li> <em>
                                 We acquire and retain an excellent, well-trained team; provide them with ongoing
-                                opportunities for continuing education and professional development. //TODO
+                                opportunities for continuing education and professional development.
                             </em></li>
 
-                            <li> <em>
-                                House Call //TODO
+                        <li> <em>
+                                We care about you and your pet
+                                convenience so we do house call and offer all our services from the comfort of your home
+                                .
                             </em></li>
                     </ul>
                 </div>
@@ -268,17 +281,20 @@
         <div class="container">
             <div class="row">
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <h2><h6 style="font-weight: bold;">Address</h6><br>
+                    <h2>
+                        <h6 style="font-weight: bold;">Address</h6><br>
                         371 Wilson Road South
                         Oshawa, Ontario <br><br><br>
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
                         <h6>Phone: +1 905-576-8885</h6><br>
                         {{-- <h6>Fax: +1 289-660-8666</h6> --}}
-                    </p>
+                        </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Links</h6></p>
+                    <p class="mbr-contacts__text">
+                        <h6 style="font-weight: bold;">Links</h6>
+                    </p>
                     <ul>
                         <li><a class="text-white" href="/">Home</a></li>
                         <li><a class="text-white" href="/services">Services</a></li>
@@ -364,7 +380,7 @@
                 background-image: url(assets/images/3mob.jpg) !important;
             }
 
-            #clinic-name{
+            #clinic-name {
                 font-size: medium;
             }
         }

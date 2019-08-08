@@ -481,7 +481,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse12"
                           aria-expanded="false" aria-controls="collapse6">
-                          Weight Management
+                          radiology services
 
                         </button>
                       </h5>
@@ -536,7 +536,7 @@
 
 
                   
-                  <div class="card">
+                  {{-- <div class="card">
                     <div class="card-header service-header" id="heading6">
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
@@ -553,7 +553,7 @@
                         </ul>
                       </div>
                     </div>
-                  </div>
+                  </div> --}}
 
 
 
