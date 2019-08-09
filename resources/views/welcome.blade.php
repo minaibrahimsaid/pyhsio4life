@@ -190,7 +190,7 @@
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li>
-                            <em>Wilson Road Veterinary Cinic has performed veterinary services for small animal
+                            <em><strong> Wilson Road Veterinary Cinic </strong> has performed veterinary services for small animal
                                 patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
                                 community.&nbsp;
                             </em>
@@ -259,7 +259,8 @@
                             <h5 class="cardTitle">
                                 Call Us
                             </h5>
-                            <p class="contact-card-text"> 411 1111 2222 </p>
+                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;" href="tel:+9055768885">
+                                905 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -269,7 +270,8 @@
                             <h5 class="cardTitle">
                                 Email Us
                             </h5>
-                            <p class="contact-card-text"> example@gmail.com </p>
+                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;" href="mailto:wilsonrdvetclinic@gmail.com">
+                                wilsonrdvetclinic@gmail.com </a> </p>
                         </div>
                     </div>
                 </div>
