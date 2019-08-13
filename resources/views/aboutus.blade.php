@@ -38,7 +38,8 @@
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road Veterinary Clinc</h2>
+                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road
+                                    Veterinary Clinc</h2>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
@@ -88,150 +89,132 @@
     </section>
 
     {{-- start-page --}}
-    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
-        id="slider-0">
-        <div>
-            <div>
-                <div>
-                    <ol class="carousel-indicators">
-                        <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li>
-                        <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li>
-                        <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner" role="listbox">
-                        <div id="offer-slide"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
-                            data-bg-video-slide="false" style="background-image: url(assets/images/1.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="offer-slide2"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
-                                            </h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="offer-slide3"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
-                                            </h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+    <section class="mbr-section" id="testimonials1-u"
+        style="background-color: rgb(255, 255, 255); padding-top: 10rem; padding-bottom: 0px;">
+
+
+
+        <div class="mbr-section mbr-section__container mbr-section__container--middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-xs-center">
+                        <h3 class="mbr-section-title display-2">Our Facility&nbsp;</h3>
+
                     </div>
-                    <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev"
-                        href="#slider-0">
-                        <span class="icon-prev" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next"
-                        href="#slider-0">
-                        <span class="icon-next" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
                 </div>
             </div>
         </div>
+
+
     </section>
-    <section class="mbr-section article mbr-section__container" id="content2-j"
+
+    <section class="mbr-section article mbr-section__container" id="content1-s"
         style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img src="/assets/images/logo.png" width="10%" />
-                    </blockquote>
+                    <p>We have recently opened our new physiotherapy premises at
+                        66 Harwood Ave. Ajax It is located across the street from Ajax library. Parking is available.
+                    </p>
                 </div>
             </div>
         </div>
 
     </section>
-    <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
-        style="background-image: url(assets/images/7.jpg); padding-top: 40px; padding-bottom: 40px;">
-        <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-xs-center">
-                    <h4 class="mbr-section-title display-2">Why Wilson Road Veterinary Clinic ?</h4>
+    <section class="mbr-section" id="testimonials1-u"
+        style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
+
+
+
+        <div class="mbr-section mbr-section__container mbr-section__container--middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-xs-center">
+                        <h3 class="mbr-section-title display-2">Our Staff&nbsp;</h3>
+
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
-    <section class="mbr-section article mbr-section__container" id="content6-q"
-        style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-md-6 lead">
-                    <ul>
-                        <li>
-                            <em><strong> Wilson Road Veterinary Clinic </strong> has performed veterinary services for small animal
-                                patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
-                                community.&nbsp;
-                            </em>
-                        </li>
-                        <li>
-                            <em>
-                                Our hospital is comprised of a group of individuals whose drive is to treat every pet as
-                                though
-                                they were one of their own and provide an exceptional level of care for pets and their
-                                owners.
-                            </em>
-                        </li>
-                        <li>
-                            <em>
-                                we open 6 days a week with extended hours and even on Saturday
-                            </em>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-xs-12 col-md-6 lead">
-                    <ul>
-                        <li> <em>We maintain a facility that is extremely clean, welcoming and designed to minimize both
-                                a pets and clients anxiety.
-                            </em></li>
-                        <li> <em>
-                                We acquire and retain an excellent, well-trained team; provide them with ongoing
-                                opportunities for continuing education and professional development.
-                            </em></li>
 
-                        <li> <em>
-                                We care about you and your pet
-                                convenience so we do house call and offer all our services from the comfort of your home
-                                .
-                            </em></li>
-                    </ul>
+        <div class="mbr-testimonials mbr-section mbr-section-nopadding">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-xs-12 col-md-6">
+                        <div class="mbr-author card-footer" style="text-align: center;">
+                            <div class="mbr-author-img"><img src="assets/images/face.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name">Nivirt Tadrous</div>
+                            <small class="mbr-author-desc"> registered physiotherapist</small>
+                        </div>
+                        <div class="mbr-testimonial card mbr-testimonial-lg">
+                            <div class="card-block">
+                                <ul>
+                                    <li> Nivirt has been practicing physiotherapy since 1993, over 25 years experience
+                                        in the field of physiotherapy. Nivirt is a registered physiotherapist in
+                                        Ontario.
+                                    </li>
+                                    <li>She has graduated from Faculty of Physical Therapy, Cairo University, Egypt 1993
+                                        and MSc degree of physical therapy from the same university in 2002 . </li>
+                                    <li>She became a registered physiotherapist in Canada in 2017, and she had been
+                                        working in 2 private clinics, Physiocare and Physiocan and she has excellent
+                                        Google reviews.</li>
+                                    <li>She has had intense additional courses in manual therapy, sports medicine, pain
+                                        control and Acupuncture. She has experience working in both private and
+                                        hospitals in Egypt. </li>
+                                    <li>She is a member of college of physiotherapist Ontario and Canadian Physiotherapy
+                                        Association (CPA)</li>
+                                    <li>She enjoys treating musculoskeletal injuries using the most advanced techniques
+                                        in physiotherapy and takes a holistic approach to care. </li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <div class="mbr-author card-footer" style="text-align: center;">
+                            <!-- <div class="mbr-author-img"><img src="assets/images/" class="img-circle"></div> -->
+                            <div class="mbr-author-name">Dina Soliman</div>
+                            <small class="mbr-author-desc">registered physiotherapist</small>
+                        </div>
+                        <div class="mbr-testimonial card mbr-testimonial-lg">
+                            <div class="card-block">
+                                <ul>
+                                    <li> Dina received a Bachelor of Physical Therapy from Cairo University in 1999, and
+                                        in 2008 she completed a Master of Physical Therapy from Cairo University. </li>
+                                    <li>She has completed additional courses in musculoskeletal, cardio respiratory, and
+                                        neurological physical therapy in Canada through the Ontario internationally
+                                        educated physical therapy Bridging Program at University of Toronto </li>
+                                    <li>She completed advanced manual therapy in upper limb conditions, and lumbo-pelvic
+                                        conditions. </li>
+                                    <li> She has over three years experience in pelvic health.</li>
+                                    <li>She completed courses for patients who suffer from loss of bladder and bowel
+                                        control, prolapse, constipation, and pelvic pain.</li>
+                                    <li> She has completed a special course for treating rectus diastasis from Bellies
+                                        Inc., and has a real passion for treating pregnant women and post-natal
+                                        patients.</li>
+                                    <li> She taken special courses in treating chronic pelvic pain and visceral release
+                                        for bladder dysfunction. Recently, she completed oncology and female organs, as
+                                        well lymphatic drainage for the pelvic region</li>
+                                    <li> She is a member of the Women Health Division and Orthopedic Division of the
+                                        Canadian Physiotherapy Association.</li>
+                                    <li> She enjoys working out, yoga, and meditation. She loves singing and was an
+                                        opera singer at the Cairo Opera House.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
+
             </div>
+
         </div>
+
     </section>
-{{-- end-page --}}
+    {{-- end-page --}}
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/6.jpeg); padding-top: 40px; padding-bottom: 40px;">
 
@@ -260,8 +243,9 @@
                             <h5 class="cardTitle">
                                 Call Us
                             </h5>
-                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;" href="tel:+9055768885">
-                                905 576 8885</a> </p>
+                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;"
+                                    href="tel:+9055768885">
+                                    905 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -271,8 +255,9 @@
                             <h5 class="cardTitle">
                                 Email Us
                             </h5>
-                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;" href="mailto:wilsonrdvetclinic@gmail.com">
-                                wilsonrdvetclinic@gmail.com </a> </p>
+                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;"
+                                    href="mailto:wilsonrdvetclinic@gmail.com">
+                                    wilsonrdvetclinic@gmail.com </a> </p>
                         </div>
                     </div>
                 </div>
@@ -294,14 +279,16 @@
                         </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Hours</h6></p>
+                    <p class="mbr-contacts__text">
+                        <h6 style="font-weight: bold;">Hours</h6>
+                    </p>
                     <ul>
-                      <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Sunday Day off </li>
+                        <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-6">
@@ -404,3 +391,4 @@
 </body>
 
 </html>
+

@@ -30,15 +30,18 @@
 
 <body>
     <section id="ext_menu-7">
-        <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top" style="    background-color: transparent;">
+        <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
             <div class="container" style="    max-width: 70%;">
 
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 
                         <div class="navbar-brand">
-                            <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"  > </a>
-                            <a class="navbar-caption"  style="color: #6785c3;" href="/">Wilson Road Veterinary Clinc</a>
+                            <a class="navbar-caption" href="/">
+                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road
+                                    Veterinary Clinc</h2>
+                            </a>
+                            {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
                     </div>
                     <div class="mbr-table-cell">
@@ -49,20 +52,31 @@
                         </button>
                         <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm"
                             id="exCollapsingNavbar">
-                            <li class="nav-item"><div class="dropdown show">
-                                <a style="background-color: transparent; border: 0px; color: #6785c3;  margin-top: 0px !important;" class="btn btn-secondary dropdown-toggle link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                  About Us
-                                </a>
-                              
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="background: dodgerblue; padding: 0px !important;">
-                                  <a  style="background-color: transparent; border: 0px;  margin-top: 0px !important;"  class="dropdown-item" href="/team">Team</a>
-                                  <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"  class="dropdown-item" href="#">Clinic</a>
+                            {{-- <li class="nav-item"><a   style="color: #6785c3;" class="nav-link link" href="/">home</a></li> --}}
+                            <li class="nav-item">
+                                <div class="dropdown show">
+                                    <a style="background-color: transparent; border: 0px; color: white;  margin-top: 0px !important;"
+                                        class="btn btn-secondary dropdown-toggle link" href="#" role="button"
+                                        id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                                        aria-expanded="false">
+                                        About Us
+                                    </a>
+
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
+                                        style="background: dodgerblue; padding: 0px !important;">
+                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                            class="dropdown-item" href="/about-us">Team</a>
+                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                            class="dropdown-item" href="/gallery">Clinic</a>
+                                    </div>
                                 </div>
-                              </div></li>
-                            <li class="nav-item"><a style="color: #6785c3;" class="nav-link link" href="/services">services</a></li>
-                            <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/contact-us">Contact Us</a></li>
-                            <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/faq">FAQ</a></li>
-                            <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li>
+                            </li>
+                            <li class="nav-item"><a style="color: white;" class="nav-link link"
+                                    href="/services">services</a></li>
+                            <li class="nav-item"><a class="nav-link link" style="color: white;"
+                                    href="/contact-us">Contact&nbsp;Us</a></li>
+                            <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
+                            {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
                         <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
                             data-target="#exCollapsingNavbar">
@@ -149,7 +163,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote><img src="/assets/images/logo.png" width="10%"  >    "&nbsp;we love them like you do&nbsp;"</blockquote>
+                    <blockquote><img src="/assets/images/logo.png" width="10%"> "&nbsp;we love them like you do&nbsp;"
+                    </blockquote>
                 </div>
             </div>
         </div>
@@ -207,7 +222,7 @@
                                 opportunities for continuing education and professional development. //TODO
                             </em></li>
 
-                            <li> <em>
+                        <li> <em>
                                 House Call //TODO
                             </em></li>
                     </ul>
@@ -215,7 +230,6 @@
             </div>
         </div>
     </section>
-
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/6.jpeg); padding-top: 40px; padding-bottom: 40px;">
 
@@ -244,7 +258,9 @@
                             <h5 class="cardTitle">
                                 Call Us
                             </h5>
-                            <p class="contact-card-text"> 411 1111 2222 </p>
+                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;"
+                                    href="tel:+9055768885">
+                                    905 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -254,7 +270,9 @@
                             <h5 class="cardTitle">
                                 Email Us
                             </h5>
-                            <p class="contact-card-text"> example@gmail.com </p>
+                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;"
+                                    href="mailto:wilsonrdvetclinic@gmail.com">
+                                    wilsonrdvetclinic@gmail.com </a> </p>
                         </div>
                     </div>
                 </div>
@@ -266,23 +284,26 @@
         <div class="container">
             <div class="row">
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <h2><h6 style="font-weight: bold;">Address</h6><br>
+                    <h2>
+                        <h6 style="font-weight: bold;">Address</h6><br>
                         371 Wilson Road South
                         Oshawa, Ontario <br><br><br>
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
                         <h6>Phone: +1 905-576-8885</h6><br>
-                        <!-- {{-- <h6>Fax: +1 289-660-8666</h6> --}} -->
-                    </p>
+                        </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Links</h6></p>
+                    <p class="mbr-contacts__text">
+                        <h6 style="font-weight: bold;">Hours</h6>
+                    </p>
                     <ul>
-                        <li><a class="text-white" href="/">Home</a></li>
-                        <li><a class="text-white" href="/services">Services</a></li>
-                        <li><a class="text-white" href="/faq">F&Q</a></li>
-                        <li><a class="text-white" href="/contact-us">Contact Us</a></li>
-                        <li><a class="text-white" href="/about-us">About Us</a></li>
+                        <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-6">
@@ -361,21 +382,12 @@
             #offer-slide3 {
                 background-image: url(assets/images/3mob.jpg) !important;
             }
+
+            #clinic-name {
+                font-size: x-small;
+            }
         }
     </style>
-
-    <script>
-        var prevScrollpos = window.pageYOffset;
-        window.onscroll = function() {
-        var currentScrollPos = window.pageYOffset;
-        if (prevScrollpos >= currentScrollPos) {
-            document.getElementById("navbar").style.top = "0";
-        } else {
-            document.getElementById("navbar").style.top = "-150px";
-        }
-        prevScrollpos = currentScrollPos;
-        }
-    </script>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>

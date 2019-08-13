@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
 
@@ -38,7 +40,8 @@
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road Veterinary Clinc</h2>
+                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road
+                                    Veterinary Clinc</h2>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
@@ -87,151 +90,146 @@
         </nav>
     </section>
 
-    {{-- start-page --}}
-    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
-        id="slider-0">
-        <div>
-            <div>
-                <div>
-                    <ol class="carousel-indicators">
-                        <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li>
-                        <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li>
-                        <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner" role="listbox">
-                        <div id="offer-slide"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
-                            data-bg-video-slide="false" style="background-image: url(assets/images/1.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="offer-slide2"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
-                                            </h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="offer-slide3"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
-                                            </h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+    <section class="mbr-section" id="msg-box5-n"
+    style="background-color: rgb(255, 255, 255);padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem;">
+    
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-table-md-up">
+    
+    
+    
+                <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
+                    <h3 class="mbr-section-title display-3">Our Location</h3>
+                    <div class="lead">
+    
+                        <p><strong>Address</strong><br>
+                            371 Wilson Road South Oshawa, Ontario  <br><br><br>
+                            <strong>Contacts</strong><br>
+                            Email: wilsonrdvetclinic@gmail.com<br>
+                            <h6>Phone: +1 289-660-7666</h6>
+                             <h6>Fax: +1 289-660-8666</h6></p>
                     </div>
-                    <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev"
-                        href="#slider-0">
-                        <span class="icon-prev" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next"
-                        href="#slider-0">
-                        <span class="icon-next" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
+    
+    
                 </div>
+    
+                <div class="mbr-table-cell col-md-3 text-xs-center text-md-left content-size">
+                    <h3 class="mbr-section-title display-3">Hours</h3>
+                    <div class="lead">
+    
+                        <p>
+                                <strong>Monday </strong>	9:00 am – 7:00 pm<br>
+                                <strong>Tuesday  </strong> 9:00 am – 7:00 pm<br>
+                                <strong>Wednesday  </strong> 9:00 am – 7:00 pm<br>
+                                <strong>Thursday  </strong>9:00 am – 7:00 pm<br>
+                                <strong>Friday </strong>9:00 am – 7:00 pm<br>
+                                <strong>Saturday  </strong> By appointment<br>
+                                <strong>Sunday  </strong> Day off<br>
+                            </p>
+                    </div>
+    
+    
+                </div>
+    
+    
+    
+    
+    
+                <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-4 image-size"
+                    style="width: 38%;">
+                    <div class="mbr-figure"><iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7468.4840640647535!2d-79.02835943392569!3d43.85010959839869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4dfdfcc7cb8f7%3A0xc33c18fa74befe0c!2s66+Harwood+Ave+S%2C+Ajax%2C+ON+L1S+2H6!5e0!3m2!1sen!2sca!4v1552491393630"
+                            width="100%" height="500px" frameborder="1" style="border:0" allowfullscreen></iframe>
+                    </div>
+                </div>
+    
             </div>
         </div>
+    </div>
+    
     </section>
-    <section class="mbr-section article mbr-section__container" id="content2-j"
-        style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
-
+    
+    
+    <section class="engine"></section>
+    <section class="mbr-section mbr-after-navbar" id="form1-x"
+    style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
+    
+    <div class="mbr-section mbr-section__container mbr-section__container--middle">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 lead">
-                    <blockquote> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img src="/assets/images/logo.png" width="10%" />
-                    </blockquote>
+                <div class="col-xs-12 text-xs-center">
+                    <h3 class="mbr-section-title display-2">Contact Form</h3>
                 </div>
             </div>
         </div>
-
-    </section>
-    <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
-        style="background-image: url(assets/images/7.jpg); padding-top: 40px; padding-bottom: 40px;">
-        <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
-        </div>
+    </div>
+    <div class="mbr-section mbr-section-nopadding">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-xs-center">
-                    <h4 class="mbr-section-title display-2">Why Wilson Road Veterinary Clinic ?</h4>
+                <div class="col-xs-12 col-lg-10 col-lg-offset-1" data-form-type="formoid">
+    
+    
+                    <div data-form-alert="true">
+                        <div hidden="" data-form-alert-success="true"
+                            class="alert alert-form alert-success text-xs-center">Thanks for filling out form!</div>
+                    </div>
+    
+    
+                    <form action="/contact" method="post" data-form-title="CONTACT FORM">
+    
+                        <input type="hidden"
+                            value="KiEHc9gxwm1lopCsmozqaw7WAT0DDNukedzIpSSewEZgq3VpRoO3+K/Z4cMWAETnG1DgSc4Ncu1HgdTQRrWO2QdfpNtUWqHy3wzklwKZCH76Ikgjl8bz/qRugOP+zbub"
+                            data-form-email="true">
+    
+                        <div class="row row-sm-offset">
+    
+                            <div class="col-xs-12 col-md-4">
+                                <div class="form-group">
+                                    <label class="form-control-label" for="form1-x-name">Name<span
+                                            class="form-asterisk">*</span></label>
+                                    <input type="text" class="form-control" name="name" required=""
+                                        data-form-field="Name" id="form1-x-name">
+                                </div>
+                            </div>
+    
+                            <div class="col-xs-12 col-md-4">
+                                <div class="form-group">
+                                    <label class="form-control-label" for="form1-x-email">Email<span
+                                            class="form-asterisk">*</span></label>
+                                    <input type="email" class="form-control" name="email" required=""
+                                        data-form-field="Email" id="form1-x-email">
+                                </div>
+                            </div>
+    
+                            <div class="col-xs-12 col-md-4">
+                                <div class="form-group">
+                                    <label class="form-control-label" for="form1-x-phone">Phone</label>
+                                    <input type="tel" class="form-control" name="phone" data-form-field="Phone"
+                                        id="form1-x-phone">
+                                </div>
+                            </div>
+    
+                        </div>
+    
+                        <div class="form-group">
+                            <label class="form-control-label" for="form1-x-message">Message</label>
+                            <textarea class="form-control" name="note" rows="7" data-form-field="Message"
+                                id="form1-x-message"></textarea>
+                        </div>
+    
+                        <div><button type="submit" class="btn btn-primary">CONTACT US</button></div>
+    
+                    </form>
                 </div>
             </div>
         </div>
+    </div>
     </section>
-    <section class="mbr-section article mbr-section__container" id="content6-q"
-        style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+    
+    
 
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-md-6 lead">
-                    <ul>
-                        <li>
-                            <em><strong> Wilson Road Veterinary Clinic </strong> has performed veterinary services for small animal
-                                patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
-                                community.&nbsp;
-                            </em>
-                        </li>
-                        <li>
-                            <em>
-                                Our hospital is comprised of a group of individuals whose drive is to treat every pet as
-                                though
-                                they were one of their own and provide an exceptional level of care for pets and their
-                                owners.
-                            </em>
-                        </li>
-                        <li>
-                            <em>
-                                we open 6 days a week with extended hours and even on Saturday
-                            </em>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-xs-12 col-md-6 lead">
-                    <ul>
-                        <li> <em>We maintain a facility that is extremely clean, welcoming and designed to minimize both
-                                a pets and clients anxiety.
-                            </em></li>
-                        <li> <em>
-                                We acquire and retain an excellent, well-trained team; provide them with ongoing
-                                opportunities for continuing education and professional development.
-                            </em></li>
-
-                        <li> <em>
-                                We care about you and your pet
-                                convenience so we do house call and offer all our services from the comfort of your home
-                                .
-                            </em></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-{{-- end-page --}}
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/6.jpeg); padding-top: 40px; padding-bottom: 40px;">
 
@@ -260,8 +258,9 @@
                             <h5 class="cardTitle">
                                 Call Us
                             </h5>
-                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;" href="tel:+9055768885">
-                                905 576 8885</a> </p>
+                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;"
+                                    href="tel:+9055768885">
+                                    905 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -271,8 +270,9 @@
                             <h5 class="cardTitle">
                                 Email Us
                             </h5>
-                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;" href="mailto:wilsonrdvetclinic@gmail.com">
-                                wilsonrdvetclinic@gmail.com </a> </p>
+                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;"
+                                    href="mailto:wilsonrdvetclinic@gmail.com">
+                                    wilsonrdvetclinic@gmail.com </a> </p>
                         </div>
                     </div>
                 </div>
@@ -294,14 +294,16 @@
                         </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Hours</h6></p>
+                    <p class="mbr-contacts__text">
+                        <h6 style="font-weight: bold;">Hours</h6>
+                    </p>
                     <ul>
-                      <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Sunday Day off </li>
+                        <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-6">

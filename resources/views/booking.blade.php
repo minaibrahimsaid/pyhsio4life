@@ -38,7 +38,8 @@
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road Veterinary Clinc</h2>
+                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road
+                                    Veterinary Clinc</h2>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
@@ -86,152 +87,113 @@
             </div>
         </nav>
     </section>
+    <section class="engine"></section>
+    <section class="mbr-section mbr-after-navbar" id="form1-x"
+        style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
 
-    {{-- start-page --}}
-    <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
-        id="slider-0">
-        <div>
-            <div>
-                <div>
-                    <ol class="carousel-indicators">
-                        <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li>
-                        <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li>
-                        <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner" role="listbox">
-                        <div id="offer-slide"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
-                            data-bg-video-slide="false" style="background-image: url(assets/images/1.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
+        <div class="container">
+            <div class="page-container">
+                <div class="wizard">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="wizard-content">
+                                <h1>Book an Appointment</h1>
+                                <p style="font-style: italic; margin: 0;"> * We will call you back to confirm the
+                                    appointment</p>
+                                <p style="font-style: italic; margin: 0;">* The session will take about 45 minutes</p>
+                                <br>
+                                <div class="booking-step">
+                                    <form method="POST" action="/booking">
+                                        <div class="form-container">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="form-group preferredAppointmentDate-group"><label
+                                                            for="preferredAppointmentDate">
+                                                            <div>Preferred Appointment Date <span class="star">*</span>
+                                                            </div>
+                                                        </label>
+                                                        <div class="DayPickerInput"><input type="text"
+                                                                id="date-picker-input-1" class="form-control"
+                                                                name="date" /></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group preferredAppointmentTime-group"><label
+                                                            for="preferredAppointmentTime">
+                                                            <div>Preferred Appointment Period <span
+                                                                    class="star">*</span>
+                                                            </div>
+                                                        </label><select id="preferredAppointmentTime"
+                                                            class="form-control preferredAppointmentTime" required=""
+                                                            name="time">
+                                                            <option disabled="">--- Select a time of day ---
+                                                            </option>
+                                                            <option value="morning">Morning (9 AM - 12 PM)</option>
+                                                            <option value="afternoon">Afternoon (12 PM - 3 PM)</option>
+                                                            <option value="evening">Evening (3 PM - 7 PM)</option>
+                                                        </select></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="form-group firstName-group"><label for="firstName">
+                                                            <div>First Name <span class="star">*</span></div>
+                                                        </label><input id="firstName" type="text"
+                                                            class="form-control firstName" required
+                                                            placeholder="First Name" name="f_name"></div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group lastName-group"><label for="lastName">
+                                                            <div>Last Name <span class="star">*</span></div>
+                                                        </label><input id="lastName" type="text"
+                                                            class="form-control lastName" required
+                                                            placeholder="Last Name" name="l_name"></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="form-group emailAddress-group"><label
+                                                            for="emailAddress">
+                                                            <div>Email Address <span class="star">*</span></div>
+                                                        </label><input id="emailAddress" type="email"
+                                                            class="form-control emailAddress" required
+                                                            placeholder="Email Address" name="email"></div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group phoneNumber-group"><label for="phoneNumber">
+                                                            <div>Phone Number <span class="star">*</span></div>
+                                                        </label><input value="" id="phoneNumber" type="tel"
+                                                            class="form-control phoneNumber" required
+                                                            placeholder="e.g. (500) 444-3333" name="phone"></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-12">
+                                                    <div class="form-group message-group"><label for="message">Your
+                                                            condition</label><textarea id="message"
+                                                            class="form-control message" name="condition"
+                                                            placeholder="e.g. back pain"></textarea></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-12">
+                                                    <div class="form-group submit-button-group"><button
+                                                            class="btn btn-primary" type="submit">Book Now</button>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="offer-slide2"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
-                                            </h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="offer-slide3"
-                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
-                            <div class="mbr-table-cell">
-                                <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
-                                    <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
-                                            </h2>
-                                        </div>
-                                    </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev"
-                        href="#slider-0">
-                        <span class="icon-prev" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next"
-                        href="#slider-0">
-                        <span class="icon-next" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
                 </div>
             </div>
         </div>
     </section>
-    <section class="mbr-section article mbr-section__container" id="content2-j"
-        style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 lead">
-                    <blockquote> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img src="/assets/images/logo.png" width="10%" />
-                    </blockquote>
-                </div>
-            </div>
-        </div>
 
-    </section>
-    <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
-        style="background-image: url(assets/images/7.jpg); padding-top: 40px; padding-bottom: 40px;">
-        <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-xs-center">
-                    <h4 class="mbr-section-title display-2">Why Wilson Road Veterinary Clinic ?</h4>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="mbr-section article mbr-section__container" id="content6-q"
-        style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-md-6 lead">
-                    <ul>
-                        <li>
-                            <em><strong> Wilson Road Veterinary Clinic </strong> has performed veterinary services for small animal
-                                patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
-                                community.&nbsp;
-                            </em>
-                        </li>
-                        <li>
-                            <em>
-                                Our hospital is comprised of a group of individuals whose drive is to treat every pet as
-                                though
-                                they were one of their own and provide an exceptional level of care for pets and their
-                                owners.
-                            </em>
-                        </li>
-                        <li>
-                            <em>
-                                we open 6 days a week with extended hours and even on Saturday
-                            </em>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-xs-12 col-md-6 lead">
-                    <ul>
-                        <li> <em>We maintain a facility that is extremely clean, welcoming and designed to minimize both
-                                a pets and clients anxiety.
-                            </em></li>
-                        <li> <em>
-                                We acquire and retain an excellent, well-trained team; provide them with ongoing
-                                opportunities for continuing education and professional development.
-                            </em></li>
-
-                        <li> <em>
-                                We care about you and your pet
-                                convenience so we do house call and offer all our services from the comfort of your home
-                                .
-                            </em></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-{{-- end-page --}}
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/6.jpeg); padding-top: 40px; padding-bottom: 40px;">
 
@@ -260,8 +222,9 @@
                             <h5 class="cardTitle">
                                 Call Us
                             </h5>
-                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;" href="tel:+9055768885">
-                                905 576 8885</a> </p>
+                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;"
+                                    href="tel:+9055768885">
+                                    905 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -271,8 +234,9 @@
                             <h5 class="cardTitle">
                                 Email Us
                             </h5>
-                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;" href="mailto:wilsonrdvetclinic@gmail.com">
-                                wilsonrdvetclinic@gmail.com </a> </p>
+                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;"
+                                    href="mailto:wilsonrdvetclinic@gmail.com">
+                                    wilsonrdvetclinic@gmail.com </a> </p>
                         </div>
                     </div>
                 </div>
@@ -294,14 +258,16 @@
                         </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Hours</h6></p>
+                    <p class="mbr-contacts__text">
+                        <h6 style="font-weight: bold;">Hours</h6>
+                    </p>
                     <ul>
-                      <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
-                      <li style="color : white"> Sunday Day off </li>
+                        <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-6">
