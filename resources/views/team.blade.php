@@ -298,11 +298,11 @@
                         <h6 style="font-weight: bold;">Hours</h6>
                     </p>
                     <ul>
-                        <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
-                        <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
-                        <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
-                        <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
-                        <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
+                        <li style="color : white"> Monday 9:00 am – 6:00 pm </li>
+                        <li style="color : white"> Tuesday 9:00 am – 6:00 pm </li>
+                        <li style="color : white"> Wednesday 9:00 am – 6:00 pm </li>
+                        <li style="color : white"> Thursday 9:00 am – 6:00 pm </li>
+                        <li style="color : white"> Friday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
