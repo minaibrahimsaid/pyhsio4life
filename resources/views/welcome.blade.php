@@ -38,10 +38,9 @@
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <h2 id="clinic-name" style="    font-weight: bold;
-                                    margin-bottom: auto;">Wilson Road Veterinary Clinc</h2>
+                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road Veterinary Clinc</h2>
                             </a>
-                            <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a>
+                            {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
                     </div>
                     <div class="mbr-table-cell">
@@ -163,7 +162,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote><img src="/assets/images/logo.png" width="10%"> "&nbsp;we love them like you do&nbsp;"
+                    <blockquote> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img src="/assets/images/logo.png" width="10%" />
                     </blockquote>
                 </div>
             </div>
@@ -190,7 +189,7 @@
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li>
-                            <em><strong> Wilson Road Veterinary Cinic </strong> has performed veterinary services for small animal
+                            <em><strong> Wilson Road Veterinary Clinic </strong> has performed veterinary services for small animal
                                 patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
                                 community.&nbsp;
                             </em>
@@ -294,15 +293,14 @@
                         </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text">
-                        <h6 style="font-weight: bold;">Links</h6>
-                    </p>
+                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Hours</h6></p>
                     <ul>
-                        <li><a class="text-white" href="/">Home</a></li>
-                        <li><a class="text-white" href="/services">Services</a></li>
-                        <li><a class="text-white" href="/faq">F&Q</a></li>
-                        <li><a class="text-white" href="/contact-us">Contact Us</a></li>
-                        <li><a class="text-white" href="/about-us">About Us</a></li>
+                      <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
+                      <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
+                      <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
+                      <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
+                      <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
+                      <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-6">
@@ -341,7 +339,7 @@
             letter-spacing: 5px;
             font-size: larger;
             font-family: sans-serif;
-            background-color: #116DB4;
+            background-color: #6785c3;
             height: 60px;
             width: 60%;
             line-height: 60px;
@@ -387,19 +385,6 @@
             }
         }
     </style>
-
-    <script>
-        var prevScrollpos = window.pageYOffset;
-        window.onscroll = function() {
-        var currentScrollPos = window.pageYOffset;
-        if (prevScrollpos >= currentScrollPos) {
-            document.getElementById("navbar").style.top = "0";
-        } else {
-            document.getElementById("navbar").style.top = "-150px";
-        }
-        prevScrollpos = currentScrollPos;
-        }
-    </script>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>

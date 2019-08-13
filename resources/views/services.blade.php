@@ -581,13 +581,14 @@
               </p>
           </div>
           <div class="mbr-footer-content col-xs-12 col-md-3">
-              <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Links</h6></p>
+              <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Hours</h6></p>
               <ul>
-                  <li><a class="text-white" href="/">Home</a></li>
-                  <li><a class="text-white" href="/services">Services</a></li>
-                  <li><a class="text-white" href="/faq">F&Q</a></li>
-                  <li><a class="text-white" href="/contact-us">Contact Us</a></li>
-                  <li><a class="text-white" href="/about-us">About Us</a></li>
+                <li style="color : white"> Monday 9:00 am – 7:00 pm </li>
+                <li style="color : white"> Tuesday 9:00 am – 7:00 pm </li>
+                <li style="color : white"> Wednesday 9:00 am – 7:00 pm </li>
+                <li style="color : white"> Thursday 9:00 am – 7:00 pm </li>
+                <li style="color : white"> Friday 9:00 am – 7:00 pm </li>
+                <li style="color : white"> Sunday Day off </li>
               </ul>
           </div>
           <div class="col-xs-12 col-md-6">
@@ -633,7 +634,7 @@
     }
 
     .service-header {
-      background-color: #116db4;
+      background-color: #6785c3;
     }
 
     .service-image {
@@ -645,7 +646,7 @@
       letter-spacing: 5px;
       font-size: larger;
       font-family: sans-serif;
-      background-color: #116DB4;
+      background-color: #6785c3;
       height: 60px;
       width: 60%;
       line-height: 60px;

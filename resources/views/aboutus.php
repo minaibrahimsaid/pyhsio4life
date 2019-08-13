@@ -171,7 +171,7 @@
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
                         <h6>Phone: +1 905-576-8885</h6><br>
-                        {{-- <h6>Fax: +1 289-660-8666</h6> --}}
+                        <!-- <h6>Fax: +1 289-660-8666</h6>  -->
                     </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">

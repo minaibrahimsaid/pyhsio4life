@@ -319,7 +319,7 @@ It is longer than the subsequent visit since the first appointment is more of a 
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
                         <h6>Phone: +1 905-576-8885</h6><br>
-                        {{-- <h6>Fax: +1 289-660-8666</h6> --}}
+                        <!-- <h6>Fax: +1 289-660-8666</h6> -->
                     </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
@@ -379,7 +379,7 @@ It is longer than the subsequent visit since the first appointment is more of a 
   letter-spacing: 5px;
   font-size: larger;
   font-family: sans-serif;
-  background-color: #116DB4;
+  background-color: #6785c3;
   height: 60px;
   width: 60%;
   line-height: 60px;
