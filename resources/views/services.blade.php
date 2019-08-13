@@ -63,9 +63,9 @@
                   <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                     style="background: dodgerblue; padding: 0px !important;">
                     <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
-                      class="dropdown-item" href="/about-us">Team</a>
+                      class="dropdown-item" href="/about-us">Meet Our Team</a>
                     <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
-                      class="dropdown-item" href="/gallery">Clinic</a>
+                      class="dropdown-item" href="/gallery">Clinic Tour</a>
                   </div>
                 </div>
               </li>

@@ -67,9 +67,9 @@
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
                                         <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
-                                            class="dropdown-item" href="/about-us">Team</a>
+                                            class="dropdown-item" href="/about-us">Meet Our Team</a>
                                         <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
-                                            class="dropdown-item" href="/gallery">Clinic</a>
+                                            class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
                             </li>
@@ -108,8 +108,9 @@
                             371 Wilson Road South Oshawa, Ontario  <br><br><br>
                             <strong>Contacts</strong><br>
                             Email: wilsonrdvetclinic@gmail.com<br>
-                            <h6>Phone: +1 289-660-7666</h6>
-                             <h6>Fax: +1 289-660-8666</h6></p>
+                            <h6>Phone: +1 905-576-8885</h6>
+                             {{-- <h6>Fax: +1 289-660-8666</h6> --}}
+                            </p>
                     </div>
     
     
