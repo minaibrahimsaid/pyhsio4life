@@ -98,6 +98,7 @@
                         <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li>
                         <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li>
                         <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
+                        <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="3"></li>
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div id="offer-slide"
@@ -136,7 +137,22 @@
                                 <div class="container-slide container">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
+                                            <h2 id="hidden-text" class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
+                                            </h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                                <div id="offer-slide4"
+                            class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
+                            data-bg-video-slide="false" style="background-image:  url(assets/images/21.jpg);">
+                            <div class="mbr-table-cell">
+                                <div class="mbr-overlay"></div>
+                                <div class="container-slide container">
+                                    <div class="row">
+                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                            <h2 id="hidden-text" class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -370,7 +386,7 @@
 
         @media only screen and (max-width: 800px) {
             #offer-slide {
-                background-image: url(assets/images/1mob.jpg) !important;
+                background-image: url(assets/images/1.png) !important;
             }
 
             #offer-slide2 {
@@ -378,11 +394,19 @@
             }
 
             #offer-slide3 {
-                background-image: url(assets/images/3mob.jpg) !important;
+                background-image: url(assets/images/2.png) !important;
+            }
+
+            #offer-slide4 {
+                background-image: url(assets/images/22mob.jpg) !important;
             }
 
             #clinic-name {
                 font-size: x-small;
+            }
+
+            #hidden-text{
+                display: none;
             }
         }
     </style>
