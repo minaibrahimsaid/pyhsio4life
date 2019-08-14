@@ -202,7 +202,7 @@
 
 
 
-                                <img alt="" src="assets/images/16.jpeg">
+                                <img alt="" src="assets/images/120.jpg">
 
                                 <span class="icon-focus"></span>
 
@@ -274,7 +274,7 @@
                                 <img alt="" src="assets/images/15.jpg">
                             </div>
                             <div class="carousel-item">
-                                <img alt="" src="assets/images/16.jpeg">
+                                <img alt="" src="assets/images/120.jpg">
                             </div>
                             <div class="carousel-item">
                                 <img alt="" src="assets/images/17.jpeg">
@@ -301,7 +301,7 @@
     </section>
 
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
-        style="background-image: url(assets/images/6.jpeg); padding-top: 40px; padding-bottom: 40px;">
+        style="background-image: url(assets/images/20.jpg); padding-top: 40px; padding-bottom: 40px;">
 
         <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
         </div>
