@@ -31,14 +31,21 @@
 <body>
     <section id="ext_menu-7">
         <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
-            <div class="container" style="    max-width: 70%;">
+            <div class="container" style="    max-width: 90%;">
 
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road Veterinary Clinc</h2>
+                                <div style="
+                                display: flex;
+                                justify-content: space-around;
+                                align-items: center;
+                            ">
+                                    <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                                    <img di="logo-name" src="/assets/images/logo.png" width="5%">
+                                </div>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
@@ -89,7 +96,7 @@
 
     {{-- start-page --}}
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
         id="slider-0">
         <div>
             <div>
@@ -105,10 +112,14 @@
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
                             data-bg-video-slide="false" style="background-image: url(assets/images/1.jpg);">
                             <div class="mbr-table-cell">
-                                <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
-                                <div class="container-slide container">
+                                <div class="mbr-overlay"></div>
+                                <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                            <h2 class="mbr-section-title display-1" style="    font-size: 3.125rem !important;
+                                            font-family: cursive;
+                                            color: #8231a0;">New mangment 15 % offer all clients on any services&nbsp;
+                                            </h2>
                                         </div>
                                     </div>
                                 </div>
@@ -137,22 +148,24 @@
                                 <div class="container-slide container">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 id="hidden-text" class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
+                                            <h2 id="hidden-text" class="mbr-section-title display-1">Wilson Road
+                                                Veterinary Clinc&nbsp;
                                             </h2>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                                                <div id="offer-slide4"
+                        <div id="offer-slide4"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
                             data-bg-video-slide="false" style="background-image:  url(assets/images/21.jpg);">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
+                                <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 id="hidden-text" class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
+                                            <h2 class="mbr-section-title display-1">Open 6 days Saturday till 6
+                                                Pm&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -180,7 +193,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img src="/assets/images/logo.png" width="10%" />
+                    <blockquote> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img src="/assets/images/logo.png"
+                            width="10%" />
                     </blockquote>
                 </div>
             </div>
@@ -207,7 +221,8 @@
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li>
-                            <em><strong> Wilson Road Veterinary Clinic </strong> has performed veterinary services for small animal
+                            <em><strong> Wilson Road Veterinary Clinic </strong> has performed veterinary services for
+                                small animal
                                 patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
                                 community.&nbsp;
                             </em>
@@ -247,7 +262,7 @@
             </div>
         </div>
     </section>
-{{-- end-page --}}
+    {{-- end-page --}}
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/20.jpg); padding-top: 40px; padding-bottom: 40px;">
 
@@ -276,8 +291,9 @@
                             <h5 class="cardTitle">
                                 Call Us
                             </h5>
-                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;" href="tel:+9055768885">
-                                905 576 8885</a> </p>
+                            <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;"
+                                    href="tel:+9055768885">
+                                    905 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -287,8 +303,9 @@
                             <h5 class="cardTitle">
                                 Email Us
                             </h5>
-                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;" href="mailto:wilsonrdvetclinic@gmail.com">
-                                wilsonrdvetclinic@gmail.com </a> </p>
+                            <p class="contact-card-text"><a style="font-family: -webkit-body;  color: white;"
+                                    href="mailto:wilsonrdvetclinic@gmail.com">
+                                    wilsonrdvetclinic@gmail.com </a> </p>
                         </div>
                     </div>
                 </div>
@@ -310,13 +327,16 @@
                         </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
-                    <p class="mbr-contacts__text"><h6 style="font-weight: bold;">Hours</h6></p>
+                    <p class="mbr-contacts__text">
+                        <h6 style="font-weight: bold;">Hours</h6>
+                    </p>
                     <ul>
                         <li style="color : white"> Monday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Tuesday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Wednesday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Thursday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Friday 9:00 am – 6:00 pm </li>
+                        <li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
                         <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
@@ -386,7 +406,7 @@
 
         @media only screen and (max-width: 800px) {
             #offer-slide {
-                background-image: url(assets/images/1.png) !important;
+                background-image: url(assets/images/18.jpg) !important;
             }
 
             #offer-slide2 {
@@ -398,15 +418,19 @@
             }
 
             #offer-slide4 {
-                background-image: url(assets/images/22mob.jpg) !important;
+                background-image: url(assets/images/22.jpg) !important;
             }
 
             #clinic-name {
-                font-size: x-small;
+                font-size: small;
             }
 
-            #hidden-text{
+            #hidden-text {
                 display: none;
+            }
+
+            #logo-name {
+                width: 20% !important
             }
         }
     </style>

@@ -271,21 +271,10 @@
                 <ul>
                   <div class="mbr-figure service-image"><img src="assets/images/101.jpg"></div>
                   <p>
-                    In Physical therapy, therapeutic exercises can be described by physiotherapists to return an injured
-                    person to a pain free,
-                    fully functioning state.
-                  </p><br>
-                  <p>
-                    Based on the initial assessment, the physiotherapist will determine a treatment plan that includes
-                    specific exercise program fitted your condition.
-                  </p>
-                  <br>
+                    TODO
                   <p>
 
-                    The exercise program may include mobility (range of motion) exercises, flexibility (stretching)
-                    exercises, stability, coordination exercises,
-                    muscle performance (strengthening and endurance ) exercises, balance exercises and neuromuscular
-                    control( proprioception) exercises.
+                  
                   </p>
                   <div class="card">
                     <div class="card-header service-header" id="heading14">
@@ -417,7 +406,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse12"
                           aria-expanded="false" aria-controls="collapse6">
-                          radiology services
+                          Radiology services
 
                         </button>
                       </h5>
@@ -456,7 +445,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
                           data-target="#collapse131" aria-expanded="false" aria-controls="collapse6">
-                          Microchip
+                          Microchiping
                         </button>
                       </h5>
                     </div>
@@ -551,7 +540,7 @@
             <li style="color : white"> Tuesday 9:00 am – 6:00 pm </li>
             <li style="color : white"> Wednesday 9:00 am – 6:00 pm </li>
             <li style="color : white"> Thursday 9:00 am – 6:00 pm </li>
-            <li style="color : white"> Friday 9:00 am – 6:00 pm </li>
+            <li style="color : white"> Friday 9:00 am – 6:00 pm </li><li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
             <li style="color : white"> Sunday Day off </li>
           </ul>
         </div>
@@ -612,6 +601,7 @@
       border: none;
       background: none;
       font-weight: bold;
+      text-align: left;
     }
 
     .service-header {
