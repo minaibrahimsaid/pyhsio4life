@@ -113,7 +113,7 @@
                                             <p class="mbr-section-lead lead">we love them like you do<br>
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;"><i class="fas fa-circle 2x"
-                                                            style="color:green"></i> Book online </a>
+                                                            style="color:green"></i> Book</a>
                                                 </div>
                                                 <br>
                                                 <div class="online-button">
@@ -138,7 +138,7 @@
                                         <p class="mbr-section-lead lead">
                                             <div class="online-button">
                                                 <a href="/booking" style="color: white;"><i class="fas fa-circle 2x"
-                                                        style="color:green"></i> Book online </a>
+                                                        style="color:green"></i> Book</a>
                                             </div>
                                             <br>
                                             <div class="online-button">

@@ -100,12 +100,11 @@
             <h1 class="mbr-section-title display-1"> wilson road vet</h1>
             <p class="mbr-section-lead lead">
               <div class="online-button">
-                <a href="/booking" style="color: white;"><i class="fas fa-circle 2x" style="color:green"></i> Book
-                  online </a>
+                <a href="/booking" style="color: white;    font-size: initial;"><i class="fas fa-circle 2x" style="color:green"></i> Book online </a>
               </div>
               <br>
               <div class="online-button">
-                <i class="fas fa-phone-alt"></i> <a href="tel:9055768885">9055768885</a><br>
+                <i class="fas fa-phone-alt"></i> <a style="    font-size: initial;" href="tel:9055768885">9055768885</a><br>
             </p>
           </div>
         </div>
