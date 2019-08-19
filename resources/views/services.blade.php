@@ -31,59 +31,68 @@
 <body>
   <section id="ext_menu-7">
     <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
-      <div class="container" style="    max-width: 70%;">
+        <div class="container" style="    max-width: 90%;">
 
-        <div class="mbr-table">
-          <div class="mbr-table-cell">
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
 
-            <div class="navbar-brand">
-              <a class="navbar-caption" href="/">
-                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road
-                  Veterinary Clinc</h2>
-              </a>
-              {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
-            </div>
-          </div>
-          <div class="mbr-table-cell">
-
-            <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse"
-              data-target="#exCollapsingNavbar">
-              <div class="hamburger-icon"></div>
-            </button>
-            <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar">
-              {{-- <li class="nav-item"><a   style="color: #6785c3;" class="nav-link link" href="/">home</a></li> --}}
-              <li class="nav-item">
-                <div class="dropdown show">
-                  <a style="background-color: transparent; border: 0px; color: white;  margin-top: 0px !important;"
-                    class="btn btn-secondary dropdown-toggle link" href="#" role="button" id="dropdownMenuLink"
-                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    About Us
-                  </a>
-
-                  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
-                    style="background: dodgerblue; padding: 0px !important;">
-                    <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
-                      class="dropdown-item" href="/about-us">Meet Our Team</a>
-                    <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
-                      class="dropdown-item" href="/gallery">Clinic Tour</a>
-                  </div>
+                    <div class="navbar-brand">
+                        <a class="navbar-caption" href="/">
+                            <div style="
+                            display: flex;
+                            justify-content: space-around;
+                            align-items: center;
+                        ">
+                                <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                                <img id="logo-name" src="/assets/images/logo.png" >
+                            </div>
+                        </a>
+                        {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
+                    </div>
                 </div>
-              </li>
-              <li class="nav-item"><a style="color: white;" class="nav-link link" href="/services">services</a></li>
-              <li class="nav-item"><a class="nav-link link" style="color: white;" href="/contact-us">Contact&nbsp;Us</a>
-              </li>
-              <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
-              {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
-            </ul>
-            <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
-              data-target="#exCollapsingNavbar">
-              <div class="close-icon"></div>
-            </button>
-          </div>
+                <div class="mbr-table-cell">
+
+                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse"
+                        data-target="#exCollapsingNavbar">
+                        <div class="hamburger-icon"></div>
+                    </button>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm"
+                        id="exCollapsingNavbar">
+                        {{-- <li class="nav-item"><a   style="color: #6785c3;" class="nav-link link" href="/">home</a></li> --}}
+                        <li class="nav-item">
+                            <div class="dropdown show">
+                                <a style="background-color: transparent; border: 0px; color: white;  margin-top: 0px !important;"
+                                    class="btn btn-secondary dropdown-toggle link" href="#" role="button"
+                                    id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                                    aria-expanded="false">
+                                    About Us
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
+                                    style="background: dodgerblue; padding: 0px !important;">
+                                    <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                        class="dropdown-item" href="/about-us">Meet Our Team</a>
+                                    <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                        class="dropdown-item" href="/gallery">Clinic Tour</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item"><a style="color: white;" class="nav-link link"
+                                href="/services">services</a></li>
+                        <li class="nav-item"><a class="nav-link link" style="color: white;"
+                                href="/contact-us">Contact&nbsp;Us</a></li>
+                        <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
+                        {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
+                    </ul>
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
+                        data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
+                </div>
+            </div>
         </div>
-      </div>
     </nav>
-  </section>
+</section>
   {{-- start-page --}}
   <section
     class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar"
@@ -625,22 +634,34 @@
     }
 
     @media only screen and (max-width: 800px) {
-      #offer-slide {
-        background-image: url(assets/images/1mob.jpg) !important;
-      }
+            #offer-slide {
+                background-image: url(assets/images/18.jpg) !important;
+            }
 
-      #offer-slide2 {
-        background-image: url(assets/images/2mob.jpg) !important;
-      }
+            #offer-slide2 {
+                background-image: url(assets/images/2mob.jpg) !important;
+            }
 
-      #offer-slide3 {
-        background-image: url(assets/images/3mob.jpg) !important;
-      }
+            #offer-slide3 {
+                background-image: url(assets/images/2.png) !important;
+            }
 
-      #clinic-name {
-        font-size: x-small;
-      }
-    }
+            #offer-slide4 {
+                background-image: url(assets/images/22.jpg) !important;
+            }
+
+            #clinic-name {
+                font-size: small;
+            }
+
+            #hidden-text {
+                display: none;
+            }
+
+            #logo-name {
+                width: 20%;
+            }
+        }
   </style>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>

@@ -33,15 +33,21 @@
 <body>
     <section id="ext_menu-7">
         <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
-            <div class="container" style="    max-width: 70%;">
+            <div class="container" style="    max-width: 90%;">
 
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road
-                                    Veterinary Clinc</h2>
+                                <div style="
+                                display: flex;
+                                justify-content: space-around;
+                                align-items: center;
+                            ">
+                                    <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                                    <img id="logo-name" src="/assets/images/logo.png" >
+                                </div>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
@@ -89,8 +95,7 @@
             </div>
         </nav>
     </section>
-
-    <section class="mbr-section" id="msg-box5-n"
+        <section class="mbr-section" id="msg-box5-n"
     style="background-color: rgb(255, 255, 255);padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem;">
     
     

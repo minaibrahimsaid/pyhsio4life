@@ -31,15 +31,21 @@
 <body>
     <section id="ext_menu-7">
         <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
-            <div class="container" style="    max-width: 70%;">
+            <div class="container" style="    max-width: 90%;">
 
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <h2 id="clinic-name" style="font-weight: bold; margin-bottom: auto;">Wilson Road
-                                    Veterinary Clinc</h2>
+                                <div style="
+                                display: flex;
+                                justify-content: space-around;
+                                align-items: center;
+                            ">
+                                    <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                                    <img id="logo-name" src="/assets/images/logo.png" >
+                                </div>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
@@ -336,7 +342,7 @@
 
         @media only screen and (max-width: 800px) {
             #offer-slide {
-                background-image: url(assets/images/1mob.jpg) !important;
+                background-image: url(assets/images/18.jpg) !important;
             }
 
             #offer-slide2 {
@@ -344,11 +350,23 @@
             }
 
             #offer-slide3 {
-                background-image: url(assets/images/3mob.jpg) !important;
+                background-image: url(assets/images/2.png) !important;
+            }
+
+            #offer-slide4 {
+                background-image: url(assets/images/22.jpg) !important;
             }
 
             #clinic-name {
-                font-size: x-small;
+                font-size: small;
+            }
+
+            #hidden-text {
+                display: none;
+            }
+
+            #logo-name {
+                width: 20%;
             }
         }
     </style>
