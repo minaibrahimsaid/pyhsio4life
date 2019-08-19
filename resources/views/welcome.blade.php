@@ -44,7 +44,7 @@
                                 align-items: center;
                             ">
                                     <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
-                                    <img di="logo-name" src="/assets/images/logo.png" width="5%">
+                                    <img id="logo-name" src="/assets/images/logo.png" >
                                 </div>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
@@ -404,6 +404,10 @@
             color: white
         }
 
+        #logo-name {
+                width: 5%;
+            }
+
         @media only screen and (max-width: 800px) {
             #offer-slide {
                 background-image: url(assets/images/18.jpg) !important;
@@ -430,7 +434,7 @@
             }
 
             #logo-name {
-                width: 20% !important
+                width: 20%;
             }
         }
     </style>
