@@ -44,7 +44,7 @@
                                 align-items: center;
                             ">
                                     <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
-                                    <img id="logo-name" src="/assets/images/logo.png" >
+                                    <img id="logo-name" src="/assets/images/logo.png">
                                 </div>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
@@ -96,7 +96,7 @@
 
     {{-- start-page --}}
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
         id="slider-0">
         <div>
             <div>
@@ -118,7 +118,7 @@
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    font-size: 3.125rem !important;
                                             font-family: cursive;
-                                            color: #8231a0;">New mangment 15 % offer all clients on any services&nbsp;
+                                            color: white;">New mangment 15 % offer all clients on any services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -128,17 +128,19 @@
                         <div id="offer-slide2"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
                             data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
-                            <div class="mbr-table-cell">
+                            {{-- <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
+                                <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;
+                                            <h2 class="mbr-section-title display-1" style="    font-size: 3.125rem !important;
+                                            font-family: cursive;
+                                            color: white;">New mangment 15 % offer all clients on any services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <div id="offer-slide3"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
@@ -193,8 +195,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img src="/assets/images/logo.png"
-                            width="10%" />
+                    <blockquote id="tex-logo-quote"> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img
+                            src="/assets/images/logo.png" width="10%" />
                     </blockquote>
                 </div>
             </div>
@@ -405,8 +407,14 @@
         }
 
         #logo-name {
-                width: 5%;
-            }
+            width: 5%;
+        }
+
+        #tex-logo-quote {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
         @media only screen and (max-width: 800px) {
             #offer-slide {

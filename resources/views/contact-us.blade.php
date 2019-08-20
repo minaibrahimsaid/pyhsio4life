@@ -95,7 +95,7 @@
             </div>
         </nav>
     </section>
-        <section class="mbr-section" id="msg-box5-n"
+    <section class="mbr-section" id="msg-box5-n"
     style="background-color: rgb(255, 255, 255);padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem;">
     
     
@@ -338,7 +338,7 @@
     </footer>
 
     <style>
-        #map {
+             #map {
             height: 200px;
             width: 100%;
         }
@@ -376,9 +376,12 @@
             color: white
         }
 
+        #logo-name {
+                width: 5%;
+            }
         @media only screen and (max-width: 800px) {
             #offer-slide {
-                background-image: url(assets/images/1mob.jpg) !important;
+                background-image: url(assets/images/18.jpg) !important;
             }
 
             #offer-slide2 {
@@ -386,11 +389,23 @@
             }
 
             #offer-slide3 {
-                background-image: url(assets/images/3mob.jpg) !important;
+                background-image: url(assets/images/2.png) !important;
+            }
+
+            #offer-slide4 {
+                background-image: url(assets/images/22.jpg) !important;
             }
 
             #clinic-name {
-                font-size: x-small;
+                font-size: small;
+            }
+
+            #hidden-text {
+                display: none;
+            }
+
+            #logo-name {
+                width: 20%;
             }
         }
     </style>

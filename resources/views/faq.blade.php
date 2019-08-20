@@ -44,7 +44,7 @@
                                 align-items: center;
                             ">
                                     <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
-                                    <img id="logo-name" src="/assets/images/logo.png" >
+                                    <img id="logo-name" src="/assets/images/logo.png">
                                 </div>
                             </a>
                             {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
@@ -93,7 +93,7 @@
             </div>
         </nav>
     </section>
-        <section class="engine"><a rel="external" href="/">Wilson Road Veterinary Clinc</a></section>
+    <section class="engine"><a rel="external" href="/">Wilson Road Veterinary Clinc</a></section>
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
         data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
         id="slider-0">
@@ -471,7 +471,8 @@
                         <li style="color : white"> Tuesday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Wednesday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Thursday 9:00 am – 6:00 pm </li>
-                        <li style="color : white"> Friday 9:00 am – 6:00 pm </li><li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
+                        <li style="color : white"> Friday 9:00 am – 6:00 pm </li>
+                        <li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
                         <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
@@ -541,7 +542,7 @@
 
         @media only screen and (max-width: 800px) {
             #offer-slide {
-                background-image: url(assets/images/1mob.jpg) !important;
+                background-image: url(assets/images/18.jpg) !important;
             }
 
             #offer-slide2 {
@@ -549,22 +550,101 @@
             }
 
             #offer-slide3 {
-                background-image: url(assets/images/3mob.jpg) !important;
+                background-image: url(assets/images/2.png) !important;
+            }
+
+            #offer-slide4 {
+                background-image: url(assets/images/22.jpg) !important;
             }
 
             #clinic-name {
-                font-size: x-small;
+                font-size: small;
             }
 
-            .question {
-                color: #1275f7;
-                ;
-                font-weight: bold;
+            #hidden-text {
+                display: none;
             }
 
-            .question-header {
-                cursor: pointer;
-                background: transparent;
+            #logo-name {
+                width: 20%;
+            }
+        }
+
+        #map {
+            height: 200px;
+            width: 100%;
+        }
+
+        .online-button {
+            color: white;
+            letter-spacing: 5px;
+            font-size: larger;
+            font-family: sans-serif;
+            background-color: #6785c3;
+            height: 60px;
+            width: 60%;
+            line-height: 60px;
+            margin: auto;
+            cursor: pointer;
+        }
+
+        .contact-card-text {
+            font-weight: 900;
+        }
+
+        .cardTitle {
+            color: white;
+            font-family: initial;
+        }
+
+        .offer-text {
+            font-family: initial;
+            font-style: italic;
+            font-weight: 900;
+            color: #717BF9;
+        }
+
+        .icon-contactus {
+            color: white
+        }
+
+        #logo-name {
+            width: 5%;
+        }
+
+        #tex-logo-quote {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        @media only screen and (max-width: 800px) {
+            #offer-slide {
+                background-image: url(assets/images/18.jpg) !important;
+            }
+
+            #offer-slide2 {
+                background-image: url(assets/images/2mob.jpg) !important;
+            }
+
+            #offer-slide3 {
+                background-image: url(assets/images/2.png) !important;
+            }
+
+            #offer-slide4 {
+                background-image: url(assets/images/22.jpg) !important;
+            }
+
+            #clinic-name {
+                font-size: small;
+            }
+
+            #hidden-text {
+                display: none;
+            }
+
+            #logo-name {
+                width: 20%;
             }
         }
     </style>

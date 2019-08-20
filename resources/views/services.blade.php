@@ -158,7 +158,7 @@
                         <h5 class="mb-0">
                           <button class="service collapsed" type="button" data-toggle="collapse"
                             data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                            puppy health
+                            Puppy health
                           </button>
                         </h5>
                       </div>
@@ -176,7 +176,7 @@
                         <h5 class="mb-0">
                           <button class="service collapsed" type="button" data-toggle="collapse"
                             data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-                            adult pet
+                            Adult pet
                           </button>
                         </h5>
                       </div>
@@ -196,7 +196,7 @@
                         <h5 class="mb-0">
                           <button class="service collapsed" type="button" data-toggle="collapse"
                             data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                            seinor pet
+                            Seinor pet
                           </button>
                         </h5>
                       </div>
@@ -453,7 +453,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse"
                           data-target="#collapse131" aria-expanded="false" aria-controls="collapse6">
-                          Microchiping
+                          Microchipping
                         </button>
                       </h5>
                     </div>
@@ -662,6 +662,84 @@
                 width: 20%;
             }
         }
+        #map {
+            height: 200px;
+            width: 100%;
+        }
+
+        .online-button {
+            color: white;
+            letter-spacing: 5px;
+            font-size: larger;
+            font-family: sans-serif;
+            background-color: #6785c3;
+            height: 60px;
+            width: 60%;
+            line-height: 60px;
+            margin: auto;
+            cursor: pointer;
+        }
+
+        .contact-card-text {
+            font-weight: 900;
+        }
+
+        .cardTitle {
+            color: white;
+            font-family: initial;
+        }
+
+        .offer-text {
+            font-family: initial;
+            font-style: italic;
+            font-weight: 900;
+            color: #717BF9;
+        }
+
+        .icon-contactus {
+            color: white
+        }
+
+        #logo-name {
+            width: 5%;
+        }
+
+        #tex-logo-quote {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        @media only screen and (max-width: 800px) {
+            #offer-slide {
+                background-image: url(assets/images/18.jpg) !important;
+            }
+
+            #offer-slide2 {
+                background-image: url(assets/images/2mob.jpg) !important;
+            }
+
+            #offer-slide3 {
+                background-image: url(assets/images/2.png) !important;
+            }
+
+            #offer-slide4 {
+                background-image: url(assets/images/22.jpg) !important;
+            }
+
+            #clinic-name {
+                font-size: small;
+            }
+
+            #hidden-text {
+                display: none;
+            }
+
+            #logo-name {
+                width: 20%;
+            }
+        }
+
   </style>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
