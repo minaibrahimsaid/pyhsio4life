@@ -366,7 +366,7 @@
             }
 
             #logo-name {
-                width: 20%;
+                width: 25%;
             }
         }
         #map {
@@ -443,7 +443,7 @@
             }
 
             #logo-name {
-                width: 20%;
+                width: 25%;
             }
         }
     </style>
