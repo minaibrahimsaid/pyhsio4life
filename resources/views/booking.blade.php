@@ -175,8 +175,8 @@
                                             </div>
                                             <div class="row">
                                                 <div class="col-sm-12">
-                                                    <div class="form-group message-group"><label for="message">Your
-                                                            condition</label><textarea id="message"
+                                                    <div class="form-group message-group"><label for="message">Appointment
+                                                             for Eg. vaccines</label><textarea id="message"
                                                             class="form-control message" name="condition"
                                                             placeholder="e.g. back pain"></textarea></div>
                                                 </div>
