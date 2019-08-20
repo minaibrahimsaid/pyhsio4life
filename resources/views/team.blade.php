@@ -384,9 +384,9 @@
                 background-image: url(assets/images/2mob.jpg) !important;
             }
 
-            #offer-slide3 {
+          /*       #offer-slide3 {
                 background-image: url(assets/images/2.png) !important;
-            }
+            }} */
 
             #offer-slide4 {
                 background-image: url(assets/images/22.jpg) !important;
@@ -461,9 +461,9 @@
                 background-image: url(assets/images/2mob.jpg) !important;
             }
 
-            #offer-slide3 {
+          /*       #offer-slide3 {
                 background-image: url(assets/images/2.png) !important;
-            }
+            }} */
 
             #offer-slide4 {
                 background-image: url(assets/images/22.jpg) !important;

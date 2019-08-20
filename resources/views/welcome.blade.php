@@ -144,14 +144,15 @@
                         </div>
                         <div id="offer-slide3"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
+                            data-bg-video-slide="false" style="background-image:  url(assets/images/25.jpg);">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
-                                <div class="container-slide container">
+                                <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 id="hidden-text" class="mbr-section-title display-1">Wilson Road
-                                                Veterinary Clinc&nbsp;
+                                            <h2 class="mbr-section-title display-1" style="    font-size: 3.125rem !important;
+                                            font-family: cursive;
+                                            color: white;">We do House call&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -425,9 +426,9 @@
                 background-image: url(assets/images/2mob.jpg) !important;
             }
 
-            #offer-slide3 {
+          /*       #offer-slide3 {
                 background-image: url(assets/images/2.png) !important;
-            }
+            }} */
 
             #offer-slide4 {
                 background-image: url(assets/images/22.jpg) !important;
