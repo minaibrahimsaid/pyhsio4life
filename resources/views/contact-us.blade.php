@@ -131,7 +131,7 @@
                                 <strong>Wednesday  </strong> 9:00 am – 6:00 pm<br>
                                 <strong>Thursday  </strong>9:00 am – 6:00 pm<br>
                                 <strong>Friday </strong>9:00 am – 6:00 pm<br>
-                                <strong>Saturday  </strong> By appointment<br>
+                                <strong>Saturday </strong>10:00 am – 6:00 pm<br>
                                 <strong>Sunday  </strong> Day off<br>
                             </p>
                     </div>
@@ -397,7 +397,7 @@
             }
 
             #clinic-name {
-                font-size: small;
+                font-size: larger;
             }
 
             #hidden-text {

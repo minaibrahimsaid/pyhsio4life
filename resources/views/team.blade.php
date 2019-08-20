@@ -393,7 +393,7 @@
             }
 
             #clinic-name {
-                font-size: small;
+                font-size: larger;
             }
 
             #hidden-text {
@@ -470,7 +470,7 @@
             }
 
             #clinic-name {
-                font-size: small;
+                font-size: larger;
             }
 
             #hidden-text {
