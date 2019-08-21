@@ -97,7 +97,7 @@
 
     {{-- start-page --}}
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
         id="slider-0">
         <div>
             <div>
@@ -119,7 +119,7 @@
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
                                             font-family: cursive;
-                                            color: white;">New mangment 15 % offer all clients on any services&nbsp;
+                                            color: white;">New mangment 15 % off for all clients on any services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -129,19 +129,19 @@
                         <div id="offer-slide2"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
                             data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
-                            {{-- <div class="mbr-table-cell">
+                            <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
                                             font-family: cursive;
-                                            color: white;">New mangment 15 % offer all clients on any services&nbsp;
+                                            color: white;">competitive affordable spay & neuter prices&nbsp;
                                             </h2>
                                         </div>
                                     </div>
                                 </div>
-                            </div> --}}
+                            </div>
                         </div>
                         <div id="offer-slide3"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
@@ -153,7 +153,7 @@
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
                                             font-family: cursive;
-                                            color: white;">We do House call&nbsp;
+                                            color: white;">We do House calls&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -168,7 +168,9 @@
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1">Open 6 days Saturday till 6
+                                            <h2 class="mbr-section-title display-1" style="    
+                                            font-family: cursive;
+                                            color: white;">Open 6 days a week Saturday till 6
                                                 Pm&nbsp;
                                             </h2>
                                         </div>
@@ -258,7 +260,7 @@
 
                         <li> <em>
                                 We care about you and your pet
-                                convenience so we do house call and offer all our services from the comfort of your home
+                                convenience so we do house calls and offer all our services from the comfort of your home
                                 .
                             </em></li>
                     </ul>
