@@ -70,9 +70,9 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
                                             class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
@@ -80,7 +80,8 @@
                             <li class="nav-item"><a style="color: white;" class="nav-link link"
                                     href="/services">services</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                    href="/contact-us">Contact&nbsp;Us</a></li>
+                                      href="/contact-us">Contact&nbsp;Us</a></li> <li class="nav-item"><a class="nav-link link" style="color: white;"
+                                        href="/booking"> Book&nbsp;appointment</a></li> 
                             <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
@@ -139,7 +140,7 @@
                             <div class="container-slide container">
 
                                 <div class="row">
-                                    <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                    <div class="col-md-12 col-md-offset-1 text-xs-center">
                                         <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;</h2>
                                         <p class="mbr-section-lead lead">
                                             <div class="online-button">

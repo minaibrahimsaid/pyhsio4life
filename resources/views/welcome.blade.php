@@ -70,9 +70,9 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
                                             class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                        <a style="background-color: transparent; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
@@ -80,7 +80,8 @@
                             <li class="nav-item"><a style="color: white;" class="nav-link link"
                                     href="/services">services</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                    href="/contact-us">Contact&nbsp;Us</a></li>
+                                      href="/contact-us">Contact&nbsp;Us</a></li> <li class="nav-item"><a class="nav-link link" style="color: white;"
+                                        href="/booking"> Book&nbsp;appointment</a></li> 
                             <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
@@ -96,7 +97,7 @@
 
     {{-- start-page --}}
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
         id="slider-0">
         <div>
             <div>
@@ -115,8 +116,8 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1" style="    font-size: 3.125rem !important;
+                                        <div class="col-md-12 col-md-offset-1 text-xs-center">
+                                            <h2 class="mbr-section-title display-1" style="    
                                             font-family: cursive;
                                             color: white;">New mangment 15 % offer all clients on any services&nbsp;
                                             </h2>
@@ -132,8 +133,8 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1" style="    font-size: 3.125rem !important;
+                                        <div class="col-md-12 col-md-offset-1 text-xs-center">
+                                            <h2 class="mbr-section-title display-1" style="    
                                             font-family: cursive;
                                             color: white;">New mangment 15 % offer all clients on any services&nbsp;
                                             </h2>
@@ -149,8 +150,8 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1" style="    font-size: 3.125rem !important;
+                                        <div class="col-md-12 col-md-offset-1 text-xs-center">
+                                            <h2 class="mbr-section-title display-1" style="    
                                             font-family: cursive;
                                             color: white;">We do House call&nbsp;
                                             </h2>
@@ -166,7 +167,7 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                        <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1">Open 6 days Saturday till 6
                                                 Pm&nbsp;
                                             </h2>
