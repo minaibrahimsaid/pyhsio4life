@@ -426,7 +426,7 @@
             }
 
             #offer-slide2 {
-                background-image: url(assets/images/2mob.jpg) !important;
+                background-image: url(assets/images/2.jpg) !important;
             }
 
           /*       #offer-slide3 {
