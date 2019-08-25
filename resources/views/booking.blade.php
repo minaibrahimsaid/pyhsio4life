@@ -107,7 +107,6 @@
                                 <h1>Book an Appointment</h1>
                                 <p style="font-style: italic; margin: 0;"> * We will call you back to confirm the
                                     appointment</p>
-                                <p style="font-style: italic; margin: 0;">* The session will take about 45 minutes</p>
                                 <br>
                                 <div class="booking-step">
                                     <form method="POST" action="/booking">
@@ -172,6 +171,16 @@
                                                         </label><input value="" id="phoneNumber" type="tel"
                                                             class="form-control phoneNumber" required
                                                             placeholder="e.g. (500) 444-3333" name="phone"></div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="form-group emailAddress-group"><label
+                                                            for="emailAddress">
+                                                            <div>Pet Name<span class="star">*</span></div>
+                                                        </label><input id="petName" type="text"
+                                                            class="form-control emailAddress" required
+                                                            placeholder="Pet Name" name="petName"></div>
                                                 </div>
                                             </div>
                                             <div class="row">
