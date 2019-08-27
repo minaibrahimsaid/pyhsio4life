@@ -143,20 +143,11 @@
                                             <div class="row">
                                                 <div class="col-sm-6">
                                                     <div class="form-group firstName-group"><label for="firstName">
-                                                            <div>First Name <span class="star">*</span></div>
-                                                        </label><input id="firstName" type="text"
+                                                            <div>Owner Name <span class="star">*</span></div>
+                                                        </label><input id="ownername" type="text"
                                                             class="form-control firstName" required
-                                                            placeholder="First Name" name="f_name"></div>
+                                                            placeholder="Owner Name" name="ownername"></div>
                                                 </div>
-                                                <div class="col-sm-6">
-                                                    <div class="form-group lastName-group"><label for="lastName">
-                                                            <div>Last Name <span class="star">*</span></div>
-                                                        </label><input id="lastName" type="text"
-                                                            class="form-control lastName" required
-                                                            placeholder="Last Name" name="l_name"></div>
-                                                </div>
-                                            </div>
-                                            <div class="row">
                                                 <div class="col-sm-6">
                                                     <div class="form-group emailAddress-group"><label
                                                             for="emailAddress">
@@ -165,6 +156,9 @@
                                                             class="form-control emailAddress" required
                                                             placeholder="Email Address" name="email"></div>
                                                 </div>
+                                            </div>
+                                            <div class="row">
+
                                                 <div class="col-sm-6">
                                                     <div class="form-group phoneNumber-group"><label for="phoneNumber">
                                                             <div>Phone Number <span class="star">*</span></div>
@@ -172,8 +166,7 @@
                                                             class="form-control phoneNumber" required
                                                             placeholder="e.g. (500) 444-3333" name="phone"></div>
                                                 </div>
-                                            </div>
-                                            <div class="row">
+
                                                 <div class="col-sm-6">
                                                     <div class="form-group emailAddress-group"><label
                                                             for="emailAddress">
@@ -181,6 +174,24 @@
                                                         </label><input id="petName" type="text"
                                                             class="form-control emailAddress" required
                                                             placeholder="Pet Name" name="petName"></div>
+                                                </div>
+
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="form-group phoneNumber-group"><label for="phoneNumber">
+                                                            <div>Pet  Age <span class="star">*</span></div>
+                                                        </label><input value="" id="phoneNumber" type="tel"
+                                                            class="form-control phoneNumber" required
+                                                            placeholder="" name="age"></div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group emailAddress-group"><label
+                                                            for="emailAddress">
+                                                            <div>Pet species<span class="star">*</span></div>
+                                                        </label><input id="petName" type="text"
+                                                            class="form-control emailAddress" required
+                                                            placeholder="Pet species" name="species"></div>
                                                 </div>
                                             </div>
                                             <div class="row">

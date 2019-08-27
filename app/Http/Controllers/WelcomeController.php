@@ -54,6 +54,7 @@ class WelcomeController extends Controller
 
     public function addbooking(Request $request)
     {
+        dd($request->all());
         // $to_email = 'physio4lifeajax@gmail.com';
         // Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
         //     $message->to($to_email)->subject('new appointment');
