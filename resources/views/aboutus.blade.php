@@ -78,7 +78,7 @@
                                 </div>
                             </li>
                             <li class="nav-item"><a style="color: white;" class="nav-link link"
-                                    href="/services">services</a></li>
+                                    href="/services">Services</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;"
                                       href="/contact-us">Contact&nbsp;Us</a></li> <li class="nav-item"><a class="nav-link link" style="color: white;"
                                         href="/booking"> Book&nbsp;appointment</a></li> 

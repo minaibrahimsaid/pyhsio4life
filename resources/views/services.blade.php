@@ -31,69 +31,67 @@
 <body>
   <section id="ext_menu-7">
     <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
-        <div class="container" style="    max-width: 90%;">
+      <div class="container" style="    max-width: 90%;">
 
-            <div class="mbr-table">
-                <div class="mbr-table-cell">
+        <div class="mbr-table">
+          <div class="mbr-table-cell">
 
-                    <div class="navbar-brand">
-                        <a class="navbar-caption" href="/">
-                            <div style="
+            <div class="navbar-brand">
+              <a class="navbar-caption" href="/">
+                <div style="
                             display: flex;
                             justify-content: space-around;
                             align-items: center;
                         ">
-                                <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
-                                <img id="logo-name" src="/assets/images/logo.png" >
-                            </div>
-                        </a>
-                        {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
-                    </div>
+                  <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                  <img id="logo-name" src="/assets/images/logo.png">
                 </div>
-                <div class="mbr-table-cell">
-
-                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse"
-                        data-target="#exCollapsingNavbar">
-                        <div class="hamburger-icon"></div>
-                    </button>
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm"
-                        id="exCollapsingNavbar">
-                        {{-- <li class="nav-item"><a   style="color: #6785c3;" class="nav-link link" href="/">home</a></li> --}}
-                        <li class="nav-item">
-                            <div class="dropdown show">
-                                <a style="background-color: transparent; border: 0px; color: white;  margin-top: 0px !important;"
-                                    class="btn btn-secondary dropdown-toggle link" href="#" role="button"
-                                    id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
-                                    aria-expanded="false">
-                                    About Us
-                                </a>
-
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
-                                    style="background: dodgerblue; padding: 0px !important;">
-                                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
-                                        class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
-                                        class="dropdown-item" href="/gallery">Clinic Tour</a>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="nav-item"><a style="color: white;" class="nav-link link"
-                                href="/services">services</a></li>
-                        <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                  href="/contact-us">Contact&nbsp;Us</a></li> <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                        href="/booking"> Book&nbsp;appointment</a></li> 
-                        <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
-                        {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
-                    </ul>
-                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
-                        data-target="#exCollapsingNavbar">
-                        <div class="close-icon"></div>
-                    </button>
-                </div>
+              </a>
+              {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
             </div>
+          </div>
+          <div class="mbr-table-cell">
+
+            <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse"
+              data-target="#exCollapsingNavbar">
+              <div class="hamburger-icon"></div>
+            </button>
+            <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar">
+              {{-- <li class="nav-item"><a   style="color: #6785c3;" class="nav-link link" href="/">home</a></li> --}}
+              <li class="nav-item">
+                <div class="dropdown show">
+                  <a style="background-color: transparent; border: 0px; color: white;  margin-top: 0px !important;"
+                    class="btn btn-secondary dropdown-toggle link" href="#" role="button" id="dropdownMenuLink"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    About Us
+                  </a>
+
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
+                    style="background: dodgerblue; padding: 0px !important;">
+                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;" class="dropdown-item"
+                      href="/about-us">Meet Our Team</a>
+                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;" class="dropdown-item"
+                      href="/gallery">Clinic Tour</a>
+                  </div>
+                </div>
+              </li>
+              <li class="nav-item"><a style="color: white;" class="nav-link link" href="/services">Services</a></li>
+              <li class="nav-item"><a class="nav-link link" style="color: white;" href="/contact-us">Contact&nbsp;Us</a>
+              </li>
+              <li class="nav-item"><a class="nav-link link" style="color: white;" href="/booking">
+                  Book&nbsp;appointment</a></li>
+              <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
+              {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
+            </ul>
+            <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
+              data-target="#exCollapsingNavbar">
+              <div class="close-icon"></div>
+            </button>
+          </div>
         </div>
+      </div>
     </nav>
-</section>
+  </section>
   {{-- start-page --}}
   <section
     class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar"
@@ -110,11 +108,13 @@
             <h1 class="mbr-section-title display-1"> wilson road vet</h1>
             <p class="mbr-section-lead lead">
               <div class="online-button">
-                <a href="/booking" style="color: white;    font-size: initial;"><i class="fas fa-circle 2x" style="color:green"></i> Book online </a>
+                <a href="/booking" style="color: white;    font-size: initial;"><i class="fas fa-circle 2x"
+                    style="color:green"></i> Book online </a>
               </div>
               <br>
               <div class="online-button">
-                <i class="fas fa-phone-alt"></i> <a style="    font-size: initial;" href="tel:9055768885">9055768885</a><br>
+                <i class="fas fa-phone-alt"></i> <a style="    font-size: initial;"
+                  href="tel:9055768885">9055768885</a><br>
             </p>
           </div>
         </div>
@@ -281,77 +281,103 @@
                   <div class="mbr-figure service-image"><img src="assets/images/101.jpg"></div>
                   <p>
                     TODO
-                  <p>
+                    <p>
 
-                  
-                  </p>
-                  <div class="card">
-                    <div class="card-header service-header" id="heading14">
-                      <h5 class="mb-0">
-                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse14"
-                          aria-expanded="false" aria-controls="collapse14">
-                          Spay & Neuter
-                        </button>
-                      </h5>
-                    </div>
-                    <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <ul>
-                          Range of motion exercises are often prescribed to increase or maintain flexibility of your
-                          joints and to reduce stiffness.
-                          There several types of range of motion exercises often prescribed including the following
-                          <li>Passive Range of Motion (PROM) Exercises</li>
-                          <li>Active Assistive Range of Motion (AAROM) Exercises</li>
-                          <li>Active Range of Motion (AROM) Exercises</li>
-                        </ul>
+
+                    </p>
+                    <div class="card">
+                      <div class="card-header service-header" id="heading14">
+                        <h5 class="mb-0">
+                          <button class="service collapsed" type="button" data-toggle="collapse"
+                            data-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                            Spay & Neuter
+                          </button>
+                        </h5>
+                      </div>
+                      <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
+                        <div class="card-body">
+                          <ul>
+                            Range of motion exercises are often prescribed to increase or maintain flexibility of your
+                            joints and to reduce stiffness.
+                            There several types of range of motion exercises often prescribed including the following
+                            <li>Passive Range of Motion (PROM) Exercises</li>
+                            <li>Active Assistive Range of Motion (AAROM) Exercises</li>
+                            <li>Active Range of Motion (AROM) Exercises</li>
+                          </ul>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header service-header" id="heading15">
-                      <h5 class="mb-0">
-                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse15"
-                          aria-expanded="false" aria-controls="collapse15">
-                          All soft tissue surgeries
-                        </button>
-                      </h5>
-                    </div>
-                    <div id="collapse15" class="collapse" aria-labelledby="heading15" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <ul>
-                          It is a type of physical exercise in which a soft tissue such as muscle,
-                          tendon or capsule is lengthened in order to improve the mobility of the soft tissues and
-                          consequently,
-                          increase range of motion and flexibility.
-                        </ul>
+                    <div class="card">
+                      <div class="card-header service-header" id="heading15">
+                        <h5 class="mb-0">
+                          <button class="service collapsed" type="button" data-toggle="collapse"
+                            data-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                            All soft tissue surgeries
+                          </button>
+                        </h5>
                       </div>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <div class="card-header service-header" id="heading16">
-                      <h5 class="mb-0">
-                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse16"
-                          aria-expanded="false" aria-controls="collapse16">
-                          Dentistry
-                        </button>
-                      </h5>
-                    </div>
-                    <div id="collapse16" class="collapse" aria-labelledby="heading16" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <ul>
-                          <p>
-                            Balance exercises are the exercises that focus on maintaining an individual’s center of
-                            gravity.
-                          </p>
+                      <div id="collapse15" class="collapse" aria-labelledby="heading15" data-parent="#accordionExample">
+                        <div class="card-body">
+                          <ul>
+                            At our hospital we routinely surgically treat a comprehensive variety of conditions
+                            involving ears, eys, mouth, gastrointestinal tract,
+                            urogenital system, wound management, hormonal disorders and hernias that can affect our
+                            pets.
+                          </ul>
                           <br>
-                          <p>
-                            These exercises will improve your ability to control and stabilize your body’s position and
-                            prevent falls.
-                          </p>
-                        </ul>
+                          <ul>
+                            Pets can suffer from widely varying clinical signs of illness such as lethargy, lumps,
+                            hernias, problems passign urine etc.
+                            After a thorough investigation we often conclude that a surgical procedure would be most
+                            beneficial or most efficient way to treat your pet.
+                            Our vets carry out a variety of surgeries with the highest standard of care and sterility
+                            with the aim being to return your pet to a normal life as
+                            soon as possible. We provide high standards for safe anaesthesia, intraoperative pain
+                            management (reducing pain to the minimum during the procedure
+                            and shortening recovery time) anaesthesia monitoring, sterile preparation and surgical
+                            techniques. These factors all help to ensure your pet recovers
+                            as quickly as possible and reduces the risk of surgical complications while keeping stress
+                            to a minimum.
+                          </ul>
+                          <br>
+                          <ul>
+                            Our patients are closely monitored by our excellent nursing team who will care for your pet
+                            from the time of their admission to their discharge.
+                            They ensure the animals are comfortable, warm and well fed throughout their hospital stay.
+                            Time is spent with your pet both in the kennel/cattery
+                            and if appropriate walking in the outside paddock. We appreciate that a contented patient is
+                            more likely to make a quick and successful recovery.
+                          </ul>
+
+                        </div>
                       </div>
                     </div>
-                  </div>
+                    <div class="card">
+                      <div class="card-header service-header" id="heading16">
+                        <h5 class="mb-0">
+                          <button class="service collapsed" type="button" data-toggle="collapse"
+                            data-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
+                            Dentistry
+                          </button>
+                        </h5>
+                      </div>
+                      <div id="collapse16" class="collapse" aria-labelledby="heading16" data-parent="#accordionExample">
+                        <div class="card-body">
+                          <ul>
+                            <p>
+                              Balance exercises are the exercises that focus on maintaining an individual’s center of
+                              gravity.
+                            </p>
+                            <br>
+                            <p>
+                              These exercises will improve your ability to control and stabilize your body’s position
+                              and
+                              prevent falls.
+                            </p>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
                 </ul>
               </div>
             </div>
@@ -461,8 +487,14 @@
                     <div id="collapse131" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
                       <div class="card-body">
                         <ul>
-                          In electrical stimulation, electrodes are placed on the surface of the skin, which can cause
-                          muscles to contract.
+                          A dog/cat over 8 weeks old must be microchipped. A microchip, about the size of a grain of
+                          rice,
+                          can be implanted under your pet's skin. This carries a unique number which can be read with a
+                          special scanner.
+                          If your pet gets lost or stolen it can be checked by vets, local authorities and welfare
+                          organisations throughout the country and returned quickly.
+
+                          Ask at reception for details.
                         </ul>
                       </div>
                     </div>
@@ -549,7 +581,8 @@
             <li style="color : white"> Tuesday 9:00 am – 6:00 pm </li>
             <li style="color : white"> Wednesday 9:00 am – 6:00 pm </li>
             <li style="color : white"> Thursday 9:00 am – 6:00 pm </li>
-            <li style="color : white"> Friday 9:00 am – 6:00 pm </li><li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
+            <li style="color : white"> Friday 9:00 am – 6:00 pm </li>
+            <li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
             <li style="color : white"> Sunday Day off </li>
           </ul>
         </div>
@@ -635,112 +668,112 @@
     }
 
     @media only screen and (max-width: 800px) {
-            #offer-slide {
-                background-image: url(assets/images/18.jpg) !important;
-            }
+      #offer-slide {
+        background-image: url(assets/images/18.jpg) !important;
+      }
 
-            #offer-slide2 {
-                background-image: url(assets/images/2mob.jpg) !important;
-            }
+      #offer-slide2 {
+        background-image: url(assets/images/2mob.jpg) !important;
+      }
 
-          /*       #offer-slide3 {
+      /*       #offer-slide3 {
                 background-image: url(assets/images/2.png) !important;
             }} */
 
-            #offer-slide4 {
-                background-image: url(assets/images/22.jpg) !important;
-            }
+      #offer-slide4 {
+        background-image: url(assets/images/22.jpg) !important;
+      }
 
-            #clinic-name {
-                font-size: larger;
-            }
+      #clinic-name {
+        font-size: larger;
+      }
 
-            #hidden-text {
-                display: none;
-            }
+      #hidden-text {
+        display: none;
+      }
 
-            #logo-name {
-                width: 25%;
-            }
-        }
-        #map {
-            height: 200px;
-            width: 100%;
-        }
+      #logo-name {
+        width: 25%;
+      }
+    }
 
-        .online-button {
-            color: white;
-            letter-spacing: 5px;
-            font-size: larger;
-            font-family: sans-serif;
-            background-color: #6785c3;
-            height: 60px;
-            width: 60%;
-            line-height: 60px;
-            margin: auto;
-            cursor: pointer;
-        }
+    #map {
+      height: 200px;
+      width: 100%;
+    }
 
-        .contact-card-text {
-            font-weight: 900;
-        }
+    .online-button {
+      color: white;
+      letter-spacing: 5px;
+      font-size: larger;
+      font-family: sans-serif;
+      background-color: #6785c3;
+      height: 60px;
+      width: 60%;
+      line-height: 60px;
+      margin: auto;
+      cursor: pointer;
+    }
 
-        .cardTitle {
-            color: white;
-            font-family: initial;
-        }
+    .contact-card-text {
+      font-weight: 900;
+    }
 
-        .offer-text {
-            font-family: initial;
-            font-style: italic;
-            font-weight: 900;
-            color: #717BF9;
-        }
+    .cardTitle {
+      color: white;
+      font-family: initial;
+    }
 
-        .icon-contactus {
-            color: white
-        }
+    .offer-text {
+      font-family: initial;
+      font-style: italic;
+      font-weight: 900;
+      color: #717BF9;
+    }
 
-        #logo-name {
-            width: 10%;
-        }
+    .icon-contactus {
+      color: white
+    }
 
-        #tex-logo-quote {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
+    #logo-name {
+      width: 10%;
+    }
 
-        @media only screen and (max-width: 800px) {
-            #offer-slide {
-                background-image: url(assets/images/18.jpg) !important;
-            }
+    #tex-logo-quote {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
 
-            #offer-slide2 {
-                background-image: url(assets/images/2mob.jpg) !important;
-            }
+    @media only screen and (max-width: 800px) {
+      #offer-slide {
+        background-image: url(assets/images/18.jpg) !important;
+      }
 
-          /*       #offer-slide3 {
+      #offer-slide2 {
+        background-image: url(assets/images/2mob.jpg) !important;
+      }
+
+      /*       #offer-slide3 {
                 background-image: url(assets/images/2.png) !important;
             }} */
 
-            #offer-slide4 {
-                background-image: url(assets/images/22.jpg) !important;
-            }
+      #offer-slide4 {
+        background-image: url(assets/images/22.jpg) !important;
+      }
 
-            #clinic-name {
-                font-size: larger;
-            }
+      #clinic-name {
+        font-size: larger;
+      }
 
-            #hidden-text {
-                display: none;
-            }
+      #hidden-text {
+        display: none;
+      }
 
-            #logo-name {
-                width: 25%;
-            }
-        }
-
+      #logo-name {
+        width: 25%;
+      }
+    }
   </style>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
