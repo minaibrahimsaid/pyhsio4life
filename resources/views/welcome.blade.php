@@ -97,7 +97,7 @@
 
     {{-- start-page --}}
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="50000"
         id="slider-0">
         <div>
             <div>
@@ -118,7 +118,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                            font-family: cursive;
+                                              font-family: fantasy;
                                             color: #0800ff;">New mangment 15 % off for all clients on any services&nbsp;
                                             </h2>
                                         </div>
@@ -135,7 +135,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                            font-family: cursive;
+                                              font-family: fantasy;
                                             color: #57385f;">Competitive affordable Spay & Neuter prices&nbsp;
                                             </h2>
                                         </div>
@@ -152,7 +152,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                            font-family: cursive;
+                                              font-family: fantasy;
                                             color:#374211;">We do House calls&nbsp;
                                             </h2>
                                         </div>
@@ -169,7 +169,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                            font-family: cursive;
+                                              font-family: fantasy;
                                             color: #0b2456;">Open 6 days a week Saturday till 6 Pm&nbsp;
                                             </h2>
                                         </div>
