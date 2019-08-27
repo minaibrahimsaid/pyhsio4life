@@ -702,7 +702,7 @@
         }
 
         #logo-name {
-            width: 5%;
+            width: 10%;
         }
 
         #tex-logo-quote {

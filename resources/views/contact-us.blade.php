@@ -377,7 +377,7 @@
         }
 
         #logo-name {
-            width: 5%;
+            width: 10%;
         }
 
         @media only screen and (max-width: 800px) {
