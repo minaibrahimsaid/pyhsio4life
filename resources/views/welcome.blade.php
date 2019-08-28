@@ -80,8 +80,9 @@
                             <li class="nav-item"><a style="color: white;" class="nav-link link"
                                     href="/services">Services</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                      href="/contact-us">Contact&nbsp;Us</a></li> <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                        href="/booking"> Book&nbsp;appointment</a></li> 
+                                    href="/contact-us">Contact&nbsp;Us</a></li>
+                            <li class="nav-item"><a class="nav-link link" style="color: white;" href="/booking">
+                                    Book&nbsp;appointment</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
@@ -97,7 +98,7 @@
 
     {{-- start-page --}}
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
         id="slider-0">
         <div>
             <div>
@@ -119,7 +120,7 @@
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
                                               font-family: fantasy;
-                                            color: #0800ff;">New mangment 15 % off for all clients on any services&nbsp;
+                                            color:#bab9ca">New mangment 15 % off for all clients on any services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -169,8 +170,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                              font-family: fantasy;
-                                            color: #0b2456;">Open 6 days a week Saturday till 6 Pm&nbsp;
+                                              font-family: fantasy;">Open 6 days a week Saturday till 6 Pm&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -259,7 +259,8 @@
 
                         <li> <em>
                                 We care about you and your pet
-                                convenience so we do house calls and offer all our services from the comfort of your home
+                                convenience so we do house calls and offer all our services from the comfort of your
+                                home
                                 .
                             </em></li>
                     </ul>
@@ -428,7 +429,7 @@
                 background-image: url(assets/images/2.jpg) !important;
             }
 
-          /*       #offer-slide3 {
+            /*       #offer-slide3 {
                 background-image: url(assets/images/2.png) !important;
             }} */
 
