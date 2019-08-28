@@ -328,8 +328,8 @@
         <div style="text-align:center;">
             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
                 href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
-            <a class="btn btn-social" title="Google" target="_blank"
-                href="https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.892474,-78.8412599,17z/data=!3m1!4b1!4m5!3m4!1s0x89d51cd52647b2e5:0x92e4f41ed490e0f5!8m2!3d43.892474!4d-78.8390712">
+                <a class="btn btn-social" title="Google" target="_blank"
+                href="https://www.google.com/maps/place/Wilson+Rd+Veterinary+Clinic/@43.892474,-78.8390712,15z/data=!4m5!3m4!1s0x0:0x6c92de4082f9266d!8m2!3d43.892474!4d-78.8390712">
                 <i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
                 href="/"><i class="socicon socicon-instagram"></i></a> </div>
         <div class="container">
