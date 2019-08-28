@@ -80,14 +80,15 @@
             <div>
                 <ol class="carousel-indicators">
                     <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
+                    <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image: url(assets/images/massage-2722936-2000x1332.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
                             <div class="container-slide container">
-                                
-                               
+
+
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
                                     <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
@@ -97,7 +98,7 @@
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
+                                                        </i> Book online
                                                     </a>
                                                 </div>
                                                 <br>
@@ -112,12 +113,13 @@
                                     </div>
                             </div>
                         </div>
-                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/6.jpg);">
+                    </div>
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/6.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
-                                
-                                
+
+
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
                                     <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
@@ -125,7 +127,7 @@
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
+                                                        </i> Book online
                                                     </a>
                                                 </div>
                                                 <br>
@@ -140,11 +142,32 @@
                                     </div>
                             </div>
                         </div>
-                    </div><div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
+                    </div>
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/55.jpg);">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
-                               
+
+
+                            <div class="row">
+                                    <div class="col-md-8 col-md-offset-1 text-xs-center">
+                                    <h3 class="mbr-section-title-edit display-2" style="color : white">
+FREE TRANSPORTATION&nbsp;</h3>
+                                            <p class="mbr-section-lead lead">
+                                            We offer free transportation anywhere in Pickering, Ajax, Whitby, and Oshawa!! Call us today to book the appointment and we will make all the arrangements for you!!
+
+                                            </p>
+
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/3.jpg);">
+                        <div class="mbr-table-cell">
+                            <div class="mbr-overlay"></div>
+                            <div class="container-slide container">
+
                             <div class="row">
                                     <div class="col-md-8 col-md-offset-1 text-xs-center">
                                     <h2 class="mbr-section-title display-1">Physio 4 life&nbsp;</h2>
@@ -152,7 +175,7 @@
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
+                                                        </i> Book online
                                                     </a>
                                                 </div>
                                                 <br>
@@ -182,7 +205,7 @@
         </div>
     </div>
 </section>
-<!-- 
+<!--
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
         data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
         id="slider-0">
@@ -227,13 +250,13 @@
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container">
-                                
+
                                 <div class="row">
                                     <div class="col-md-8 col-md-offset-1">
                                         <h2 class="mbr-section-title display-1">VIDEO SLIDE</h2>
                                         <p class="mbr-section-lead lead">Slide with youtube video background and color overlay. Title and text are aligned to the left.</p>
 
-                                        
+
                                     </div>
                                 </div>
                             </div>
@@ -253,7 +276,7 @@
                                                 <div class="online-button">
                                                     <a href="/booking" style="color: white;">
                                                         <i class="fas fa-circle 2x" style="color:green">
-                                                        </i> Book online 
+                                                        </i> Book online
                                                     </a>
                                                 </div>
                                                 <br>
