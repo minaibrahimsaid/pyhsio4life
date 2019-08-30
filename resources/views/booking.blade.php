@@ -38,12 +38,15 @@
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <div style="
+                                <div id="outer-logo" style="
                                 display: flex;
                                 justify-content: space-around;
                                 align-items: center;
+                                width: 75%;
                             ">
-                                    <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                                    <h2 id="clinic-name"
+                                        style="font-weight: bold;     font-family: French Script MT Regular; font-size: xx-large; ">
+                                        Wilson Road Veterinary Clinc </h2>
                                     <img id="logo-name" src="/assets/images/logo.png">
                                 </div>
                             </a>
@@ -70,9 +73,9 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: larger;"
                                             class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: larger;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
@@ -80,8 +83,9 @@
                             <li class="nav-item"><a style="color: white;" class="nav-link link"
                                     href="/services">Services</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                      href="/contact-us">Contact&nbsp;Us</a></li> <li class="nav-item"><a class="nav-link link" style="color: white;"
-                                        href="/booking"> Book&nbsp;appointment</a></li> 
+                                    href="/contact-us">Contact&nbsp;Us</a></li>
+                            <li class="nav-item"><a class="nav-link link" style="color: white;" href="/booking">
+                                    Book&nbsp;appointment</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
@@ -180,10 +184,10 @@
                                             <div class="row">
                                                 <div class="col-sm-6">
                                                     <div class="form-group phoneNumber-group"><label for="phoneNumber">
-                                                            <div>Pet  Age <span class="star">*</span></div>
+                                                            <div>Pet Age <span class="star">*</span></div>
                                                         </label><input value="" id="phoneNumber" type="tel"
-                                                            class="form-control phoneNumber" required
-                                                            placeholder="" name="age"></div>
+                                                            class="form-control phoneNumber" required placeholder=""
+                                                            name="age"></div>
                                                 </div>
                                                 <div class="col-sm-6">
                                                     <div class="form-group emailAddress-group"><label
@@ -196,10 +200,11 @@
                                             </div>
                                             <div class="row">
                                                 <div class="col-sm-12">
-                                                    <div class="form-group message-group"><label for="message">Appointment
-                                                            </label><textarea id="message"
-                                                            class="form-control message" name="condition"
-                                                            placeholder="Eg. vaccines"></textarea></div>
+                                                    <div class="form-group message-group"><label
+                                                            for="message">Appointment
+                                                        </label><textarea id="message" class="form-control message"
+                                                            name="condition" placeholder="Eg. vaccines"></textarea>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="row">
@@ -293,7 +298,8 @@
                         <li style="color : white"> Tuesday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Wednesday 9:00 am – 6:00 pm </li>
                         <li style="color : white"> Thursday 9:00 am – 6:00 pm </li>
-                        <li style="color : white"> Friday 9:00 am – 6:00 pm </li><li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
+                        <li style="color : white"> Friday 9:00 am – 6:00 pm </li>
+                        <li style="color : white"> Saturday 10:00 am – 6:00 pm </li>
                         <li style="color : white"> Sunday Day off </li>
                     </ul>
                 </div>
@@ -370,7 +376,7 @@
                 background-image: url(assets/images/2mob.jpg) !important;
             }
 
-          /*       #offer-slide3 {
+            /*       #offer-slide3 {
                 background-image: url(assets/images/2.png) !important;
             }} */
 
@@ -379,7 +385,8 @@
             }
 
             #clinic-name {
-                font-size: larger;
+                font-family: French Script MT Regular;
+                font-size: xx-large;
             }
 
             #hidden-text {
@@ -390,6 +397,7 @@
                 width: 25%;
             }
         }
+
         #map {
             height: 200px;
             width: 100%;
@@ -447,16 +455,17 @@
                 background-image: url(assets/images/2mob.jpg) !important;
             }
 
-          /*       #offer-slide3 {
-                background-image: url(assets/images/2.png) !important;
-            }} */
+            #outer-logo {
+                width: 100% !important
+            }
 
             #offer-slide4 {
                 background-image: url(assets/images/22.jpg) !important;
             }
 
             #clinic-name {
-                font-size: larger;
+                font-family: French Script MT Regular;
+                font-size: xx-large;
             }
 
             #hidden-text {
@@ -466,6 +475,13 @@
             #logo-name {
                 width: 25%;
             }
+        }
+
+        @font-face {
+            font-family: 'French Script MT Regular';
+            font-style: normal;
+            font-weight: normal;
+            src: local('French Script MT Regular'), url('/assets/fonts/FRSCRIPT.woff') format('woff');
         }
     </style>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>

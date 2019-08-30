@@ -38,12 +38,15 @@
 
             <div class="navbar-brand">
               <a class="navbar-caption" href="/">
-                <div style="
+                <div id="outer-logo" style="
                             display: flex;
                             justify-content: space-around;
                             align-items: center;
+                            width: 75%;
                         ">
-                  <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                  <h2 id="clinic-name"
+                    style="font-weight: bold;     font-family: French Script MT Regular; font-size: xx-large; ">
+                    Wilson Road Veterinary Clinc </h2>
                   <img id="logo-name" src="/assets/images/logo.png">
                 </div>
               </a>
@@ -68,10 +71,10 @@
 
                   <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                     style="background: dodgerblue; padding: 0px !important;">
-                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;" class="dropdown-item"
-                      href="/about-us">Meet Our Team</a>
-                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;" class="dropdown-item"
-                      href="/gallery">Clinic Tour</a>
+                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: larger;"
+                      class="dropdown-item" href="/about-us">Meet Our Team</a>
+                    <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: larger;"
+                      class="dropdown-item" href="/gallery">Clinic Tour</a>
                   </div>
                 </div>
               </li>
@@ -253,7 +256,6 @@
               <div id="collapse50" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
                 <div class="card-body">
                   <ul>
-                    <div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
                     <p> Local, Niagara Falls area veterinarian offering mobile House-Call service for a variety of
                       reasons, but primarily to ease the stress and anxiety many pets feel when visiting the veterinary
                       office.
@@ -387,7 +389,7 @@
               <h5 class="mb-0">
                 <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse51"
                   aria-expanded="false" aria-controls="collapse11">
-                  Heartworm, flea and tick preventative program
+                  Heartworm, flea and tick prevention
                 </button>
               </h5>
             </div>
@@ -603,7 +605,7 @@
       <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
         href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
       <a class="btn btn-social" title="Google" target="_blank"
-                href="https://www.google.com/maps/place/Wilson+Rd+Veterinary+Clinic/@43.892474,-78.8390712,15z/data=!4m5!3m4!1s0x0:0x6c92de4082f9266d!8m2!3d43.892474!4d-78.8390712">
+        href="https://www.google.com/maps/place/Wilson+Rd+Veterinary+Clinic/@43.892474,-78.8390712,15z/data=!4m5!3m4!1s0x0:0x6c92de4082f9266d!8m2!3d43.892474!4d-78.8390712">
         <i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
         href="/"><i class="socicon socicon-instagram"></i></a> </div>
     <div class="container">
@@ -685,7 +687,8 @@
       }
 
       #clinic-name {
-        font-size: larger;
+        font-family: French Script MT Regular;
+        font-size: xx-large;
       }
 
       #hidden-text {
@@ -754,16 +757,17 @@
         background-image: url(assets/images/2mob.jpg) !important;
       }
 
-      /*       #offer-slide3 {
-                background-image: url(assets/images/2.png) !important;
-            }} */
+      #outer-logo {
+        width: 100% !important
+      }
 
       #offer-slide4 {
         background-image: url(assets/images/22.jpg) !important;
       }
 
       #clinic-name {
-        font-size: larger;
+        font-family: French Script MT Regular;
+        font-size: xx-large;
       }
 
       #hidden-text {
@@ -773,6 +777,13 @@
       #logo-name {
         width: 25%;
       }
+    }
+
+    @font-face {
+      font-family: 'French Script MT Regular';
+      font-style: normal;
+      font-weight: normal;
+      src: local('French Script MT Regular'), url('/assets/fonts/FRSCRIPT.woff') format('woff');
     }
   </style>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>

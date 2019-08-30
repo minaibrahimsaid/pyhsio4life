@@ -38,12 +38,15 @@
 
                         <div class="navbar-brand">
                             <a class="navbar-caption" href="/">
-                                <div style="
+                                <div id="outer-logo" style="
                                 display: flex;
                                 justify-content: space-around;
                                 align-items: center;
+                                width: 75%;
                             ">
-                                    <h2 id="clinic-name" style="font-weight: bold;  ">Wilson Road Veterinary Clinc </h2>
+                                    <h2 id="clinic-name"
+                                        style="font-weight: bold;     font-family: French Script MT Regular; font-size: xx-large; ">
+                                        Wilson Road Veterinary Clinc </h2>
                                     <img id="logo-name" src="/assets/images/logo.png">
                                 </div>
                             </a>
@@ -70,9 +73,9 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: larger;"
                                             class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: larger;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
@@ -95,7 +98,6 @@
             </div>
         </nav>
     </section>
-
     {{-- start-page --}}
     <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
         data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
@@ -119,8 +121,8 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                              font-family: fantasy;
-                                            color:#bab9ca">New mangment 15 % off for all clients on any services&nbsp;
+                                              font-family: French Script MT Regular;
+                                            color:#57385f">New mangment 15 % off for all clients on any services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -136,7 +138,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                              font-family: fantasy;
+                                              font-family: French Script MT Regular;
                                             color: #57385f;">Competitive affordable Spay & Neuter prices&nbsp;
                                             </h2>
                                         </div>
@@ -153,8 +155,8 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                              font-family: fantasy;
-                                            color:#374211;">We do House calls&nbsp;
+                                              font-family: French Script MT Regular;
+                                            color:#57385f;">We do House calls&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -169,8 +171,9 @@
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1" style="    
-                                              font-family: fantasy;">Open 6 days a week Saturday till 6 Pm&nbsp;
+                                            <h2 class="mbr-section-title display-1" style="color:#57385f; 
+                                              font-family: French Script MT Regular;">Open 6 days a week Saturday till
+                                                6 Pm&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -226,7 +229,9 @@
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li>
-                            <em><strong> Wilson Road Veterinary Clinic </strong> has performed veterinary services for
+                            <em><strong style="font-family: French Script MT Regular; 
+                                font-size: x-large;"> Wilson Road Veterinary Clinic </strong> has performed veterinary
+                                services for
                                 small animal
                                 patients for over 40 years , serving your pets in the Oshawa and surrounding Durham
                                 community.&nbsp;
@@ -425,6 +430,10 @@
                 background-image: url(assets/images/18.jpg) !important;
             }
 
+            #outer-logo {
+                width: 100% !important
+            }
+
             #offer-slide2 {
                 background-image: url(assets/images/2.jpg) !important;
             }
@@ -438,7 +447,8 @@
             }
 
             #clinic-name {
-                font-size: larger;
+                font-family: French Script MT Regular;
+                font-size: xx-large;
             }
 
             #hidden-text {
@@ -448,6 +458,13 @@
             #logo-name {
                 width: 20%;
             }
+        }
+
+        @font-face {
+            font-family: 'French Script MT Regular';
+            font-style: normal;
+            font-weight: normal;
+            src: local('French Script MT Regular'), url('/assets/fonts/FRSCRIPT.woff') format('woff');
         }
     </style>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
