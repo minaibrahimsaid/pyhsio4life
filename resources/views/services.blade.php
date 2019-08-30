@@ -108,7 +108,7 @@
         <div class="row">
           <div class="mbr-section col-md-10 col-md-offset-1 text-xs-center">
 
-            <h1 class="mbr-section-title display-1"> wilson road vet</h1>
+            <h1 class="mbr-section-title display-1"> Wilson Road Veterinary Clinc</h1>
             <p class="mbr-section-lead lead">
               <div class="online-button">
                 <a href="/booking" style="color: white;    font-size: initial;"><i class="fas fa-circle 2x"
@@ -396,7 +396,6 @@
             <div id="collapse51" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
               <div class="card-body">
                 <ul>
-                  <div class="mbr-figure service-image"><img src="assets/images/3.jpeg"></div>
                   <p> Local, Niagara Falls area veterinarian offering mobile House-Call service for a variety of
                     reasons, but primarily to ease the stress and anxiety many pets feel when visiting the veterinary
                     office.
@@ -568,7 +567,7 @@
           <h2>
             <h6 style="font-weight: bold;">Address</h6><br>
             371 Wilson Road South
-            Oshawa, Ontario <br><br><br>
+            Oshawa, Ontario L1H 6C6 <br><br><br>
             <h6 style="font-weight: bold;">Contacts</h6><br>
             Email: wilsonrdvetclinic@gmail.com<br>
             <h6>Phone: +1 905-576-8885</h6><br>
