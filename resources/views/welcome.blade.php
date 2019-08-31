@@ -36,7 +36,7 @@
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 
-                        <div class="navbar-brand">
+                        <div class="navbar-brand" style="padding : 0px !important;">
                             <a class="navbar-caption" href="/">
                                 <div id="outer-logo" style="
                                 display: flex;
