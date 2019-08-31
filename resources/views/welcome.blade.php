@@ -173,7 +173,7 @@
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
                                               font-family: Monotype Corsiva Regular;
-                                            color:#57385f;">We do House calls&nbsp;
+                                            color:#960000;">We do House calls&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -469,27 +469,28 @@
                 display: none
             }
 
-            /*       #offer-slide3 {
-                background-image: url(assets/images/2.png) !important;
-            }} */
-
-            #offer-slide4 {
-                background-image: url(assets/images/22.jpg) !important;
+            #offer-slide3 {
+                background-image: url(assets/images/3mob.jpg) !important;
             }
+        }
 
-            #clinic-name {
-                font-family: Monotype Corsiva Regular;
-                font-size: xx-large;
-            }
+        #offer-slide4 {
+            background-image: url(assets/images/22.jpg) !important;
+        }
 
-            #hidden-text {
-                display: none;
-            }
+        #clinic-name {
+            font-family: Monotype Corsiva Regular;
+            font-size: xx-large;
+        }
 
-            #logo-name {
-                width: 20%;
-                display: inline;
-            }
+        #hidden-text {
+            display: none;
+        }
+
+        #logo-name {
+            width: 20%;
+            display: inline;
+        }
         }
 
         .link {
