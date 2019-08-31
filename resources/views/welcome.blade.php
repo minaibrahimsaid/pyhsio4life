@@ -120,7 +120,7 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-1 margin:0px !important">
                                             <h2 class="mbr-section-title display-1 text-aligin:left" style="    
-                                              font-family: French Script MT Regular;
+                                              font-family: Monotype Corsiva Regular;
                                             color:#57385f">15 % off for all clients on all services&nbsp;
                                             </h2>
                                         </div>
@@ -137,7 +137,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                              font-family: French Script MT Regular;
+                                              font-family: Monotype Corsiva Regular;
                                             color: #57385f;">Competitive affordable Spay & Neuter prices&nbsp;
                                             </h2>
                                         </div>
@@ -154,7 +154,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
-                                              font-family: French Script MT Regular;
+                                              font-family: Monotype Corsiva Regular;
                                             color:#57385f;">We do House calls&nbsp;
                                             </h2>
                                         </div>
@@ -171,7 +171,7 @@
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="color:#57385f; 
-                                              font-family: French Script MT Regular;">Open 6 days a week Saturday till
+                                              font-family: Monotype Corsiva Regular;">Open 6 days a week Saturday till
                                                 6 Pm&nbsp;
                                             </h2>
                                         </div>
@@ -228,7 +228,7 @@
                 <div class="col-xs-12 col-md-6 lead">
                     <ul>
                         <li>
-                            <em><strong style="font-family: French Script MT Regular; 
+                            <em><strong style="font-family: Monotype Corsiva Regular; 
                                 font-size: x-large;"> Wilson Road Veterinary Clinic </strong> has performed veterinary
                                 services for
                                 small animal
