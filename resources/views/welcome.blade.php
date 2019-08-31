@@ -85,7 +85,7 @@
                                     href="/contact-us">Contact&nbsp;Us</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;" href="/booking">
                                     Book&nbsp;appointment</a></li>
-                            <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
+                            {{-- <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li> --}}
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
                         <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
