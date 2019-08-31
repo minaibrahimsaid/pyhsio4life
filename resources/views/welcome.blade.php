@@ -131,10 +131,10 @@
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-1 " style="">
-                                            <h2 class="mbr-section-title display-1 text-aligin:left" style="  color:#960000;  
+                                            <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="  
                                                 font-family: Monotype Corsiva Regular;">For all clients </h2>
-                                            <h2 class="mbr-section-title display-1 text-aligin:left"
-                                                style="font-family: Monotype Corsiva Regular; color:#960000;"> on all
+                                            <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1"
+                                                style="font-family: Monotype Corsiva Regular; "> on all
                                                 services&nbsp;
                                             </h2>
                                         </div>
@@ -444,9 +444,17 @@
             align-items: center;
         }
 
+        .text-offer-1 {
+            color: #960000;
+        }
+
         @media only screen and (max-width: 800px) {
             #offer-slide {
                 background-image: url(assets/images/18.jpg) !important;
+            }
+
+            .text-offer-1 {
+                color: white;
             }
 
             #outer-logo {
