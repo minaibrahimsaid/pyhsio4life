@@ -113,7 +113,7 @@
                     <div class="carousel-inner" role="listbox">
                         <div id="offer-slide"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
-                            data-bg-video-slide="false" style="background-image: url(assets/images/1.jpg);">
+                            data-bg-video-slide="false" style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
