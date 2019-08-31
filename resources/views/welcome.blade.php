@@ -118,7 +118,7 @@
                             data-bg-video-slide="false"
                             style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
                             <div class="mbr-table-cell">
-                                <div id="per15"><img src="assets/images/15%.png" width="15%">
+                                <div id="per15"><img src="assets/images/15.png" width="15%">
                                     <div>
                                         <h2 class="mbr-section-title display-1 text-aligin:left" style="  color:#960000;  
                                     font-family: Monotype Corsiva Regular;">For all clients </h2>
