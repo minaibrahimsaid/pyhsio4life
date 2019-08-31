@@ -42,15 +42,14 @@
                                 display: flex;
                                 justify-content: space-around;
                                 align-items: center;
-                                width: 75%;
+                                flex-direction: column;
+                                
                             ">
                                     <h2 id="clinic-name"
-                                        style="font-weight: bold;     font-family: Monotype Corsiva Regular; font-size: xx-large; ">
-                                        Wilson Road Veterinary Clinc </h2>
-                                    <img id="logo-name" src="/assets/images/logo.png">
+                                        style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large; ">
+                                        Wilson Road Veterinary Clinc  </h2><h4 style=" font-family: Monotype Corsiva Regular;">since 1975</h4>
                                 </div>
                             </a>
-                            {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
                     </div>
                     <div class="mbr-table-cell">
@@ -416,9 +415,6 @@
             color: white
         }
 
-        #logo-name {
-            width: 10%;
-        }
 
         #tex-logo-quote {
             display: flex;
@@ -458,6 +454,7 @@
 
             #logo-name {
                 width: 20%;
+                display: inline;
             }
         }
 
