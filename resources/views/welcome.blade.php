@@ -47,7 +47,9 @@
                             ">
                                     <h2 id="clinic-name"
                                         style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large;     text-align: center;">
-                                        Wilson Road Veterinary Clinic  </h2><h4 style=" font-family: Monotype Corsiva Regular; margin-bottom: 0px !important;">Since 1975</h4>
+                                        Wilson Road Veterinary Clinic </h2>
+                                    <h4 style=" font-family: Monotype Corsiva Regular; margin-bottom: 0px !important;">
+                                        Since 1975</h4>
                                 </div>
                             </a>
                         </div>
@@ -113,15 +115,15 @@
                     <div class="carousel-inner" role="listbox">
                         <div id="offer-slide"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
-                            data-bg-video-slide="false" style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
+                            data-bg-video-slide="false"
+                            style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-1 margin:0px !important">
                                             <h2 class="mbr-section-title display-1 text-aligin:left" style="    
-                                              font-family: Monotype Corsiva Regular;
-                                            color:#57385f">15 % off for all clients on all services&nbsp;
+                                              font-family: Monotype Corsiva Regular;">For all clients on all services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
@@ -330,8 +332,8 @@
                     <h2>
                         <h6 style="font-weight: bold;">Address</h6><br>
                         371 Wilson Road South
-                        Oshawa, Ontario  L1H 6C6
- <br><br><br>
+                        Oshawa, Ontario L1H 6C6
+                        <br><br><br>
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
                         <h6>Phone: +1 905-576-8885</h6><br>
@@ -458,7 +460,7 @@
             }
         }
 
-        .link{
+        .link {
             font-size: medium !important;
         }
 
