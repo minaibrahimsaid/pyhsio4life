@@ -458,6 +458,10 @@
             }
         }
 
+        .link{
+            font-size: medium !important;
+        }
+
         @font-face {
             font-family: 'Monotype Corsiva Regular';
             font-style: normal;
