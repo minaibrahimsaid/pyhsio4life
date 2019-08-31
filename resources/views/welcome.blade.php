@@ -118,13 +118,13 @@
                             data-bg-video-slide="false"
                             style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
                             <div class="mbr-table-cell">
-                                <div class="mbr-overlay"></div>
+                                {{-- <div>mina</div> --}}
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-6 col-md-offset-1 margin:0px !important">
-                                            <h2 class="mbr-section-title display-1 text-aligin:left" style="    
+                                        <div class="col-md-6 col-md-offset-1 " style="margin:0px !important ">
+                                            <h2 class="mbr-section-title display-1 text-aligin:left" style="  color:#960000;  
                                               font-family: Monotype Corsiva Regular;">For all clients </h2>
-                                            <h2 class="mbr-section-title display-1 text-aligin:left" style="font-family: Monotype Corsiva Regular;"> on all services&nbsp;
+                                            <h2 class="mbr-section-title display-1 text-aligin:left" style="font-family: Monotype Corsiva Regular; color:#960000;"> on all services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
