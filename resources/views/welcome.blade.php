@@ -47,7 +47,7 @@
                             ">
                                     <h2 id="clinic-name"
                                         style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large;     text-align: center;">
-                                        Wilson Road Veterinary Clinic  </h2><h4 style=" font-family: Monotype Corsiva Regular;">since 1975</h4>
+                                        Wilson Road Veterinary Clinic  </h2><h4 style=" font-family: Monotype Corsiva Regular; margin-bottom: 0px !important;">Since 1975</h4>
                                 </div>
                             </a>
                         </div>
