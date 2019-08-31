@@ -118,10 +118,10 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-12 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1" style="    
+                                        <div class="col-md-6 col-md-offset-1 margin:0px !important">
+                                            <h2 class="mbr-section-title display-1 text-aligin:left" style="    
                                               font-family: French Script MT Regular;
-                                            color:#57385f">New mangment 15 % off for all clients on any services&nbsp;
+                                            color:#57385f">15 % off for all clients on all services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
