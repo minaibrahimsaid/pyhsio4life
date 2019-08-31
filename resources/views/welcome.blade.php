@@ -45,7 +45,7 @@
                                 width: 75%;
                             ">
                                     <h2 id="clinic-name"
-                                        style="font-weight: bold;     font-family: French Script MT Regular; font-size: xx-large; ">
+                                        style="font-weight: bold;     font-family: Monotype Corsiva Regular; font-size: xx-large; ">
                                         Wilson Road Veterinary Clinc </h2>
                                     <img id="logo-name" src="/assets/images/logo.png">
                                 </div>
@@ -448,7 +448,7 @@
             }
 
             #clinic-name {
-                font-family: French Script MT Regular;
+                font-family: Monotype Corsiva Regular;
                 font-size: xx-large;
             }
 
@@ -462,10 +462,10 @@
         }
 
         @font-face {
-            font-family: 'French Script MT Regular';
+            font-family: 'Monotype Corsiva Regular';
             font-style: normal;
             font-weight: normal;
-            src: local('French Script MT Regular'), url('/assets/fonts/FRSCRIPT.woff') format('woff');
+            src: local('Monotype Corsiva Regular'), url('/assets/fonts/MTCORSVA.woff') format('woff');
         }
     </style>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
