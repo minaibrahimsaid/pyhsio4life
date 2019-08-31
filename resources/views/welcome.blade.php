@@ -167,10 +167,10 @@
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
                             data-bg-video-slide="false" style="background-image:  url(assets/images/25.jpg);">
                             <div class="mbr-table-cell">
-                                    <h2  id="text3-slide"class="mbr-section-title display-1" style="    
+                                <h2 id="text3-slide" class="mbr-section-title display-1" style="    
                                     font-family: Monotype Corsiva Regular;
                                   color:#960000;     text-align: center;     ">We do House calls&nbsp;
-                                  </h2>
+                                </h2>
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
@@ -473,6 +473,11 @@
             #offer-slide3 {
                 background-image: url(assets/images/3mob.jpg) !important;
             }
+
+            #text3-slide {
+                padding-bottom: 90px;
+            }
+
         }
 
         #offer-slide4 {
@@ -491,9 +496,6 @@
         #logo-name {
             width: 20%;
             display: inline;
-        }
-        #text3-slide{
-            padding-bottom: 90px;
         }
 
         .link {
