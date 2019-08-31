@@ -123,7 +123,8 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-1 margin:0px !important">
                                             <h2 class="mbr-section-title display-1 text-aligin:left" style="    
-                                              font-family: Monotype Corsiva Regular;">For all clients on all services&nbsp;
+                                              font-family: Monotype Corsiva Regular;">For all clients </h2>
+                                            <h2 class="mbr-section-title display-1 text-aligin:left" style="font-family: Monotype Corsiva Regular;"> on all services&nbsp;
                                             </h2>
                                         </div>
                                     </div>
