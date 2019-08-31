@@ -118,10 +118,10 @@
                             data-bg-video-slide="false"
                             style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
                             <div class="mbr-table-cell">
-                                {{-- <div>mina</div> --}}
+                                <div id="per15"><img  src="assets/images/15%.png" width="10%"   ></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-6 col-md-offset-1 " style="margin:0px !important ">
+                                        <div class="col-md-6 col-md-offset-1 " style="">
                                             <h2 class="mbr-section-title display-1 text-aligin:left" style="  color:#960000;  
                                               font-family: Monotype Corsiva Regular;">For all clients </h2>
                                             <h2 class="mbr-section-title display-1 text-aligin:left" style="font-family: Monotype Corsiva Regular; color:#960000;"> on all services&nbsp;
@@ -436,6 +436,10 @@
 
             #offer-slide2 {
                 background-image: url(assets/images/2.jpg) !important;
+            }
+
+            #per15{
+                display: none
             }
 
             /*       #offer-slide3 {
