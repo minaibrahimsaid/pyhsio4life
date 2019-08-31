@@ -147,7 +147,7 @@
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
                                             <h2 class="mbr-section-title display-1" style="    
                                               font-family: Monotype Corsiva Regular;
-                                            color: #57385f;">Competitive affordable Spay & Neuter prices&nbsp;
+                                            color:#960000;;">Competitive affordable Spay & Neuter prices&nbsp;
                                             </h2>
                                         </div>
                                     </div>
