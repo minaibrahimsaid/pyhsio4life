@@ -119,6 +119,14 @@
                             style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
                             <div class="mbr-table-cell">
                                 <div id="per15"><img src="assets/images/15.png" width="15%">
+                                    <div class="col-md-6 col-md-offset-1 " style="">
+                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="  
+                                            font-family: Monotype Corsiva Regular;">For all clients </h2>
+                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1"
+                                            style="font-family: Monotype Corsiva Regular; "> on all
+                                            services&nbsp;
+                                        </h2>
+                                    </div>
                                     <div>
                                         {{-- <h2 class="mbr-section-title display-1 text-aligin:left" style="  color:#960000;  
                                     font-family: Monotype Corsiva Regular;">For all clients </h2>
@@ -130,7 +138,7 @@
                                 </div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-6 col-md-offset-1 " style="">
+                                        <div class="col-md-6 col-md-offset-1 text-mobile">
                                             <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="  
                                                 font-family: Monotype Corsiva Regular;">For all clients </h2>
                                             <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1"
@@ -436,7 +444,13 @@
 
         #per15 {
             display: flex;
-            align-items: center
+            align-items: center;
+            margin-left: 100px;
+            margin-top: 100px
+        }
+
+        .text-mobile {
+            display: none;
         }
 
         #tex-logo-quote {
@@ -468,6 +482,10 @@
 
             #per15 {
                 display: none
+            }
+
+            .text-mobile {
+                display: inline;
             }
 
             #offer-slide3 {
