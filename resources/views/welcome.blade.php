@@ -45,7 +45,7 @@
                                 flex-direction: column;
                                 
                             ">
-                                    <h2 id="clinic-name"
+                                    <h2 class="clinic-name"
                                         style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large;     text-align: center;">
                                         Wilson Road Veterinary Clinic </h2>
                                     <h4 style=" font-family: Monotype Corsiva Regular; margin-bottom: 0px !important;">
@@ -74,9 +74,9 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: larger;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: large;"
                                             class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: larger;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: large;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
@@ -191,7 +191,7 @@
                         </div>
                         <div id="offer-slide4"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/21.jpg);">
+                            data-bg-video-slide="false" style="background-image:  url(assets/images/88.jpg);">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
@@ -242,7 +242,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-xs-center">
-                    <h4 class="mbr-section-title display-2">Why Wilson Road Veterinary Clinic ?</h4>
+                    <h4 class="mbr-section-title display-3">Why </h4> <h4 class="clinic-name mbr-section-title display-1"> Wilson Road Veterinary Clinic ? </h4>
                 </div>
             </div>
         </div>
@@ -308,7 +308,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12  text-xs-center">
-                    <h3 class="mbr-section-title display-2">Contact us</h3>
+                    <h3 class="mbr-section-title display-2 clinic-name">Contact us</h3>
                     <div class="contact-div-info col-md-12 row">
                         <div class="contact-card col-md-4">
                             <h3 class="icon-contactus ">
@@ -330,7 +330,7 @@
                             </h5>
                             <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;"
                                     href="tel:+9055768885">
-                                    905 576 8885</a> </p>
+                                    +1 (905) 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -361,7 +361,7 @@
                         <br><br><br>
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
-                        <h6>Phone: +1 905-576-8885</h6><br>
+                        <h6>Phone: +1 (905)-576-8885</h6><br>
                         </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
@@ -491,6 +491,10 @@
             #offer-slide3 {
                 background-image: url(assets/images/3mob.jpg) !important;
             }
+            
+            #offer-slide4 {
+                background-image: url(assets/images/89.jpg) !important;
+            }
 
             #text3-slide {
                 padding-bottom: 90px;
@@ -498,11 +502,8 @@
 
         }
 
-        #offer-slide4 {
-            background-image: url(assets/images/22.jpg) !important;
-        }
 
-        #clinic-name {
+        .clinic-name {
             font-family: Monotype Corsiva Regular;
             font-size: xx-large;
         }
