@@ -116,14 +116,14 @@
                         <div id="offer-slide"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
                             data-bg-video-slide="false"
-                            style="margin-top: 70px; background-image: url(assets/images/1.jpg);">
+                            style="margin-top: 70px; background-image: url(assets/images/1.jpg); ">
                             <div class="mbr-table-cell">
                                 <div id="per15"><img src="assets/images/15.png" width="15%">
                                     <div class="col-md-6 col-md-offset-1 " style="">
-                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="  
+                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="      color: #960000;
                                             font-family: Monotype Corsiva Regular;">For all clients </h2>
                                         <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1"
-                                            style="font-family: Monotype Corsiva Regular; "> on all
+                                            style="font-family: Monotype Corsiva Regular;    color: #960000; "> on all
                                             services&nbsp;
                                         </h2>
                                     </div>
@@ -191,13 +191,14 @@
                         </div>
                         <div id="offer-slide4"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/88.jpg);">
+                            data-bg-video-slide="false"
+                            style="background-image: url(assets/images/88.jpg);     margin-top: 70px;">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-12 col-md-offset-1 text-xs-center">
-                                            <h2 class="mbr-section-title display-1" style="color:#57385f; 
+                                            <h2 class="mbr-section-title display-1" style="    color: #960000; 
                                               font-family: Monotype Corsiva Regular;">Open 6 days a week Saturday till
                                                 6 Pm&nbsp;
                                             </h2>
@@ -242,7 +243,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-xs-center">
-                    <h4 class="mbr-section-title display-3">Why </h4> <h4 class="clinic-name mbr-section-title display-1"> Wilson Road Veterinary Clinic ? </h4>
+                    <h4 class="mbr-section-title display-3">Why </h4>
+                    <h4 class="clinic-name mbr-section-title display-1"> Wilson Road Veterinary Clinic ? </h4>
                 </div>
             </div>
         </div>
@@ -491,7 +493,7 @@
             #offer-slide3 {
                 background-image: url(assets/images/3mob.jpg) !important;
             }
-            
+
             #offer-slide4 {
                 background-image: url(assets/images/89.jpg) !important;
             }
