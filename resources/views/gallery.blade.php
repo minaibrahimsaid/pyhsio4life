@@ -36,21 +36,22 @@
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 
-                        <div class="navbar-brand">
+                        <div class="navbar-brand" style="padding : 0px !important;">
                             <a class="navbar-caption" href="/">
                                 <div id="outer-logo" style="
                                 display: flex;
                                 justify-content: space-around;
                                 align-items: center;
-                                width: 75%;
+                                flex-direction: column;
+                                
                             ">
-                                    <h2 id="clinic-name"
-                                        style="font-weight: bold;     font-family: French Script MT Regular; font-size: xx-large; ">
-                                        Wilson Road Veterinary Clinc </h2>
-                                    <img id="logo-name" src="/assets/images/logo.png">
+                                    <h2 class="clinic-name"
+                                        style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large;     text-align: center;">
+                                        Wilson Road Veterinary Clinic </h2>
+                                    <h4 style=" font-family: Monotype Corsiva Regular; margin-bottom: 0px !important;">
+                                        Since 1975</h4>
                                 </div>
                             </a>
-                            {{-- <a id="LOGO" href="/"><img src="/assets/images/logo.png" width="20%"> </a> --}}
                         </div>
                     </div>
                     <div class="mbr-table-cell">
@@ -73,9 +74,9 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: larger;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: large;"
                                             class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: larger;"
+                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: large;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
@@ -86,7 +87,7 @@
                                     href="/contact-us">Contact&nbsp;Us</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;" href="/booking">
                                     Book&nbsp;appointment</a></li>
-                            <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
+                            {{-- <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li> --}}
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
                         <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
@@ -415,161 +416,130 @@
     </footer>
 
     <style>
-        #map {
-            height: 200px;
-            width: 100%;
-        }
-
-        .online-button {
-            color: white;
-            letter-spacing: 5px;
-            font-size: larger;
-            font-family: sans-serif;
-            background-color: #6785c3;
-            height: 60px;
-            width: 60%;
-            line-height: 60px;
-            margin: auto;
-            cursor: pointer;
-        }
-
-        .contact-card-text {
-            font-weight: 900;
-        }
-
-        .cardTitle {
-            color: white;
-            font-family: initial;
-        }
-
-        .offer-text {
-            font-family: initial;
-            font-style: italic;
-            font-weight: 900;
-            color: #717BF9;
-        }
-
-        .icon-contactus {
-            color: white
-        }
-
-        @media only screen and (max-width: 800px) {
-            #offer-slide {
-                background-image: url(assets/images/18.jpg) !important;
+            #map {
+                height: 200px;
+                width: 100%;
             }
-
-            #offer-slide2 {
-                background-image: url(assets/images/2mob.jpg) !important;
+    
+            .online-button {
+                color: white;
+                letter-spacing: 5px;
+                font-size: larger;
+                font-family: sans-serif;
+                background-color: #6785c3;
+                height: 60px;
+                width: 60%;
+                line-height: 60px;
+                margin: auto;
+                cursor: pointer;
             }
-
-            #outer-logo {
-                width: 100% !important
+    
+            .contact-card-text {
+                font-weight: 900;
             }
-
-            #offer-slide4 {
-                background-image: url(assets/images/22.jpg) !important;
+    
+            .cardTitle {
+                color: white;
+                font-family: initial;
             }
-
-            #clinic-name {
-                font-family: French Script MT Regular;
+    
+            .offer-text {
+                font-family: initial;
+                font-style: italic;
+                font-weight: 900;
+                color: #717BF9;
+            }
+    
+            .icon-contactus {
+                color: white
+            }
+    
+            #per15 {
+                display: flex;
+                align-items: center;
+                margin-left: 100px;
+                margin-top: 100px
+            }
+    
+            .text-mobile {
+                display: none;
+            }
+    
+            #tex-logo-quote {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+    
+            .text-offer-1 {
+                color: #960000;
+            }
+    
+            @media only screen and (max-width: 800px) {
+                #offer-slide {
+                    background-image: url(assets/images/18.jpg) !important;
+                }
+    
+                .text-offer-1 {
+                    color: white;
+                }
+    
+                #outer-logo {
+                    width: 100% !important
+                }
+    
+                #offer-slide2 {
+                    background-image: url(assets/images/2mob.jpg) !important;
+                }
+    
+                #per15 {
+                    display: none
+                }
+    
+                .text-mobile {
+                    display: inline;
+                }
+    
+                #offer-slide3 {
+                    background-image: url(assets/images/3mob.jpg) !important;
+                }
+    
+                #offer-slide4 {
+                    background-image: url(assets/images/89.jpg) !important;
+                }
+    
+                #text3-slide {
+                    padding-bottom: 90px;
+                }
+    
+            }
+    
+    
+            .clinic-name {
+                font-family: Monotype Corsiva Regular;
                 font-size: xx-large;
             }
-
+    
             #hidden-text {
                 display: none;
             }
-
-            #logo-name {
-                width: 25%;
-            }
-        }
-
-        #map {
-            height: 200px;
-            width: 100%;
-        }
-
-        .online-button {
-            color: white;
-            letter-spacing: 5px;
-            font-size: larger;
-            font-family: sans-serif;
-            background-color: #6785c3;
-            height: 60px;
-            width: 60%;
-            line-height: 60px;
-            margin: auto;
-            cursor: pointer;
-        }
-
-        .contact-card-text {
-            font-weight: 900;
-        }
-
-        .cardTitle {
-            color: white;
-            font-family: initial;
-        }
-
-        .offer-text {
-            font-family: initial;
-            font-style: italic;
-            font-weight: 900;
-            color: #717BF9;
-        }
-
-        .icon-contactus {
-            color: white
-        }
-
-        #logo-name {
-            width: 5%;
-        }
-
-        #tex-logo-quote {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        @media only screen and (max-width: 800px) {
-            #offer-slide {
-                background-image: url(assets/images/18.jpg) !important;
-            }
-
-            #offer-slide2 {
-                background-image: url(assets/images/2mob.jpg) !important;
-            }
-
-            /*       #offer-slide3 {
-                background-image: url(assets/images/2.png) !important;
-            }} */
-
-            #offer-slide4 {
-                background-image: url(assets/images/22.jpg) !important;
-            }
-
-            #clinic-name {
-                font-family: French Script MT Regular;
-                font-size: xx-large;
-            }
-
-            #hidden-text {
-                display: none;
-            }
-
+    
             #logo-name {
                 width: 20%;
+                display: inline;
             }
-        }
-
-        @font-face {
-            font-family: 'French Script MT Regular';
-            font-style: normal;
-            font-weight: normal;
-            src: local('French Script MT Regular'), url('/assets/fonts/FRSCRIPT.woff') format('woff');
-        }
-    </style>
+    
+            .link {
+                font-size: medium !important;
+            }
+    
+            @font-face {
+                font-family: 'Monotype Corsiva Regular';
+                font-style: normal;
+                font-weight: normal;
+                src: local('Monotype Corsiva Regular'), url('/assets/fonts/MTCORSVA.woff') format('woff');
+            }
+        </style>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
