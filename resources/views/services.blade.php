@@ -257,16 +257,16 @@
               <div id="collapse50" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
                 <div class="card-body">
                   <ul>
-                    <p> We are here to help
-
+                    <p> We are here to help?
+                      <br>
                       As a pet owner, there is no harder decision to make than choosing the time to say goodbye. No one
                       knows your pet(s) better than you do, so you will know if they still have the same quality of life
                       that they are used to. All pets are different, so don’t be afraid to ask our team if you need
                       advice.
 
                       When you are ready to make an appointment, simply contact our hospital surgery and the team will
-                      guide you.
-
+                      guide you.  
+                      <br>
                       Can euthanasia been done at home?
 
                       Yes. We are more than happy to visit you and your pet in your home. It is a personal choice and we
@@ -419,12 +419,12 @@
                               Dental disease can significantly decrease a pets quality of life as well as their life
                               expectancy. At Wilson Road Veterinary Clinic , we strive to keep your pets in excellent
                               dental health.
-
+                              <br>
                               You may not think you need to make regular appointments for your pet’s teeth, or that
                               their dental health is good because you don’t see any visible problems. There are,
                               however, several dental problems your pet could face. If your pet is not given proper
                               dental care, it is likely he/she may develop any of the following conditions:
-
+                              <br>
                               Gingivitis
                               Dental abscesses
                               Tooth loss
@@ -433,7 +433,7 @@
                               Kidney disease
                               Bone infection
                               Dental disease often results in extreme pain and feelings of sickness in your pet.
-
+                              <br>
                               The key to good pet dental hygiene is prevention. Instituting a preventative dental
                               program can be very simple yet extremely rewarding. From special diets, treats, tooth
                               brushing to routine dental cleanings, pets may never have to experience the pain and
@@ -441,13 +441,13 @@
                               skills and facilities, your pet will never have to suffer from dental ailments.
 
                               There are good kinds of toothpaste available for your pet.
-
+                              <br>
                               Symptoms to Watch Out For:
 
                               Pets are very good at hiding the signs of dental disease. However, an observant owner can
                               sometimes detect oral disease in their cats or dogs from simply being watchful. Some of
                               the signs include:
-
+                              <br>
                               Bad breath
                               Reluctant chewing
                               Increased salivation
@@ -459,16 +459,10 @@
                               Unfortunately, pets seldom exhibit signs of dental disease, even when severe. For this
                               reason, it is important to have regular dental examinations performed by the veterinarians
                               at Wilson Road Veterinary Clinic
-
+                              <br>
                               Good dental hygiene is just as important for pets as it is for humans. Don’t wait until
                               it’s too late to visit a pet dental clinic. Contact Us today for tips on good oral hygiene
                               for your pets, and to make an appointment with our dog dentist.
-                            </p>
-                            <br>
-                            <p>
-                              These exercises will improve your ability to control and stabilize your body’s position
-                              and
-                              prevent falls.
                             </p>
                           </ul>
                         </div>
@@ -490,8 +484,12 @@
             <div id="collapse51" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
               <div class="card-body">
                 <ul>
-                  <p> Flea control: Preventing and treating a flea infestation has never been simpler or safer. There
-                    are many treatment programs available. Unfortunately, there are many over the counter products that
+                  <p> Flea control:
+                    <br>
+                     Preventing and treating a flea infestation has never been simpler or safer. There
+                    are many treatment programs available.
+                    <br>
+                     Unfortunately, there are many over the counter products that
                     are neither safe nor effective. Please contact our hospital for recommendations.
                     <br>
                 </ul>
@@ -510,14 +508,17 @@
             <div id="collapse20" class="collapse" aria-labelledby="heading20" data-parent="#accordionExample">
               <div class="card-body">
                 <ul>
-                  We Love them like you do
+                  We Love them like you do.
+                  <br>
 
                   A combination of compassion, commitment and skill, the veterinarians at Wilson road veterinary clinic
                   administer excellent medical care to your pets.
-
+                  <br>
                   Comfort: We make sure that your pet is comfortable before administering a medical treatment.
+                  <br>
                   Informative: We walk pet owners through any medical procedure, so they are not left in the dark,
                   worried and concerned.
+                  <br>  
                   Focus: At any given point, we focus completely on the patient in front of us
 
                   <div class="card">
