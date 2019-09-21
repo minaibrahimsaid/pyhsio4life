@@ -30,7 +30,7 @@
 
 <body>
     <section id="ext_menu-7">
-        <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
+        <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top navbar-short">
             <div class="container" style="    max-width: 90%;">
 
                 <div class="mbr-table">
@@ -120,10 +120,10 @@
                             <div class="mbr-table-cell">
                                 <div id="per15"><img src="assets/images/15.png" width="15%">
                                     <div class="col-md-6 col-md-offset-1 " style="">
-                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="      color: #960000;
+                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="      
                                             font-family: Monotype Corsiva Regular;">For all clients </h2>
                                         <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1"
-                                            style="font-family: Monotype Corsiva Regular;    color: #960000; "> on all
+                                            style="font-family: Monotype Corsiva Regular;   "> on all
                                             services&nbsp;
                                         </h2>
                                     </div>
