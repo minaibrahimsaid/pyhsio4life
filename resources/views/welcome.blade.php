@@ -177,7 +177,7 @@
                             <div class="mbr-table-cell">
                                 <h2 id="text3-slide" class="mbr-section-title display-1" style="    
                                     font-family: Monotype Corsiva Regular;
-                                   text-align: center;     ">We do House calls&nbsp;
+                                    padding: 20px;     ">We do House calls&nbsp;
                                 </h2>
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
