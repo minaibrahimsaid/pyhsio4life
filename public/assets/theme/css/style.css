@@ -484,7 +484,6 @@ p.lead,
     font-family: "Lora";
     font-style: italic;
     padding: 10px 0 10px 20px;
-    border-left: 4px solid #c39f76;
     font-size: 1.09rem;
     position: relative; }
   .lead ul, .lead ol, .lead pre, .lead blockquote {

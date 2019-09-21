@@ -228,7 +228,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote id="tex-logo-quote"> "&nbsp;we love them like you do&nbsp;"&nbsp;&nbsp;<img
+                    <blockquote > &nbsp;we love them like you do&nbsp;&nbsp;&nbsp;<img
                             src="/assets/images/logo.png" width="10%" />
                     </blockquote>
                 </div>
