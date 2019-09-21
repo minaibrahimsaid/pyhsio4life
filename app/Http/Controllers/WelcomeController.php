@@ -54,24 +54,21 @@ class WelcomeController extends Controller
 
     public function addbooking(Request $request)
     {
-        dd($request->all());
-        // $to_email = 'physio4lifeajax@gmail.com';
-        // Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
-        //     $message->to($to_email)->subject('new appointment');
-        //     $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
-        // });
+        $to_email = 'wilsonrdvetclinic@gmail.com';
+        Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
+            $message->to($to_email)->subject('new appointment');
+            $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
+        });
         return redirect()->route('booking');
     }
 
     public function contactusmail(Request $request)
     {
-        // dd($request->all());
-        // $to_email = 'Physio4lifeajax@gmail.com';
-        // $to_email="physio4lifeajax@gmail.com";
-        // Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
-        //     $message->to($to_email)->subject('new message');
-        //     $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
-        // });
+        $to_email="wilsonrdvetclinic@gmail.com";
+        Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
+            $message->to($to_email)->subject('new message');
+            $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
+        });
         return redirect()->route('contact-us');
     }
 
