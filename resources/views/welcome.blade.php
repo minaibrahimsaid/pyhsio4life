@@ -320,7 +320,7 @@
                                 Our Location
 
                             </h5>
-                          <a href="https://www.google.com/maps?ll=43.892474,-78.839071&z=15&t=m&hl=en&gl=CA&mapclient=embed&q=371+Wilson+Rd+S+Oshawa,+ON+L1H+6C6"  target="_blank">  <p class="contact-card-text"> 371 Wilson Road South Oshawa, Ontario ,  ON L1H 6C6 </p> </a>
+                            <p class="contact-card-text">       <a href="https://www.google.com/maps?ll=43.892474,-78.839071&z=15&t=m&hl=en&gl=CA&mapclient=embed&q=371+Wilson+Rd+S+Oshawa,+ON+L1H+6C6" style="font-family: -webkit-body;  color: white;"  target="_blank">   371 Wilson Road South Oshawa, Ontario ,  ON L1H 6C6 </a> </p> 
 
                         </div>
                         <div class="contact-card col-md-4">
