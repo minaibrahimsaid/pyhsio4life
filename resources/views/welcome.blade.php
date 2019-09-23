@@ -177,7 +177,7 @@
                             <div class="mbr-table-cell">
                                 <h2 id="text3-slide" class="mbr-section-title display-1" style="    
                                     font-family: Monotype Corsiva Regular;
-                                    padding: 20px;     ">We do House calls&nbsp;
+                                        ">We do House calls&nbsp;
                                 </h2>
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
@@ -197,9 +197,9 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
-                                        <div class="col-md-12 col-md-offset-1 text-xs-center">
+                                        <div class="col-md-12 col-md-offset-1 " style="text-align: -webkit-right;">
                                             <h2 class="mbr-section-title display-1" style="   
-                                              font-family: Monotype Corsiva Regular;">Open 6 days a week Saturday till
+                                              font-family: Monotype Corsiva Regular; max-width: 250px;">Open 6 days a week Saturday till
                                                 6 Pm&nbsp;
                                             </h2>
                                         </div>
@@ -228,8 +228,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote > &nbsp;we love them like you do&nbsp;&nbsp;&nbsp;<img
-                            src="/assets/images/logo.png" width="10%" />
+                    <blockquote> &nbsp;we love them like you do&nbsp;&nbsp;&nbsp;<img src="/assets/images/logo.png"
+                            width="10%" />
                     </blockquote>
                 </div>
             </div>
@@ -320,7 +320,10 @@
                                 Our Location
 
                             </h5>
-                            <p class="contact-card-text">       <a href="https://www.google.com/maps?ll=43.892474,-78.839071&z=15&t=m&hl=en&gl=CA&mapclient=embed&q=371+Wilson+Rd+S+Oshawa,+ON+L1H+6C6" style="font-family: -webkit-body;  color: white;"  target="_blank">   371 Wilson Road South Oshawa, Ontario ,  ON L1H 6C6 </a> </p> 
+                            <p class="contact-card-text"> <a
+                                    href="https://www.google.com/maps?ll=43.892474,-78.839071&z=15&t=m&hl=en&gl=CA&mapclient=embed&q=371+Wilson+Rd+S+Oshawa,+ON+L1H+6C6"
+                                    style="font-family: -webkit-body;  color: white;" target="_blank"> 371 Wilson Road
+                                    South Oshawa, Ontario , ON L1H 6C6 </a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
