@@ -154,7 +154,9 @@
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
                             data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
 
-                            <div class="mbr-table-cell">
+                            <div style="height: 100%;
+                            display: flex;
+                            flex-direction: column-reverse;">
                                 <h2 class="mbr-section-title display-1" style="    
                                     font-family: Monotype Corsiva Regular;
                                  text-align: center;     margin-top: inherit;
