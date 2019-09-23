@@ -195,9 +195,9 @@
                             style="background-image: url(assets/images/88.jpg);     margin-top: 70px;">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
-                                <div class="container-slide container" style="margin-top: 350px;">
+                                <div class="container-slide" >
                                     <div class="row">
-                                        <div class="col-md-12 col-md-offset-1 " style="text-align: -webkit-right;">
+                                        <div class="col-md-3" style="text-align:right; float: right;">
                                             <h2 class="mbr-section-title display-1" style="   
                                               font-family: Monotype Corsiva Regular; max-width: 250px;">Open 6 days a week Saturday till
                                                 6 Pm&nbsp;
