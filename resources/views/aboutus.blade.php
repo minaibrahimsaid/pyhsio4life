@@ -186,25 +186,33 @@
                     </div>
                     <div class="col-xs-12 col-md-6">
                         <div class="mbr-author card-footer" style="text-align: center;">
-                             <div class="mbr-author-img"><img src="assets/images/aziza.jpeg" class="img-circle"></div> 
+                            <div class="mbr-author-img"><img src="assets/images/aziza.jpeg" class="img-circle"></div>
                             <div class="mbr-author-name">Aziza Brickell (RVT)</div>
                             <small class="mbr-author-desc">registered veterinary technician</small>
                         </div>
                         <div class="mbr-testimonial card mbr-testimonial-lg">
                             <div class="card-block">
                                 <ul>
-                                    <li> Aziza Brickell is an active RVT (registered veterinary technician) for 7 years and going. </li>
-                                    <li>After graduating from Seneca College of Applied arts and Technology in 2013, 
-                                        she worked at the referral and emergency facility “Veterinary Emergency Clinic South (VEC)” 
-                                        located at Bloor and Yonge st in Toronto for 3 years as a surgery anesthesia, critical care and emergency technician. </li>
+                                    <li> Aziza Brickell is an active RVT (registered veterinary technician) for 7 years
+                                        and going. </li>
+                                    <li>After graduating from Seneca College of Applied arts and Technology in 2013,
+                                        she worked at the referral and emergency facility “Veterinary Emergency Clinic
+                                        South (VEC)”
+                                        located at Bloor and Yonge st in Toronto for 3 years as a surgery anesthesia,
+                                        critical care and emergency technician. </li>
 
                                     <li> Having an interest in seeing more of Canada, she then traveled to St. John’s,
-                                         Newfoundland and lived there for 2 years working at the provinces only referral and emergency center,
-                                          VSCNL (Veterinary Specialty Center of Newfoundland and Labrador) again as a specialty technician. </li>
-                                    <li> After working alongside board certified surgeons, radiologists, and critical care specialists for 5 years, 
-                                        she came back to Ontario to work in hybrid practices, helping emergency cases as well as general medicine patients 
+                                        Newfoundland and lived there for 2 years working at the provinces only referral
+                                        and emergency center,
+                                        VSCNL (Veterinary Specialty Center of Newfoundland and Labrador) again as a
+                                        specialty technician. </li>
+                                    <li> After working alongside board certified surgeons, radiologists, and critical
+                                        care specialists for 5 years,
+                                        she came back to Ontario to work in hybrid practices, helping emergency cases as
+                                        well as general medicine patients
                                         for a change of work environment. </li>
-                                    <li> She enjoys her little family made up of her husband, one dog and 2 cats and continues to enjoy the work she does.</li>
+                                    <li> She enjoys her little family made up of her husband, one dog and 2 cats and
+                                        continues to enjoy the work she does.</li>
                                 </ul>
                             </div>
                         </div>

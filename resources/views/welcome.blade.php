@@ -119,13 +119,14 @@
                             style="margin-top: 70px; background-image: url(assets/images/1.jpg); ">
                             <div class="mbr-table-cell">
                                 <div id="per15"><img src="assets/images/15.png" width="15%">
-                                    <div class="col-md-6 col-md-offset-1 " style="">
-                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="      
-                                            font-family: Monotype Corsiva Regular;">For all clients </h2>
-                                        <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1"
-                                            style="font-family: Monotype Corsiva Regular;   "> on all
+                                    <div class="col-md-offset-1 " style="">
+                                        <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="      
+                                           width: 100%; font-family: Monotype Corsiva Regular; background-color: #AF2C33;">For all clients</h1>
+                                        <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="width: 100%;
+                                            font-family: Monotype Corsiva Regular;
+                                            background-color: #AF2C33; "> on all
                                             services&nbsp;
-                                        </h2>
+                                        </h1>
                                     </div>
                                     <div>
                                         {{-- <h2 class="mbr-section-title display-1 text-aligin:left" style="  color:#960000;  
@@ -156,12 +157,11 @@
 
                             <div style="height: 100%;
                             display: flex;
-                            flex-direction: column-reverse;">
+                            flex-direction: column;">
                                 <h2 class="mbr-section-title display-1" style="    
                                     font-family: Monotype Corsiva Regular;
-                                 text-align: center;     margin-top: inherit;
-                                
-">Competitive affordable Spay & Neuter prices&nbsp;
+                                 text-align: center;        margin-top: 6.6875rem;
+                                ">Competitive affordable Spay & Neuter prices&nbsp;
                                 </h2>
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide container" style="margin-top: 350px;">
@@ -197,13 +197,14 @@
                             style="background-image: url(assets/images/88.jpg);     margin-top: 70px;">
                             <div class="mbr-table-cell">
                                 <div class="mbr-overlay"></div>
-                                <div class="container-slide" >
+                                <div class="container-slide">
                                     <div class="row">
-                                        <div class="col-md-3" style="text-align:right; float: right;">
-                                            <h2 class="mbr-section-title display-1" style="   
-                                              font-family: Monotype Corsiva Regular; max-width: 250px;">Open 6 days a week Saturday till
+                                        <div class="col-md-2" style="text-align:left; float: right;">
+                                            <h1 class="mbr-section-title display-1" style="   
+                                              font-family: Monotype Corsiva Regular; max-width: 250px;">Open 6 days a
+                                                week Saturday till
                                                 6 Pm&nbsp;
-                                            </h2>
+                                            </h1>
                                         </div>
                                     </div>
                                 </div>
@@ -230,7 +231,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 lead">
-                    <blockquote> &nbsp;we love them like you do&nbsp;&nbsp;&nbsp;<img src="/assets/images/logo.png"
+                    <blockquote class="quote"> &nbsp;we love them like you do&nbsp;&nbsp;&nbsp;<img src="/assets/images/logo.png"
                             width="10%" />
                     </blockquote>
                 </div>
@@ -277,7 +278,7 @@
                         </li>
                         <li>
                             <em>
-                                we open 6 days a week with extended hours and even on Saturday
+                                we are open 6 days a week including Saturday till 6 pm
                             </em>
                         </li>
                     </ul>
@@ -470,9 +471,17 @@
             color: #960000;
         }
 
+        .quote{
+            font-size: 40px!important;
+        }
+
         @media only screen and (max-width: 800px) {
             #offer-slide {
                 background-image: url(assets/images/18.jpg) !important;
+            }
+
+            .quote{
+                font-size: 20px !important;
             }
 
             .text-offer-1 {
