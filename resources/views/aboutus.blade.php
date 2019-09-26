@@ -186,33 +186,25 @@
                     </div>
                     <div class="col-xs-12 col-md-6">
                         <div class="mbr-author card-footer" style="text-align: center;">
-                            <!-- <div class="mbr-author-img"><img src="assets/images/" class="img-circle"></div> -->
-                            <div class="mbr-author-name">Dina Soliman</div>
-                            <small class="mbr-author-desc">registered physiotherapist</small>
+                             <div class="mbr-author-img"><img src="assets/images/aziza.jpeg" class="img-circle"></div> 
+                            <div class="mbr-author-name">Aziza Brickell (RVT)</div>
+                            <small class="mbr-author-desc">registered veterinary technician</small>
                         </div>
                         <div class="mbr-testimonial card mbr-testimonial-lg">
                             <div class="card-block">
                                 <ul>
-                                    <li> Dina received a Bachelor of Physical Therapy from Cairo University in 1999, and
-                                        in 2008 she completed a Master of Physical Therapy from Cairo University. </li>
-                                    <li>She has completed additional courses in musculoskeletal, cardio respiratory, and
-                                        neurological physical therapy in Canada through the Ontario internationally
-                                        educated physical therapy Bridging Program at University of Toronto </li>
-                                    <li>She completed advanced manual therapy in upper limb conditions, and lumbo-pelvic
-                                        conditions. </li>
-                                    <li> She has over three years experience in pelvic health.</li>
-                                    <li>She completed courses for patients who suffer from loss of bladder and bowel
-                                        control, prolapse, constipation, and pelvic pain.</li>
-                                    <li> She has completed a special course for treating rectus diastasis from Bellies
-                                        Inc., and has a real passion for treating pregnant women and post-natal
-                                        patients.</li>
-                                    <li> She taken special courses in treating chronic pelvic pain and visceral release
-                                        for bladder dysfunction. Recently, she completed oncology and female organs, as
-                                        well lymphatic drainage for the pelvic region</li>
-                                    <li> She is a member of the Women Health Division and Orthopedic Division of the
-                                        Canadian Physiotherapy Association.</li>
-                                    <li> She enjoys working out, yoga, and meditation. She loves singing and was an
-                                        opera singer at the Cairo Opera House.</li>
+                                    <li> Aziza Brickell is an active RVT (registered veterinary technician) for 7 years and going. </li>
+                                    <li>After graduating from Seneca College of Applied arts and Technology in 2013, 
+                                        she worked at the referral and emergency facility “Veterinary Emergency Clinic South (VEC)” 
+                                        located at Bloor and Yonge st in Toronto for 3 years as a surgery anesthesia, critical care and emergency technician. </li>
+
+                                    <li> Having an interest in seeing more of Canada, she then traveled to St. John’s,
+                                         Newfoundland and lived there for 2 years working at the provinces only referral and emergency center,
+                                          VSCNL (Veterinary Specialty Center of Newfoundland and Labrador) again as a specialty technician. </li>
+                                    <li> After working alongside board certified surgeons, radiologists, and critical care specialists for 5 years, 
+                                        she came back to Ontario to work in hybrid practices, helping emergency cases as well as general medicine patients 
+                                        for a change of work environment. </li>
+                                    <li> She enjoys her little family made up of her husband, one dog and 2 cats and continues to enjoy the work she does.</li>
                                 </ul>
                             </div>
                         </div>
