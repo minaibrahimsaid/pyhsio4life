@@ -28,7 +28,7 @@
     <script src="https://kit.fontawesome.com/1b5e6babb1.js"></script>
 </head>
 
-<body>
+<body style=" background-image: url('assets/images/bg.jpg'); background-size: contain; background-repeat: no-repeat;">
     <section id="ext_menu-7">
         <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
             <div class="container" style="    max-width: 90%;">
@@ -100,7 +100,7 @@
         </nav>
     </section>
     <section class="mbr-section" id="msg-box5-n"
-        style="background-color: rgb(255, 255, 255);padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem;">
+        style=" padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem; color:white">
 
 
         <div class="container">
@@ -150,7 +150,7 @@
                     <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-4 image-size"
                         style="width: 38%;">
                         <div class="mbr-figure"><iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca"
                                 width="100%" height="500px" frameborder="1" style="border:0" allowfullscreen></iframe>
                         </div>
                     </div>
@@ -164,7 +164,7 @@
 
     <section class="engine"></section>
     <section class="mbr-section mbr-after-navbar" id="form1-x"
-        style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
+        style="  padding-top: 120px; padding-bottom: 120px; color:white">
 
         <div class="mbr-section mbr-section__container mbr-section__container--middle">
             <div class="container">
@@ -297,8 +297,8 @@
                     <h2>
                         <h6 style="font-weight: bold;">Address</h6><br>
                         371 Wilson Road South
-                        Oshawa, Ontario  L1H 6C6
- <br><br><br>
+                        Oshawa, Ontario L1H 6C6
+                        <br><br><br>
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
                         <h6>Phone: +1 905-576-8885</h6><br>
@@ -344,130 +344,130 @@
     </footer>
 
     <style>
-            #map {
-                height: 200px;
-                width: 100%;
+        #map {
+            height: 200px;
+            width: 100%;
+        }
+
+        .online-button {
+            color: white;
+            letter-spacing: 5px;
+            font-size: larger;
+            font-family: sans-serif;
+            background-color: #6785c3;
+            height: 60px;
+            width: 60%;
+            line-height: 60px;
+            margin: auto;
+            cursor: pointer;
+        }
+
+        .contact-card-text {
+            font-weight: 900;
+        }
+
+        .cardTitle {
+            color: white;
+            font-family: initial;
+        }
+
+        .offer-text {
+            font-family: initial;
+            font-style: italic;
+            font-weight: 900;
+            color: #717BF9;
+        }
+
+        .icon-contactus {
+            color: white
+        }
+
+        #per15 {
+            display: flex;
+            align-items: center;
+            margin-left: 100px;
+            margin-top: 100px
+        }
+
+        .text-mobile {
+            display: none;
+        }
+
+        #tex-logo-quote {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .text-offer-1 {
+            color: #960000;
+        }
+
+        @media only screen and (max-width: 800px) {
+            #offer-slide {
+                background-image: url(assets/images/18.jpg) !important;
             }
-    
-            .online-button {
-                color: white;
-                letter-spacing: 5px;
-                font-size: larger;
-                font-family: sans-serif;
-                background-color: #6785c3;
-                height: 60px;
-                width: 60%;
-                line-height: 60px;
-                margin: auto;
-                cursor: pointer;
-            }
-    
-            .contact-card-text {
-                font-weight: 900;
-            }
-    
-            .cardTitle {
-                color: white;
-                font-family: initial;
-            }
-    
-            .offer-text {
-                font-family: initial;
-                font-style: italic;
-                font-weight: 900;
-                color: #717BF9;
-            }
-    
-            .icon-contactus {
-                color: white
-            }
-    
-            #per15 {
-                display: flex;
-                align-items: center;
-                margin-left: 100px;
-                margin-top: 100px
-            }
-    
-            .text-mobile {
-                display: none;
-            }
-    
-            #tex-logo-quote {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-            }
-    
+
             .text-offer-1 {
-                color: #960000;
+                color: white;
             }
-    
-            @media only screen and (max-width: 800px) {
-                #offer-slide {
-                    background-image: url(assets/images/18.jpg) !important;
-                }
-    
-                .text-offer-1 {
-                    color: white;
-                }
-    
-                #outer-logo {
-                    width: 100% !important
-                }
-    
-                #offer-slide2 {
-                    background-image: url(assets/images/2mob.jpg) !important;
-                }
-    
-                #per15 {
-                    display: none
-                }
-    
-                .text-mobile {
-                    display: inline;
-                }
-    
-                #offer-slide3 {
-                    background-image: url(assets/images/3mob.jpg) !important;
-                }
-    
-                #offer-slide4 {
-                    background-image: url(assets/images/89.jpg) !important;
-                }
-    
-                #text3-slide {
-                    padding-bottom: 90px;
-                }
-    
+
+            #outer-logo {
+                width: 100% !important
             }
-    
-    
-            .clinic-name {
-                font-family: Monotype Corsiva Regular;
-                font-size: xx-large;
+
+            #offer-slide2 {
+                background-image: url(assets/images/2mob.jpg) !important;
             }
-    
-            #hidden-text {
-                display: none;
+
+            #per15 {
+                display: none
             }
-    
-            #logo-name {
-                width: 20%;
+
+            .text-mobile {
                 display: inline;
             }
-    
-            .link {
-                font-size: medium !important;
+
+            #offer-slide3 {
+                background-image: url(assets/images/3mob.jpg) !important;
             }
-    
-            @font-face {
-                font-family: 'Monotype Corsiva Regular';
-                font-style: normal;
-                font-weight: normal;
-                src: local('Monotype Corsiva Regular'), url('/assets/fonts/MTCORSVA.woff') format('woff');
+
+            #offer-slide4 {
+                background-image: url(assets/images/89.jpg) !important;
             }
-        </style>
+
+            #text3-slide {
+                padding-bottom: 90px;
+            }
+
+        }
+
+
+        .clinic-name {
+            font-family: Monotype Corsiva Regular;
+            font-size: xx-large;
+        }
+
+        #hidden-text {
+            display: none;
+        }
+
+        #logo-name {
+            width: 20%;
+            display: inline;
+        }
+
+        .link {
+            font-size: medium !important;
+        }
+
+        @font-face {
+            font-family: 'Monotype Corsiva Regular';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Monotype Corsiva Regular'), url('/assets/fonts/MTCORSVA.woff') format('woff');
+        }
+    </style>
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
