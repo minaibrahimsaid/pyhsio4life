@@ -28,10 +28,11 @@
     <script src="https://kit.fontawesome.com/1b5e6babb1.js"></script>
 </head>
 
-<body style=" background-image: url('assets/images/bg.jpg'); background-size: contain; background-repeat: no-repeat;">
+<body>
     <section id="ext_menu-7">
-        <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
+        <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top navbar-short">
             <div class="container" style="    max-width: 90%;">
+
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 
@@ -41,9 +42,7 @@
                                 display: flex;
                                 justify-content: space-around;
                                 align-items: center;
-                                flex-direction: column;
-                                
-                            ">
+                                flex-direction: column;">
                                     <h2 class="clinic-name"
                                         style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large;     text-align: center;">
                                         Wilson Road Veterinary Clinic </h2>
@@ -73,9 +72,9 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: large;"
+                                        <a style="background-color:#6785c3; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: 12px;"
                                             class="dropdown-item" href="/about-us">Meet Our Team</a>
-                                        <a style="background-color: gray ; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: large;"
+                                        <a style="background-color:#6785c3; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: 12px;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
                                 </div>
@@ -86,7 +85,7 @@
                                     href="/contact-us">Contact&nbsp;Us</a></li>
                             <li class="nav-item"><a class="nav-link link" style="color: white;" href="/booking">
                                     Book&nbsp;appointment</a></li>
-                            {{-- <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li> --}}
+                            <li class="nav-item"><a class="nav-link link" style="color: white;" href="/faq">FAQ</a></li>
                             {{-- <li class="nav-item"><a class="nav-link link"  style="color: #6785c3;"  href="/gallery">Gallery</a></li> --}}
                         </ul>
                         <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse"
@@ -98,156 +97,17 @@
             </div>
         </nav>
     </section>
-    <section class="mbr-section" id="msg-box5-n"
-        style=" padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem; color:white">
-
-
-        <div class="container">
-            <div class="row">
-                <div class="mbr-table-md-up">
-
-
-
-                    <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
-                        <h3 class="mbr-section-title display-3">Our Location</h3>
-                        <div class="lead">
-
-                            <p><strong>Address</strong><br>
-                                371 Wilson Road South Oshawa, Ontario <br><br><br>
-                                <strong>Contacts</strong><br>
-                                Email: wilsonrdvetclinic@gmail.com<br>
-                                <h6>Phone: +1 905-576-8885</h6>
-                                {{-- <h6>Fax: +1 289-660-8666</h6> --}}
-                            </p>
-                        </div>
-
-
-                    </div>
-
-                    <div class="mbr-table-cell col-md-3 text-xs-center text-md-left content-size">
-                        <h3 class="mbr-section-title display-3">Hours</h3>
-                        <div class="lead">
-
-                            <p>
-                                <strong>Monday </strong> 9:00 am – 6:00 pm<br>
-                                <strong>Tuesday </strong> 9:00 am – 6:00 pm<br>
-                                <strong>Wednesday </strong> 9:00 am – 6:00 pm<br>
-                                <strong>Thursday </strong>9:00 am – 6:00 pm<br>
-                                <strong>Friday </strong>9:00 am – 6:00 pm<br>
-                                <strong>Saturday </strong>10:00 am – 6:00 pm<br>
-                                <strong>Sunday </strong> Day off<br>
-                            </p>
-                        </div>
-
-
-                    </div>
-
-
-
-
-
-                    <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-4 image-size"
-                        style="width: 38%;">
-                        <div class="mbr-figure"><iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca"
-                                width="100%" height="500px" frameborder="1" style="border:0" allowfullscreen></iframe>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-    </section>
-
-
-    <section class="engine"></section>
-    <section class="mbr-section mbr-after-navbar" id="form1-x"
-        style="  padding-top: 120px; padding-bottom: 120px; mix-blend-mode: normal;">
-
-        <div class="mbr-section mbr-section__container mbr-section__container--middle">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 text-xs-center">
-                        <h3 class="mbr-section-title display-2">Contact Form</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="mbr-section mbr-section-nopadding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-lg-10 col-lg-offset-1" data-form-type="formoid">
-
-
-                        <div data-form-alert="true">
-                            <div hidden="" data-form-alert-success="true"
-                                class="alert alert-form alert-success text-xs-center">Thanks for filling out form!</div>
-                        </div>
-
-
-                        <form action="/contact" method="post" data-form-title="CONTACT FORM">
-
-                            <input type="hidden"
-                                value="KiEHc9gxwm1lopCsmozqaw7WAT0DDNukedzIpSSewEZgq3VpRoO3+K/Z4cMWAETnG1DgSc4Ncu1HgdTQRrWO2QdfpNtUWqHy3wzklwKZCH76Ikgjl8bz/qRugOP+zbub"
-                                data-form-email="true">
-
-                            <div class="row row-sm-offset">
-
-                                <div class="col-xs-12 col-md-4">
-                                    <div class="form-group">
-                                        <label class="form-control-label" for="form1-x-name">Name<span
-                                                class="form-asterisk">*</span></label>
-                                        <input type="text" class="form-control" name="name" required=""
-                                            data-form-field="Name" id="form1-x-name">
-                                    </div>
-                                </div>
-
-                                <div class="col-xs-12 col-md-4">
-                                    <div class="form-group">
-                                        <label class="form-control-label" for="form1-x-email">Email<span
-                                                class="form-asterisk">*</span></label>
-                                        <input type="email" class="form-control" name="email" required=""
-                                            data-form-field="Email" id="form1-x-email">
-                                    </div>
-                                </div>
-
-                                <div class="col-xs-12 col-md-4">
-                                    <div class="form-group">
-                                        <label class="form-control-label" for="form1-x-phone">Phone</label>
-                                        <input type="tel" class="form-control" name="phone" data-form-field="Phone"
-                                            id="form1-x-phone">
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <div class="form-group">
-                                <label class="form-control-label" for="form1-x-message">Message</label>
-                                <textarea class="form-control" name="note" rows="7" data-form-field="Message"
-                                    id="form1-x-message"></textarea>
-                            </div>
-
-                            <div><button type="submit" class="btn btn-primary">CONTACT US</button></div>
-
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
+@yield('view')
+    {{-- end-page --}}
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/20.jpg); padding-top: 40px; padding-bottom: 40px;">
 
         <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
         </div>
-        <div class="container" >
+        <div class="container">
             <div class="row">
                 <div class="col-md-12  text-xs-center">
-                    <h3 class="mbr-section-title display-2">Contact us</h3>
+                    <h3 class="mbr-section-title display-2 clinic-name">Contact us</h3>
                     <div class="contact-div-info col-md-12 row">
                         <div class="contact-card col-md-4">
                             <h3 class="icon-contactus ">
@@ -257,7 +117,10 @@
                                 Our Location
 
                             </h5>
-                            <p class="contact-card-text"> 371 Wilson Road South Oshawa, Ontario </p>
+                            <p class="contact-card-text"> <a
+                                    href="https://www.google.com/maps?ll=43.892474,-78.839071&z=15&t=m&hl=en&gl=CA&mapclient=embed&q=371+Wilson+Rd+S+Oshawa,+ON+L1H+6C6"
+                                    style="font-family: -webkit-body;  color: white;" target="_blank"> 371 Wilson Road
+                                    South Oshawa, Ontario , ON L1H 6C6 </a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -269,7 +132,7 @@
                             </h5>
                             <p class="contact-card-text"> <a style="font-family: -webkit-body;  color: white;"
                                     href="tel:+9055768885">
-                                    905 576 8885</a> </p>
+                                    +1 (905) 576 8885</a> </p>
 
                         </div>
                         <div class="contact-card col-md-4">
@@ -300,7 +163,7 @@
                         <br><br><br>
                         <h6 style="font-weight: bold;">Contacts</h6><br>
                         Email: wilsonrdvetclinic@gmail.com<br>
-                        <h6>Phone: +1 905-576-8885</h6><br>
+                        <h6>Phone: +1 (905)-576-8885</h6><br>
                         </p>
                 </div>
                 <div class="mbr-footer-content col-xs-12 col-md-3">
@@ -322,6 +185,9 @@
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca"
                             width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            In case of an emergency...
+                            If you are a client of Wilson Road Veterinary Clinic and you encounter an emergency with your pet outside of our regular clinic hours, veterinary care is available at the Animal Emergency Clinic of Durham Region and can be reached at 905.576.3031. 
+                            The Animal Emergency Clinic's address is 1910 Dundas Street East, Unit B101 in Whitby.
                     </div>
                 </div>
             </div>
@@ -332,9 +198,9 @@
         style="background-color: #6785c3; padding-top: 1.75rem; padding-bottom: 1.75rem;">
         <div style="text-align:center;">
             <a class="btn btn-social" title="Facebook" target="_blank" style="color : blue;"
-                href="https://www.facebook.com/physio4lifeajax/"><i class="socicon socicon-facebook"></i></a>
+                href="https://www.facebook.com/wilsonrdvetclinic/"><i class="socicon socicon-facebook"></i></a>
             <a class="btn btn-social" title="Google" target="_blank"
-                href="https://www.google.ca/maps/place/371+Wilson+Rd+S,+Oshawa,+ON+L1H+6C6/@43.892474,-78.8412599,17z/data=!3m1!4b1!4m5!3m4!1s0x89d51cd52647b2e5:0x92e4f41ed490e0f5!8m2!3d43.892474!4d-78.8390712">
+                href="https://www.google.com/maps/place/Wilson+Rd+Veterinary+Clinic/@43.892474,-78.8390712,15z/data=!4m5!3m4!1s0x0:0x6c92de4082f9266d!8m2!3d43.892474!4d-78.8390712">
                 <i class="socicon socicon-google"></i></a> <a class="btn btn-social" title="Instagram" target="_blank"
                 href="/"><i class="socicon socicon-instagram"></i></a> </div>
         <div class="container">
@@ -347,7 +213,9 @@
             height: 200px;
             width: 100%;
         }
-
+        .shadow-text{
+            text-shadow: -2px -2px 6px #2b1c1c;
+        }
         .online-button {
             color: white;
             letter-spacing: 5px;
@@ -402,9 +270,17 @@
             color: #960000;
         }
 
+        .quote{
+            font-size: 40px!important;
+        }
+
         @media only screen and (max-width: 800px) {
             #offer-slide {
                 background-image: url(assets/images/18.jpg) !important;
+            }
+
+            .quote{
+                font-size: 20px !important;
             }
 
             .text-offer-1 {
@@ -432,7 +308,7 @@
             }
 
             #offer-slide4 {
-                background-image: url(assets/images/89.jpg) !important;
+                background-image: url(assets/images/88mob.jpg) !important;
             }
 
             #text3-slide {

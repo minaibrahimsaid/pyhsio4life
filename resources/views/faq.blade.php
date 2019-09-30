@@ -98,90 +98,25 @@
         </div>
     </nav>
 </section>
-<section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-    data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
-    <div>
-        <div>
-            <div>
-                <ol class="carousel-indicators">
-                    <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li>
-                    <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li>
-                    <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
-                </ol>
-                <div class="carousel-inner" role="listbox">
-                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active"
-                        data-bg-video-slide="false"
-                        style="background-image: url(assets/images/physiotherapy-595529-2000x1332.jpg);">
-                        <div class="mbr-table-cell">
-                            <div class="mbr-overlay" style="background-color: rgb(0, 0, 0);"></div>
-                            <div class="container-slide container">
 
-                                <div class="row">
-                                    <div class="col-md-8 col-md-offset-2 text-xs-center">
-                                        <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc</h2>
-                                        <p class="mbr-section-lead lead">we love them like you do<br>
-                                            <div class="online-button">
-                                                <a href="/booking" style="color: white;"><i class="fas fa-circle 2x"
-                                                        style="color:green"></i> Book</a>
-                                            </div>
-                                            <br>
-                                            <div class="online-button">
-                                                <i class="fas fa-phone-alt"></i> <a
-                                                    href="tel:9055768885">9055768885</a><br>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                    data-bg-video-slide="false" style="background-image: url(assets/images/6.jpg);">
-                    <div class="mbr-table-cell">
-                        <div class="mbr-overlay"></div>
-                        <div class="container-slide container">
 
-                            <div class="row">
-                                <div class="col-md-12 col-md-offset-1 text-xs-center">
-                                    <h2 class="mbr-section-title display-1">Wilson Road Veterinary Clinc&nbsp;</h2>
-                                    <p class="mbr-section-lead lead">
-                                        <div class="online-button">
-                                            <a href="/booking" style="color: white;"><i class="fas fa-circle 2x"
-                                                    style="color:green"></i> Book</a>
-                                        </div>
-                                        <br>
-                                        <div class="online-button">
-                                            <i class="fas fa-phone-alt"></i><a href="tel:9055768885">9055768885</a><br>
-                                    </p>
-                                </div>
+<section class="mbr-section" id="testimonials1-u"
+    style="background-color: rgb(255, 255, 255); padding-top: 10rem; padding-bottom: 0px;">
 
-                            </div>
-                        </div>
-                    </div>
+
+
+    <div class="mbr-section mbr-section__container mbr-section__container--middle">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-xs-center">
+                    <h3 class="mbr-section-title display-2">&nbsp;&nbsp; Frequently Asked Questions:&nbsp;</h3>
+
                 </div>
             </div>
         </div>
+    </div>
 
-        <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev" href="#slider-0">
-            <span class="icon-prev" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next" href="#slider-0">
-            <span class="icon-next" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-    </div>
-    </div>
-</section>
-<section class="mbr-section mbr-section__container article" id="header3-r"
-    style=" padding-top: 20px; padding-bottom: 20px; text">
-    <div class="row" style="margin:0px !important">
-        <div class="col-xs-11">
-            <p class="display-4">&nbsp;&nbsp; Frequently Asked Questions:&nbsp;</p>
 
-        </div>
-    </div>
 </section>
 
 <section class="mbr-section mbr-section__container article" id="header3-r"
@@ -196,48 +131,39 @@
                     aria-controls="collapse1">
                     <h5 class="mb-0">
                         <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Do I
-                            need a referral from my doctor for Physiotherapy?</p>
+                            What services you are providing ?</p>
                     </h5>
                 </div>
                 <div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="heading1">
                     <div class="card-block">
-                        You do not need a referral from your doctor; however, some extended health care insurance
-                        companies require a referral from a doctor in order to reimburse you for physiotherapy
-                        expenses. </div>
+                        <ul>
+                            <li>Wellness Exams</li>
+                            <li>Vaccinations</li>
+                            <li>Spay & Neuter</li>
+                            <li>Blood Work</li>
+                            <li>Xrays</li>
+                            <li>Dentistry</li>
+                            <li>Deworming</li>
+                            <li>Pet Foot & Supplies</li>
+                            <li>Pain Mangement</li>
+                            <li>Microchipping</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-
-
             <div class="card">
                 <div class="card-header question-header " role="tab" id="heading2" class="collapsed"
                     data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false"
                     aria-controls="collapse2">
                     <h5 class="mb-0">
                         <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;What
-                            Should I expect on my first visit? </p>
+                            Do you do home visits ? </p>
                     </h5>
                 </div>
                 <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="heading2">
                     <div class="card-block">
                         <ul>
-                            <li>Arrive 10 minutes early to fill out your personal details and the consent forms. We
-                                will also double check your insurance coverage.</li>
-                            <li>Physiotherapist will start with asking you questions related your medical history to
-                                get all the information about your current issue e.g.</li>
-                            <ul>
-                                <li>When did the pain start?</li>
-                                <li>How did you get the injury?</li>
-                                <li>Does the pain travel or stay in the same area?</li>
-                                <li>Does the pain get worse or get better?</li>
-                                <li>What is your goal?</li>
-                            </ul>
-                            <li>Then your Physiotherapist will do a complete assessment to figure out what is the
-                                condition and the cause.</li>
-                            <li>Based on your history and examination, the physiotherapist will give you a specific
-                                diagnosis so you understand exactly what is causing your condition .</li>
-                            <li>Physiotherapist will develop a specific treatment plan for you, explain it to you
-                                and then start the first session.
-                            </li>
+                                Yes we can come and do all our sevices from the comfort of your house to minimize the stress on your beloved pet .
 
                         </ul>
                     </div>
@@ -502,130 +428,130 @@
 </footer>
 
 <style>
-        #map {
-            height: 200px;
-            width: 100%;
-        }
+    #map {
+        height: 200px;
+        width: 100%;
+    }
 
-        .online-button {
-            color: white;
-            letter-spacing: 5px;
-            font-size: larger;
-            font-family: sans-serif;
-            background-color: #6785c3;
-            height: 60px;
-            width: 60%;
-            line-height: 60px;
-            margin: auto;
-            cursor: pointer;
-        }
+    .online-button {
+        color: white;
+        letter-spacing: 5px;
+        font-size: larger;
+        font-family: sans-serif;
+        background-color: #6785c3;
+        height: 60px;
+        width: 60%;
+        line-height: 60px;
+        margin: auto;
+        cursor: pointer;
+    }
 
-        .contact-card-text {
-            font-weight: 900;
-        }
+    .contact-card-text {
+        font-weight: 900;
+    }
 
-        .cardTitle {
-            color: white;
-            font-family: initial;
-        }
+    .cardTitle {
+        color: white;
+        font-family: initial;
+    }
 
-        .offer-text {
-            font-family: initial;
-            font-style: italic;
-            font-weight: 900;
-            color: #717BF9;
-        }
+    .offer-text {
+        font-family: initial;
+        font-style: italic;
+        font-weight: 900;
+        color: #717BF9;
+    }
 
-        .icon-contactus {
-            color: white
-        }
+    .icon-contactus {
+        color: white
+    }
 
-        #per15 {
-            display: flex;
-            align-items: center;
-            margin-left: 100px;
-            margin-top: 100px
-        }
+    #per15 {
+        display: flex;
+        align-items: center;
+        margin-left: 100px;
+        margin-top: 100px
+    }
 
-        .text-mobile {
-            display: none;
-        }
+    .text-mobile {
+        display: none;
+    }
 
-        #tex-logo-quote {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+    #tex-logo-quote {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .text-offer-1 {
+        color: #960000;
+    }
+
+    @media only screen and (max-width: 800px) {
+        #offer-slide {
+            background-image: url(assets/images/18.jpg) !important;
         }
 
         .text-offer-1 {
-            color: #960000;
+            color: white;
         }
 
-        @media only screen and (max-width: 800px) {
-            #offer-slide {
-                background-image: url(assets/images/18.jpg) !important;
-            }
-
-            .text-offer-1 {
-                color: white;
-            }
-
-            #outer-logo {
-                width: 100% !important
-            }
-
-            #offer-slide2 {
-                background-image: url(assets/images/2mob.jpg) !important;
-            }
-
-            #per15 {
-                display: none
-            }
-
-            .text-mobile {
-                display: inline;
-            }
-
-            #offer-slide3 {
-                background-image: url(assets/images/3mob.jpg) !important;
-            }
-
-            #offer-slide4 {
-                background-image: url(assets/images/89.jpg) !important;
-            }
-
-            #text3-slide {
-                padding-bottom: 90px;
-            }
-
+        #outer-logo {
+            width: 100% !important
         }
 
-
-        .clinic-name {
-            font-family: Monotype Corsiva Regular;
-            font-size: xx-large;
+        #offer-slide2 {
+            background-image: url(assets/images/2mob.jpg) !important;
         }
 
-        #hidden-text {
-            display: none;
+        #per15 {
+            display: none
         }
 
-        #logo-name {
-            width: 20%;
+        .text-mobile {
             display: inline;
         }
 
-        .link {
-            font-size: medium !important;
+        #offer-slide3 {
+            background-image: url(assets/images/3mob.jpg) !important;
         }
 
-        @font-face {
-            font-family: 'Monotype Corsiva Regular';
-            font-style: normal;
-            font-weight: normal;
-            src: local('Monotype Corsiva Regular'), url('/assets/fonts/MTCORSVA.woff') format('woff');
+        #offer-slide4 {
+            background-image: url(assets/images/89.jpg) !important;
         }
-    </style>
+
+        #text3-slide {
+            padding-bottom: 90px;
+        }
+
+    }
+
+
+    .clinic-name {
+        font-family: Monotype Corsiva Regular;
+        font-size: xx-large;
+    }
+
+    #hidden-text {
+        display: none;
+    }
+
+    #logo-name {
+        width: 20%;
+        display: inline;
+    }
+
+    .link {
+        font-size: medium !important;
+    }
+
+    @font-face {
+        font-family: 'Monotype Corsiva Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Monotype Corsiva Regular'), url('/assets/fonts/MTCORSVA.woff') format('woff');
+    }
+</style>
 <script src="assets/web/assets/jquery/jquery.min.js"></script>
 <script src="assets/tether/tether.min.js"></script>
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>
