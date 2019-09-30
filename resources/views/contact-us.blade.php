@@ -32,7 +32,6 @@
     <section id="ext_menu-7">
         <nav id="navbar" class="navbar navbar-dropdown navbar-fixed-top">
             <div class="container" style="    max-width: 90%;">
-
                 <div class="mbr-table">
                     <div class="mbr-table-cell">
 

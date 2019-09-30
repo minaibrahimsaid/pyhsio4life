@@ -42,9 +42,7 @@
                                 display: flex;
                                 justify-content: space-around;
                                 align-items: center;
-                                flex-direction: column;
-                                
-                            ">
+                                flex-direction: column;">
                                     <h2 class="clinic-name"
                                         style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large;     text-align: center;">
                                         Wilson Road Veterinary Clinic </h2>
@@ -120,11 +118,11 @@
                             <div class="mbr-table-cell">
                                 <div id="per15"><img src="assets/images/15.png" width="15%">
                                     <div class="col-md-offset-1 " style="">
-                                        <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="      
-                                           width: 100%; font-family: Monotype Corsiva Regular; background-color: #AF2C33;">For all clients</h1>
-                                        <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="width: 100%;
-                                            font-family: Monotype Corsiva Regular;
-                                            background-color: #AF2C33; "> on all
+                                        <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1 shadow-text" style="      
+                                           width: 100%; font-family: Monotype Corsiva Regular; font-size: 90px;">For all clients</h1>
+                                        <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1 shadow-text" style="width: 100%;
+                                            font-family: Monotype Corsiva Regular; font-size: 90px;
+                                             "> on all
                                             services&nbsp;
                                         </h1>
                                     </div>
@@ -140,9 +138,9 @@
                                 <div class="container-slide container" style="margin-top: 350px;">
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-1 text-mobile">
-                                            <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1" style="  
-                                                font-family: Monotype Corsiva Regular;">For all clients </h2>
-                                            <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1"
+                                            <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1 shadow-text" style="  
+                                                font-family: Monotype Corsiva Regular; ">For all clients </h2>
+                                            <h2 class="mbr-section-title display-1 text-aligin:left text-offer-1 shadow-text"
                                                 style="font-family: Monotype Corsiva Regular; "> on all
                                                 services&nbsp;
                                             </h2>
@@ -153,14 +151,15 @@
                         </div>
                         <div id="offer-slide2"
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
-                            data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);">
+                            data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);     margin-top: 90px;">
 
                             <div style="height: 100%;
                             display: flex;
                             flex-direction: column;">
-                                <h2 class="mbr-section-title display-1" style="    
+                                <h2 class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
-                                 text-align: center;        margin-top: 6.6875rem;
+                                 text-align: center; 
+                                 margin-top: 30px;      
                                 ">Competitive affordable Spay & Neuter prices&nbsp;
                                 </h2>
                                 <div class="mbr-overlay"></div>
@@ -177,7 +176,7 @@
                             class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full"
                             data-bg-video-slide="false" style="background-image:  url(assets/images/25.jpg);">
                             <div class="mbr-table-cell">
-                                <h2 id="text3-slide" class="mbr-section-title display-1" style="    
+                                <h2 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
                                         ">We do House calls&nbsp;
                                 </h2>
@@ -199,8 +198,8 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide">
                                     <div class="row">
-                                        <div class="col-md-2" style="text-align:left; float: right;">
-                                            <h1 class="mbr-section-title display-1" style="   
+                                        <div class="col-md-3" style="text-align:left; float: right;">
+                                            <h1 class="mbr-section-title display-1 shadow-text" style="   
                                               font-family: Monotype Corsiva Regular; max-width: 250px;">Open 6 days a
                                                 week Saturday till
                                                 6 Pm&nbsp;
@@ -416,7 +415,9 @@
             height: 200px;
             width: 100%;
         }
-
+        .shadow-text{
+            text-shadow: -2px -2px 6px #2b1c1c;
+        }
         .online-button {
             color: white;
             letter-spacing: 5px;
@@ -509,7 +510,7 @@
             }
 
             #offer-slide4 {
-                background-image: url(assets/images/89.jpg) !important;
+                background-image: url(assets/images/88mob.jpg) !important;
             }
 
             #text3-slide {

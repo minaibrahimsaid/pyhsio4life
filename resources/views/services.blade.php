@@ -257,22 +257,29 @@
               <div id="collapse50" class="collapse" aria-labelledby="heading11" data-parent="#accordionExample">
                 <div class="card-body">
                   <ul>
-                    <p> We are here to help?
+                    <p> We are here to help
                       <br>
-                      As a pet owner, there is no harder decision to make than choosing the time to say goodbye. No one
+                      As a pet owner, there is no harder decision to make than choosing the time to say goodbye.
+                      <br> No one
                       knows your pet(s) better than you do, so you will know if they still have the same quality of life
-                      that they are used to. All pets are different, so don’t be afraid to ask our team if you need
+                      that they are used to.
+                      <br> All pets are different, so don’t be afraid to ask our team if you need
                       advice.
 
-                      When you are ready to make an appointment, simply contact our hospital surgery and the team will
-                      guide you.  
+                      When you are ready to make an appointment, simply contact our clinic and the team will
+                      guide you.
                       <br>
-                      Can euthanasia been done at home?
+                      <br>
 
+                      Can euthanasia been done at home?
+                      <br>
                       Yes. We are more than happy to visit you and your pet in your home. It is a personal choice and we
                       want to do whatever is easiest for you.
+                      <br>
+                      <br>
 
                       How is euthanasia performed?
+                      <br>
 
                       After having discussed your wishes we will ask you to sign a consent form.
 
@@ -287,8 +294,11 @@
                       Occasionally when your pet is unconscious, some involuntary movements such as twitching and deep
                       breaths may occur. This is perfectly normal when your pet’s muscles relax as their body is
                       shutting down.
+                      <br>
+                      <br>
 
                       Do I have to be present whilst euthanasia is performed?
+                      <br>
 
                       It is your choice to be present or not. Being there with your pet when he or she is put to sleep
                       can be an emotional time. You may also feel relief in knowing you can comfort your pet during
@@ -297,8 +307,11 @@
                       This is not true for everyone and we fully understand if you do not want to be present with your
                       pet when the injection is given. There will be time for you and your family to say your goodbyes
                       afterwards.
+                      <br>
+                      <br>
 
                       What happens afterwards?
+                      <br>
 
                       If you wish to have your pet cremated, there are two options for cremation.
 
@@ -333,17 +346,17 @@
                     <p> --}}
 
 
-                    </p>
-                    <div class="card">
-                      <div class="card-header service-header" id="heading14">
-                        <h5 class="mb-0">
-                          <button class="service collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                            Spay & Neuter
-                          </button>
-                        </h5>
-                      </div>
-                      {{-- <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
+                  </p>
+                  <div class="card">
+                    <div class="card-header service-header" id="heading14">
+                      <h5 class="mb-0">
+                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse14"
+                          aria-expanded="false" aria-controls="collapse14">
+                          Spay & Neuter
+                        </button>
+                      </h5>
+                    </div>
+                    {{-- <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
                         <div class="card-body">
                           <ul>
                             Range of motion exercises are often prescribed to increase or maintain flexibility of your
@@ -355,119 +368,119 @@
                           </ul>
                         </div>
                       </div> --}}
+                  </div>
+                  <div class="card">
+                    <div class="card-header service-header" id="heading15">
+                      <h5 class="mb-0">
+                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse15"
+                          aria-expanded="false" aria-controls="collapse15">
+                          All soft tissue surgeries
+                        </button>
+                      </h5>
                     </div>
-                    <div class="card">
-                      <div class="card-header service-header" id="heading15">
-                        <h5 class="mb-0">
-                          <button class="service collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
-                            All soft tissue surgeries
-                          </button>
-                        </h5>
-                      </div>
-                      <div id="collapse15" class="collapse" aria-labelledby="heading15" data-parent="#accordionExample">
-                        <div class="card-body">
-                          <ul>
-                            At our hospital we routinely surgically treat a comprehensive variety of conditions
-                            involving ears, eys, mouth, gastrointestinal tract,
-                            urogenital system, wound management, hormonal disorders and hernias that can affect our
-                            pets.
-                          </ul>
-                          <br>
-                          <ul>
-                            Pets can suffer from widely varying clinical signs of illness such as lethargy, lumps,
-                            hernias, problems passign urine etc.
-                            After a thorough investigation we often conclude that a surgical procedure would be most
-                            beneficial or most efficient way to treat your pet.
-                            Our vets carry out a variety of surgeries with the highest standard of care and sterility
-                            with the aim being to return your pet to a normal life as
-                            soon as possible. We provide high standards for safe anaesthesia, intraoperative pain
-                            management (reducing pain to the minimum during the procedure
-                            and shortening recovery time) anaesthesia monitoring, sterile preparation and surgical
-                            techniques. These factors all help to ensure your pet recovers
-                            as quickly as possible and reduces the risk of surgical complications while keeping stress
-                            to a minimum.
-                          </ul>
-                          <br>
-                          <ul>
-                            Our patients are closely monitored by our excellent nursing team who will care for your pet
-                            from the time of their admission to their discharge.
-                            They ensure the animals are comfortable, warm and well fed throughout their hospital stay.
-                            Time is spent with your pet both in the kennel/cattery
-                            and if appropriate walking in the outside paddock. We appreciate that a contented patient is
-                            more likely to make a quick and successful recovery.
-                          </ul>
+                    <div id="collapse15" class="collapse" aria-labelledby="heading15" data-parent="#accordionExample">
+                      <div class="card-body">
+                        <ul>
+                          At our hospital we routinely surgically treat a comprehensive variety of conditions
+                          involving ears, eys, mouth, gastrointestinal tract,
+                          urogenital system, wound management, hormonal disorders and hernias that can affect our
+                          pets.
+                        </ul>
+                        <br>
+                        <ul>
+                          Pets can suffer from widely varying clinical signs of illness such as lethargy, lumps,
+                          hernias, problems passign urine etc.
+                          After a thorough investigation we often conclude that a surgical procedure would be most
+                          beneficial or most efficient way to treat your pet.
+                          Our vets carry out a variety of surgeries with the highest standard of care and sterility
+                          with the aim being to return your pet to a normal life as
+                          soon as possible. We provide high standards for safe anaesthesia, intraoperative pain
+                          management (reducing pain to the minimum during the procedure
+                          and shortening recovery time) anaesthesia monitoring, sterile preparation and surgical
+                          techniques. These factors all help to ensure your pet recovers
+                          as quickly as possible and reduces the risk of surgical complications while keeping stress
+                          to a minimum.
+                        </ul>
+                        <br>
+                        <ul>
+                          Our patients are closely monitored by our excellent nursing team who will care for your pet
+                          from the time of their admission to their discharge.
+                          They ensure the animals are comfortable, warm and well fed throughout their hospital stay.
+                          Time is spent with your pet both in the kennel/cattery
+                          and if appropriate walking in the outside paddock. We appreciate that a contented patient is
+                          more likely to make a quick and successful recovery.
+                        </ul>
 
-                        </div>
-                      </div>
-                    </div>
-                    <div class="card">
-                      <div class="card-header service-header" id="heading16">
-                        <h5 class="mb-0">
-                          <button class="service collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
-                            Dentistry
-                          </button>
-                        </h5>
-                      </div>
-                      <div id="collapse16" class="collapse" aria-labelledby="heading16" data-parent="#accordionExample">
-                        <div class="card-body">
-                          <ul>
-                            <p>
-                              Statistics reveal good oral hygiene is fairly rare among our pets. More often than not,
-                              your pet is vulnerable or already has some form of oral disease by age 2.
-                              Dental disease can significantly decrease a pets quality of life as well as their life
-                              expectancy. At Wilson Road Veterinary Clinic , we strive to keep your pets in excellent
-                              dental health.
-                              <br>
-                              You may not think you need to make regular appointments for your pet’s teeth, or that
-                              their dental health is good because you don’t see any visible problems. There are,
-                              however, several dental problems your pet could face. If your pet is not given proper
-                              dental care, it is likely he/she may develop any of the following conditions:
-                              <br>
-                              Gingivitis
-                              Dental abscesses
-                              Tooth loss
-                              Pain
-                              Liver disease
-                              Kidney disease
-                              Bone infection
-                              Dental disease often results in extreme pain and feelings of sickness in your pet.
-                              <br>
-                              The key to good pet dental hygiene is prevention. Instituting a preventative dental
-                              program can be very simple yet extremely rewarding. From special diets, treats, tooth
-                              brushing to routine dental cleanings, pets may never have to experience the pain and
-                              feeling of illness associated with dental disease. With access to the right knowledge,
-                              skills and facilities, your pet will never have to suffer from dental ailments.
-
-                              There are good kinds of toothpaste available for your pet.
-                              <br>
-                              Symptoms to Watch Out For:
-
-                              Pets are very good at hiding the signs of dental disease. However, an observant owner can
-                              sometimes detect oral disease in their cats or dogs from simply being watchful. Some of
-                              the signs include:
-                              <br>
-                              Bad breath
-                              Reluctant chewing
-                              Increased salivation
-                              Unusual pawing at the face
-                              Bleeding gums
-                              Missing and/or loose teeth
-                              Increased tartar buildup
-                              Swollen gums and bad breath
-                              Unfortunately, pets seldom exhibit signs of dental disease, even when severe. For this
-                              reason, it is important to have regular dental examinations performed by the veterinarians
-                              at Wilson Road Veterinary Clinic
-                              <br>
-                              Good dental hygiene is just as important for pets as it is for humans. Don’t wait until
-                              it’s too late to visit a pet dental clinic. Contact Us today for tips on good oral hygiene
-                              for your pets, and to make an appointment with our dog dentist.
-                            </p>
-                          </ul>
-                        </div>
                       </div>
                     </div>
+                  </div>
+                  <div class="card">
+                    <div class="card-header service-header" id="heading16">
+                      <h5 class="mb-0">
+                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse16"
+                          aria-expanded="false" aria-controls="collapse16">
+                          Dentistry
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapse16" class="collapse" aria-labelledby="heading16" data-parent="#accordionExample">
+                      <div class="card-body">
+                        <ul>
+                          <p>
+                            Statistics reveal good oral hygiene is fairly rare among our pets. More often than not,
+                            your pet is vulnerable or already has some form of oral disease by age 2.
+                            Dental disease can significantly decrease a pets quality of life as well as their life
+                            expectancy. At Wilson Road Veterinary Clinic , we strive to keep your pets in excellent
+                            dental health.
+                            <br>
+                            You may not think you need to make regular appointments for your pet’s teeth, or that
+                            their dental health is good because you don’t see any visible problems. There are,
+                            however, several dental problems your pet could face. If your pet is not given proper
+                            dental care, it is likely he/she may develop any of the following conditions:
+                            <br>
+                            Gingivitis
+                            Dental abscesses
+                            Tooth loss
+                            Pain
+                            Liver disease
+                            Kidney disease
+                            Bone infection
+                            Dental disease often results in extreme pain and feelings of sickness in your pet.
+                            <br>
+                            The key to good pet dental hygiene is prevention. Instituting a preventative dental
+                            program can be very simple yet extremely rewarding. From special diets, treats, tooth
+                            brushing to routine dental cleanings, pets may never have to experience the pain and
+                            feeling of illness associated with dental disease. With access to the right knowledge,
+                            skills and facilities, your pet will never have to suffer from dental ailments.
+
+                            There are good kinds of toothpaste available for your pet.
+                            <br>
+                            Symptoms to Watch Out For:
+
+                            Pets are very good at hiding the signs of dental disease. However, an observant owner can
+                            sometimes detect oral disease in their cats or dogs from simply being watchful. Some of
+                            the signs include:
+                            <br>
+                            Bad breath
+                            Reluctant chewing
+                            Increased salivation
+                            Unusual pawing at the face
+                            Bleeding gums
+                            Missing and/or loose teeth
+                            Increased tartar buildup
+                            Swollen gums and bad breath
+                            Unfortunately, pets seldom exhibit signs of dental disease, even when severe. For this
+                            reason, it is important to have regular dental examinations performed by the veterinarians
+                            at Wilson Road Veterinary Clinic
+                            <br>
+                            Good dental hygiene is just as important for pets as it is for humans. Don’t wait until
+                            it’s too late to visit a pet dental clinic. Contact Us today for tips on good oral hygiene
+                            for your pets, and to make an appointment with our dog dentist.
+                          </p>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
                 </ul>
               </div>
             </div>
@@ -486,10 +499,10 @@
                 <ul>
                   <p> Flea control:
                     <br>
-                     Preventing and treating a flea infestation has never been simpler or safer. There
+                    Preventing and treating a flea infestation has never been simpler or safer. There
                     are many treatment programs available.
                     <br>
-                     Unfortunately, there are many over the counter products that
+                    Unfortunately, there are many over the counter products that
                     are neither safe nor effective. Please contact our hospital for recommendations.
                     <br>
                 </ul>
@@ -518,7 +531,7 @@
                   <br>
                   Informative: We walk pet owners through any medical procedure, so they are not left in the dark,
                   worried and concerned.
-                  <br>  
+                  <br>
                   Focus: At any given point, we focus completely on the patient in front of us
 
                   <div class="card">
