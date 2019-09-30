@@ -527,4 +527,20 @@
       </div>
     </div>
   </section>
+  <style>
+   .service {
+      color: white;
+      padding: 0;
+      border: none;
+      background: none;
+      font-weight: bold;
+      text-align: left;
+    }
+    .service-header {
+      background-color: #6785c3;
+    }
+    .service-image {
+      padding-right: 20px;
+    }
+  </style>
 @endsection
