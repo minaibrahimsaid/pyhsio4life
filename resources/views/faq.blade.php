@@ -64,7 +64,8 @@
                 <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="heading2">
                     <div class="card-block">
                         <ul>
-                                Yes we can come and do all our sevices from the comfort of your house to minimize the stress on your beloved pet .
+                            Yes we can come and do all our sevices from the comfort of your house to minimize the stress
+                            on your beloved pet .
 
                         </ul>
                     </div>
@@ -77,15 +78,15 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false"
                     aria-controls="collapse3">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;How
-                            long will my initial appointment be?</p>
+                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;How do I
+                            book an appointment for my pet?</p>
                     </h5>
                 </div>
                 <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="heading3">
                     <div class="card-block">
-                        The initial appointment takes about 60-90 minutes.
-                        It is longer than the subsequent visit since the first appointment is more of a clinical
-                        evaluation followed by treatment session. </div>
+                        Appointments are scheduled daily by phone. If you would like to schedule an appointment with Dr.
+                        Topolie, please call us at 905.576.8885. For inquiries you may also contact our e-mail address
+                        wilsonrdvetclinic@gmail.com.</div>
                 </div>
             </div>
 
@@ -95,18 +96,15 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false"
                     aria-controls="collapse4">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;What
-                            should I bring in the first visit?</p>
+                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;How much
+                            does it cost for an examination?</p>
                     </h5>
                 </div>
                 <div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="heading4">
                     <div class="card-block">
                         <ul>
-                            <li>Bring your insurance information and doctor referral if you have one</li>
-                            <li>Bring any X-ray, scans or any medical reports if have any of these.</li>
-                            <li>List of any medications you are taking for your condition.</li>
-                            <li>Wear appropriate comfortable clothing for easy access to the affected area of the
-                                body.if you forget we do have gowns available here.</li>
+                            <li>Our current fee for a veterinary examination is $86.90 + HST
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -119,14 +117,16 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false"
                     aria-controls="collapse5">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;How
-                            long does each physiotherapy session last?</p>
+                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Where are
+                            you located?
+                        </p>
                     </h5>
                 </div>
                 <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="heading5">
                     <div class="card-block">
-                        Physiotherapy treatments vary in time depending on the area of injury and the nature of the
-                        condition. Generally, treatment lasts around 45 minutes in length.
+                        In a commercial plaza on the Southeast corner of Wilson and Olive Avenues in Oshawa. Our address
+                        is 371 Wilson Road South
+
                     </div>
                 </div>
             </div>
@@ -138,14 +138,15 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false"
                     aria-controls="collapse6">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;What
-                            can you expect to feel after the treatment?</p>
+                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Do you
+                            have surgical facilities?</p>
                     </h5>
                 </div>
                 <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="heading6">
                     <div class="card-block">
-                        You may feel a little sore after the assessment and the treatment for one or two days then
-                        you will feel better.
+                        The Wilson Road Veterinary Clinic offers a variety of veterinary services for your pet(s)
+                        including surgical and dental procedures
+
                     </div>
                 </div>
             </div>
@@ -156,15 +157,15 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false"
                     aria-controls="collapse7">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;how
-                            many treatments I will need?</p>
+                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Will you
+                            contact me to remind me about my pet's yearly check up?
+                        </p>
                     </h5>
                 </div>
                 <div id="collapse7" class="collapse" role="tabpanel" aria-labelledby="heading7">
                     <div class="card-block">
-                        After your first assessment, your physio will be able to offer an estimation of the number
-                        of visits needed for your case. This may vary during your treatment as your physio will
-                        assess your progress on each visit.
+                        Reminders for your pet's vet care are by telephone or sent to you by mail
+
                     </div>
                 </div>
             </div>
@@ -176,13 +177,15 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false"
                     aria-controls="collapse8">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Is
-                            there parking?</p>
+                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;If my
+                            animal stays overnight, is there someone at the clinic through the night?
+                        </p>
                     </h5>
                 </div>
                 <div id="collapse8" class="collapse" role="tabpanel" aria-labelledby="heading8">
                     <div class="card-block">
-                        Yes. We are in a large plaza with lots of parking.
+                        Veterinary cases requiring overnight nursing care are transferred by the pet's owner to the
+                        Animal Emergency Clinic in Whitby.
                     </div>
                 </div>
             </div>
@@ -192,20 +195,21 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false"
                     aria-controls="collapse9">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Do we
-                            do direct billing to Insurance?</p>
+                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;What
+                            should I do if my pet needs medical care after hours?
+                        </p>
                     </h5>
                 </div>
                 <div id="collapse9" class="collapse" role="tabpanel" aria-labelledby="heading9">
-                    <div class="card-block">
-                        Yes, we do the direct billing submission to the majority of insurance companies, but few
-                        insurance companies only reimburse directly to the patients.
-                    </div>
+                    After-hour and emergency vet care are referred to the Animal Emergency Clinic of Durham Region at
+                    1910 Dundas St. East in Whitby (905.576.3031) or to the Toronto Veterinary Emergency Hospital at 21
+                    Rolark Ave in Scarborough (416.247.8387)
                 </div>
             </div>
+        </div>
 
 
-            <div class="card">
+        {{-- <div class="card">
                 <div class="card-header question-header " role="tab" id="heading10" class="collapsed"
                     data-toggle="collapse" data-parent="#accordion" href="#collapse10" aria-expanded="false"
                     aria-controls="collapse10">
@@ -219,10 +223,10 @@
                         Our Physiotherapy clinic is not covered by OHIP.
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
 
-        </div>
+    </div>
 
     </div>
 </section>

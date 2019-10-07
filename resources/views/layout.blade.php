@@ -97,7 +97,7 @@
             </div>
         </nav>
     </section>
-@yield('view')
+    @yield('view')
     {{-- end-page --}}
     <section class="mbr-section article mbr-parallax-background" id="msg-box8-p"
         style="background-image: url(assets/images/20.jpg); padding-top: 40px; padding-bottom: 40px;">
@@ -181,13 +181,19 @@
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-6">
+
                     <div id="map">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2875.2313979484184!2d-78.84125988449445!3d43.89247397911389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d51cd52647b2e5%3A0x92e4f41ed490e0f5!2s371+Wilson+Rd+S%2C+Oshawa%2C+ON+L1H+6C6!5e0!3m2!1sen!2sca!4v1564830629839!5m2!1sen!2sca"
                             width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
-                            In case of an emergency...
-                            If you are a client of Wilson Road Veterinary Clinic and you encounter an emergency with your pet outside of our regular clinic hours, veterinary care is available at the Animal Emergency Clinic of Durham Region and can be reached at 905.576.3031. 
-                            The Animal Emergency Clinic's address is 1910 Dundas Street East, Unit B101 in Whitby.
+
+                    </div>
+                    <div>
+                        In case of an emergency...
+                        If you are a client of Wilson Road Veterinary Clinic and you encounter an emergency with your
+                        pet outside of our regular clinic hours, veterinary care is available at the Animal Emergency
+                        Clinic of Durham Region and can be reached at 905.576.3031.
+                        The Animal Emergency Clinic's address is 1910 Dundas Street East, Unit B101 in Whitby.
                     </div>
                 </div>
             </div>
@@ -213,9 +219,11 @@
             height: 200px;
             width: 100%;
         }
-        .shadow-text{
+
+        .shadow-text {
             text-shadow: -2px -2px 6px #2b1c1c;
         }
+
         .online-button {
             color: white;
             letter-spacing: 5px;
@@ -270,8 +278,8 @@
             color: #960000;
         }
 
-        .quote{
-            font-size: 40px!important;
+        .quote {
+            font-size: 40px !important;
         }
 
         @media only screen and (max-width: 800px) {
@@ -279,7 +287,7 @@
                 background-image: url(assets/images/18.jpg) !important;
             }
 
-            .quote{
+            .quote {
                 font-size: 20px !important;
             }
 
