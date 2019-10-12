@@ -31,7 +31,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false"
                     aria-controls="collapse1">
                     <h5 class="mb-0">
-                        <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Do I
+                        <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;
                             What services you are providing ?</p>
                     </h5>
                 </div>
@@ -57,7 +57,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false"
                     aria-controls="collapse2">
                     <h5 class="mb-0">
-                        <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;What
+                        <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;
                             Do you do home visits ? </p>
                     </h5>
                 </div>
@@ -84,14 +84,13 @@
                 </div>
                 <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="heading3">
                     <div class="card-block">
-                        Appointments are scheduled daily by phone. If you would like to schedule an appointment with Dr.
-                        Topolie, please call us at 905.576.8885. For inquiries you may also contact our e-mail address
+                        Appointments are scheduled daily by phone. If you would like to schedule an appointment with one of our veterinarians, please call us at 905.576.8885. For inquiries you may also contact our e-mail address
                         wilsonrdvetclinic@gmail.com.</div>
                 </div>
             </div>
 
 
-            <div class="card">
+            {{-- <div class="card">
                 <div class="card-header question-header " role="tab" id="heading4" class="collapsed"
                     data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false"
                     aria-controls="collapse4">
@@ -108,7 +107,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
 
 
@@ -172,7 +171,7 @@
 
 
 
-            <div class="card">
+            {{-- <div class="card">
                 <div class="card-header question-header " role="tab" id="heading8" class="collapsed"
                     data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false"
                     aria-controls="collapse8">
@@ -206,7 +205,7 @@
                     Rolark Ave in Scarborough (416.247.8387)
                 </div>
             </div>
-        </div>
+        </div> --}}
 
 
         {{-- <div class="card">

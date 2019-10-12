@@ -1,7 +1,7 @@
 @extends('layout')
 @section('view')
 <section class="mbr-section" id="msg-box5-n"
-    style=" padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem; color:white; background-image:  url(assets/images/bg2.jpg);">
+    style=" padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem; color:white; background-image:  url(assets/images/20.jpg);">
 
 
     <div class="container">
@@ -14,11 +14,11 @@
                     <h3 class="mbr-section-title display-3">Our Location</h3>
                     <div class="lead">
 
-                        <p><strong>Address</strong><br>
+                        <p class="contact-text-edit"><strong>Address</strong><br>
                             371 Wilson Road South Oshawa, Ontario <br><br><br>
                             <strong>Contacts</strong><br>
                             Email: wilsonrdvetclinic@gmail.com<br>
-                            <h6>Phone: +1 905-576-8885</h6>
+                            <h6 class="contact-text-edit">Phone: +1 905-576-8885</h6>
                             {{-- <h6>Fax: +1 289-660-8666</h6> --}}
                         </p>
                     </div>
@@ -30,7 +30,7 @@
                     <h3 class="mbr-section-title display-3">Hours</h3>
                     <div class="lead">
 
-                        <p>
+                        <p class="contact-text-edit">
                             <strong>Monday </strong> 9:00 am – 6:00 pm<br>
                             <strong>Tuesday </strong> 9:00 am – 6:00 pm<br>
                             <strong>Wednesday </strong> 9:00 am – 6:00 pm<br>
@@ -139,10 +139,15 @@
     </div>
 </section>
 <style>
-    @media only screen and (max-width: 800px) {
+    /* @media only screen and (max-width: 800px) {
         #msg-box5-n {
             background-image: url(assets/images/bgmob.jpg) !important;
         }
+    } */
+
+    .contact-text-edit{
+        text-shadow: 2px 2px #4e4141;
+        font-weight: 900 !important;
     }
 </style>
 

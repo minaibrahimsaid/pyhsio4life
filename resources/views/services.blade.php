@@ -144,22 +144,23 @@
                     <br>
                     What services you provide during the house call ?
                     <br>
-
-                    Wellness exam
-                    Vaccines
-                    Deworming
-                    Microchipping
-                    Blood withdrawal
-                    Medication and food delivery
-                    Euthanasia
+                    <ul>
+                      <li> Wellness exam </li>
+                      <li> Vaccines</li>
+                      <li> Deworming </li>
+                      <li>Microchipping</li>
+                      <li>Blood withdrawal</li>
+                      <li> Medication and food delivery</li>
+                      <li>Euthanasia</li>
+                    </ul>
                     <br>
 
 
                     Who benefit more from the house call services?
                     <br>
                     <ul>
-                      <li>Senior clients that cannot come to clinic </li>
-                      <li> people who have tight schedule and don’t want to wait in the clinic </li>
+                      <li>Senior clients that are not able to come to clinic </li>
+                      <li> people who have tight schedule  </li>
                       <li>people who don’t have a car ride </li>
                       <li> client who have multiple pets and cannot bring all of them at once </li>
                     </ul>
@@ -172,10 +173,11 @@
                     comfortable rather than bring them to a new place .
                     Examples :
                     <ul>
-                    <li> cat stressed in Carrie </li>
-                    <li> pet hate the cat ride </li>
-                    <li> big dog with hip problems and cannot walk </li>
-                    <li> sick pet and you think that’s the time to let him/her go peacefully in his/her own bed . </li>
+                      <li> cat stressed in carrier </li>
+                      <li> pet hate the car ride </li>
+                      <li> big dog with hip problems and cannot walk </li>
+                      <li> sick pet and you think that’s the time to let him/her go peacefully in his/her own bed .
+                      </li>
                     </ul>
 
                     Is there an extra charges on the services prices ?
@@ -246,7 +248,7 @@
                     <br>
                     <br>
 
-                    Do I have to be present whilst euthanasia is performed?
+                    Do I have to be present while euthanasia is performed?
                     <br>
 
                     It is your choice to be present or not. Being there with your pet when he or she is put to sleep
