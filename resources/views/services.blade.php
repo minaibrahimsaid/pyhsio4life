@@ -156,30 +156,31 @@
                     <br>
 
 
-                    Who benefit more from the house call services?
+                    Who benefits more from the house call services?
                     <br>
                     <ul>
                       <li>Senior clients that are not able to come to clinic </li>
-                      <li> people who have tight schedule  </li>
-                      <li>people who don’t have a car ride </li>
-                      <li> client who have multiple pets and cannot bring all of them at once </li>
+                      <li> People who have tight schedules </li>
+                      <li>People who don’t have a car ride </li>
+                      <li> Clients who have multiple pets and cannot bring all of them at once </li>
                     </ul>
                     <br>
 
-                    Is my pet need a house call ?
+                    Does my pet need a house call ?
                     <br>
 
                     Some pets are so shy and do much better if we do all the service from their place as they feel more
                     comfortable rather than bring them to a new place .
                     Examples :
                     <ul>
-                      <li> cat stressed in carrier </li>
-                      <li> pet hate the car ride </li>
-                      <li> big dog with hip problems and cannot walk </li>
-                      <li> sick pet and you think that’s the time to let him/her go peacefully in his/her own bed .
+                      <li> Cat stressed in carrier </li>
+                      <li> Pet hate the car ride </li>
+                      <li> Big dog with hip problems and cannot walk </li>
+                      <li> Sick pet and you think that’s the time to let him/her go peacefully in his/her own bed .
+
                       </li>
                     </ul>
-
+                    <br>
                     Is there an extra charges on the services prices ?
                     <br>
                     No extra charges on the prices , you will be charged the same price as you are in the clinic

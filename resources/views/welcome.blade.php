@@ -1,7 +1,7 @@
 @extends('layout')
 @section('view')
 <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
         id="slider-0">
         <div>
             <div>
