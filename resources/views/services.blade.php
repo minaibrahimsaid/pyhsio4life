@@ -100,29 +100,77 @@
                         </div>
                       </div> --}}
                   </div>
-                  <div class="card">
-                    <div class="card-header service-header" id="heading8">
-                      <h5 class="mb-0">
-                        <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse8"
-                          aria-expanded="false" aria-controls="collapse8">
-                          Seinor pet
-                        </button>
-                      </h5>
-                    </div>
-                    {{-- <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordionExample">
-                        <div class="card-body">
-                          <ul>
-                            Interferential current involves the passing of two high frequency currents through the
-                            tissues. Where the currents intersect, a new current is formed. It is a deeper form of the
-                            common treatment TENS. The high frequency waveform of the Interferential current reaches the
-                            skin deeply with a higher level of stimulation and less discomfort to the patient. It helps
-                            the body produce the natural pain relieving, healing chemicals called endorphins. This can
-                            help in the treatment of circulatory and muscular disorders, stiffness of joints, swelling,
-                            and inflammation.
-                          </ul>
-                        </div>
-                      </div> --}}
-                  </div>
+
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header service-header" id="heading8">
+              <h5 class="mb-0">
+                <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse8"
+                  aria-expanded="false" aria-controls="collapse8">
+                  Seinor Exam
+                </button>
+              </h5>
+            </div>
+            <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordionExample">
+              <div class="card-body">
+                <ul>
+                  <p>
+                    When does pet become old?
+                    <br>
+                    Generally at age of 7 the pet considered geriatric .
+                    Below is human equivalent for older pets , it varies from cat , small dogs , medium size or large
+                    breed dogs
+                    <ul>
+                      <li>7 years equivalent to 50 -55 human years . </li>
+                      <li>10 years old equivalent to 65 - 75 human years </li>
+                      <li>15 years old equivalent to 75- 100 </li>
+                      <li>20 years old equivalent to 95 -110 </li>
+                    </ul>
+
+                    <br>
+                    <br>
+
+
+
+                    What kind of health problems can affect older pets?
+                    <br>
+                    <ul>
+
+                      <li>Cancer</li>
+                      <li>Heart disease</li>
+                      <li>Kidney disease</li>
+                      <li>Liver disease</li>
+                      <li>Diabetes</li>
+                      <li>Joint or bone disease</li>
+                    </ul>
+                    <br>
+                    <br>
+
+
+
+
+
+
+                    How do I help my old pet stay healthy ?
+                    <br>
+                    .Senior pets required more attention to monitor their appetite , drinking behaviour , urine out put
+                    ,
+                    gaining or losing weight and activity level .
+                    Any change in one or two of those signs can be alarming sound for a health issue
+                    <br>
+                    <ul>
+
+                      <li>Semi-annual Veterinary visit </li>
+                      <li>Specific diets for senior pets </li>
+                      <li> Yearly bloodwork to check on all internal organ functions and detect the disease early</li>
+                      <li>.monitoring weight as losing weight or gaining to much weigh could be signs of disease</li>
+                    </ul>
+
+                  </p>
                 </ul>
               </div>
             </div>
@@ -187,7 +235,7 @@
                     The only extra will be a house call fee which ranges from
                     <br> 40$ - 60$ /visit depend on your address
                     <br>
-
+                    <br>
                     How can I book a house call visit? <br>
                     Call our clinic Wilson Road Veterinary Clinic on 905-567-8885 and ask for the services you want .
                     Our receptionist will give you an estimate with the price and will help you to book the appointment.
@@ -380,24 +428,31 @@
                       <ul>
                         <p>
                           Statistics reveal good oral hygiene is fairly rare among our pets. More often than not,
-                          your pet is vulnerable or already has some form of oral disease by age 2.
+                          your pet is vulnerable or already has some form of oral disease by age 2.<br>
+
                           Dental disease can significantly decrease a pets quality of life as well as their life
-                          expectancy. At Wilson Road Veterinary Clinic , we strive to keep your pets in excellent
+                          expectancy.
+                          <br>
+                          At Wilson Road Veterinary Clinic , we strive to keep your pets in excellent
                           dental health.
                           <br>
                           You may not think you need to make regular appointments for your pet’s teeth, or that
-                          their dental health is good because you don’t see any visible problems. There are,
+                          their dental health is good because you don’t see any visible problems.<br> There are,
                           however, several dental problems your pet could face. If your pet is not given proper
                           dental care, it is likely he/she may develop any of the following conditions:
                           <br>
-                          Gingivitis
-                          Dental abscesses
-                          Tooth loss
-                          Pain
-                          Liver disease
-                          Kidney disease
-                          Bone infection
+                          <ul>
+                            <li>Gingivitis</li>
+                            <li>Dental abscesses</li>
+                            <li>Tooth loss</li>
+                            <li>Pain</li>
+                            <li>Liver disease</li>
+                            <li>Kidney disease</li>
+                            <li>Bone infection</li>
+                          </ul>
+                          <br>
                           Dental disease often results in extreme pain and feelings of sickness in your pet.
+                          <br>
                           <br>
                           The key to good pet dental hygiene is prevention. Instituting a preventative dental
                           program can be very simple yet extremely rewarding. From special diets, treats, tooth
@@ -405,7 +460,6 @@
                           feeling of illness associated with dental disease. With access to the right knowledge,
                           skills and facilities, your pet will never have to suffer from dental ailments.
 
-                          There are good kinds of toothpaste available for your pet.
                           <br>
                           Symptoms to Watch Out For:
 
@@ -413,17 +467,22 @@
                           sometimes detect oral disease in their cats or dogs from simply being watchful. Some of
                           the signs include:
                           <br>
-                          Bad breath
-                          Reluctant chewing
-                          Increased salivation
-                          Unusual pawing at the face
-                          Bleeding gums
-                          Missing and/or loose teeth
-                          Increased tartar buildup
-                          Swollen gums and bad breath
+                          <ul>
+                            <li>Bad breath</li>
+                            <li>Reluctant chewingh</li>
+                            <li>Increased salivation</li>
+                            <li>Unusual pawing at the face</li>
+                            <li>Bleeding gums</li>
+                            <li>BMissing and/or loose teeth</li>
+                            <li>Increased tartar buildup</li>
+                            <li>Swollen gums</li>
+                          </ul>
+                          <br>
+                          <br>
                           Unfortunately, pets seldom exhibit signs of dental disease, even when severe. For this
                           reason, it is important to have regular dental examinations performed by the veterinarians
                           at Wilson Road Veterinary Clinic
+                          <br>
                           <br>
                           Good dental hygiene is just as important for pets as it is for humans. Don’t wait until
                           it’s too late to visit a pet dental clinic. Contact Us today for tips on good oral hygiene
@@ -543,30 +602,31 @@
                     </div> --}}
                 </div>
 
-                <div class="card">
-                  <div class="card-header service-header" id="heading6">
-                    <h5 class="mb-0">
-                      <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse131"
-                        aria-expanded="false" aria-controls="collapse6">
-                        Microchipping
-                      </button>
-                    </h5>
-                  </div>
-                  <div id="collapse131" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
-                    <div class="card-body">
-                      <ul>
-                        A dog/cat over 8 weeks old must be microchipped. A microchip, about the size of a grain of
-                        rice,
-                        can be implanted under your pet's skin. This carries a unique number which can be read with a
-                        special scanner.
-                        If your pet gets lost or stolen it can be checked by vets, local authorities and welfare
-                        organisations throughout the country and returned quickly.
 
-                        Ask at reception for details.
-                      </ul>
-                    </div>
-                  </div>
-                </div>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header service-header" id="heading6">
+            <h5 class="mb-0">
+              <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse131"
+                aria-expanded="false" aria-controls="collapse6">
+                Microchipping
+              </button>
+            </h5>
+          </div>
+          <div id="collapse131" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
+            <div class="card-body">
+              <ul>
+                A dog/cat over 8 weeks old must be microchipped. A microchip, about the size of a grain of
+                rice,
+                can be implanted under your pet's skin. This carries a unique number which can be read with a
+                special scanner.
+                If your pet gets lost or stolen it can be checked by vets, local authorities and welfare
+                organisations throughout the country and returned quickly.
+
+                Ask at reception for details.
               </ul>
             </div>
           </div>

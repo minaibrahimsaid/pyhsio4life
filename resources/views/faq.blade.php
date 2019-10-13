@@ -84,7 +84,7 @@
                 </div>
                 <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="heading3">
                     <div class="card-block">
-                        Appointments are scheduled daily by phone. If you would like to schedule an appointment with one of our veterinarians, please call us at 905.576.8885. For inquiries you may also contact our e-mail address
+                        Appointments are scheduled daily by phone or through book appointment form on our website . If you would like to schedule an appointment with one of our veterinarians, please call us at 905.576.8885. For inquiries you may also contact our e-mail address
                         wilsonrdvetclinic@gmail.com.</div>
                 </div>
             </div>

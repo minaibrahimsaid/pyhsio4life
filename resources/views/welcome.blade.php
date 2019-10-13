@@ -1,7 +1,7 @@
 @extends('layout')
 @section('view')
 <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
         id="slider-0">
         <div>
             <div>
@@ -19,7 +19,7 @@
                             style="margin-top: 70px; background-image: url(assets/images/1.jpg); ">
                             <div class="mbr-table-cell">
                                 <div id="per15"><img src="assets/images/15.png" width="15%">
-                                    <div class="col-md-offset-1 " style="">
+                                    <div  style="">
                                         <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1 shadow-text" style="      
                                            width: 100%; font-family: Monotype Corsiva Regular; font-size: 90px;">For all clients</h1>
                                         <h1 class="mbr-section-title display-1 text-aligin:left text-offer-1 shadow-text" style="width: 100%;
@@ -61,7 +61,6 @@
                                 <h2 class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
                                  text-align: center; 
-                                 margin-top: 30px;      
                                 ">Competitive affordable Spay & Neuter prices&nbsp;
                                 </h2>
                                 <div class="mbr-overlay"></div>
