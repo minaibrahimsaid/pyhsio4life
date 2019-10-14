@@ -167,7 +167,7 @@
                       <li>Semi-annual Veterinary visit </li>
                       <li>Specific diets for senior pets </li>
                       <li> Yearly bloodwork to check on all internal organ functions and detect the disease early</li>
-                      <li>.monitoring weight as losing weight or gaining to much weigh could be signs of disease</li>
+                      <li>.monitoring weight as losing weight or gaining too much weigh could be signs of disease</li>
                     </ul>
 
                   </p>
