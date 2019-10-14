@@ -1,7 +1,7 @@
 @extends('layout')
 @section('view')
 <section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar"
-        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000"
+        data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="500000"
         id="slider-0">
         <div>
             <div>
@@ -61,6 +61,8 @@
                                 <h2 class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
                                  text-align: center; 
+                                 margin-top: 50px;
+
                                 ">Competitive affordable Spay & Neuter prices&nbsp;
                                 </h2>
                                 <div class="mbr-overlay"></div>
@@ -99,7 +101,7 @@
                                 <div class="mbr-overlay"></div>
                                 <div class="container-slide">
                                     <div class="row">
-                                        <div class="col-md-3" style="text-align:left; float: right;  margin-top: 50px;">
+                                        <div class="col-md-3" style="text-align:left; float: right;  margin-top: 100px;">
                                             <h1 class="mbr-section-title display-1 shadow-text" style="   
                                               font-family: Monotype Corsiva Regular; max-width: 250px;">Open 6 days a
                                                 week Saturday till
