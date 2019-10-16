@@ -319,10 +319,6 @@
                 background-image: url(assets/images/88mob.jpg) !important;
             }
 
-            #text3-slide {
-                padding-bottom: 90px;
-            }
-
         }
 
 

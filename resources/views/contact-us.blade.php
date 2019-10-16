@@ -1,12 +1,14 @@
 @extends('layout')
 @section('view')
 <section class="mbr-section" id="msg-box5-n"
-    style=" padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem; color:white; background-image:  url(assets/images/200.jpg);">
+    style=" padding-top: 0rem; padding-bottom: 25px; padding-top: 10rem; color:white; background-image:  url(assets/images/200.jpg);     background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover">
 
 
     <div class="container">
         <div class="row">
-            <div class="mbr-table-md-up">
+            <div class="mbr-table-md-up" >
 
 
 

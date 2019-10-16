@@ -31,7 +31,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false"
                     aria-controls="collapse1">
                     <h5 class="mb-0">
-                        <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;
+                        <p class="question"> &nbsp;
                             What services you are providing ?</p>
                     </h5>
                 </div>
@@ -57,7 +57,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false"
                     aria-controls="collapse2">
                     <h5 class="mb-0">
-                        <p class="question"> <i class="far fa-question-circle" style="color: yellow"></i> &nbsp;
+                        <p class="question"> &nbsp;
                             Do you do home visits ? </p>
                     </h5>
                 </div>
@@ -78,13 +78,15 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false"
                     aria-controls="collapse3">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;How do I
+                        <p class="question"> &nbsp;How do I
                             book an appointment for my pet?</p>
                     </h5>
                 </div>
                 <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="heading3">
                     <div class="card-block">
-                        Appointments are scheduled daily by phone or through book appointment form on our website . If you would like to schedule an appointment with one of our veterinarians, please call us at 905.576.8885. For inquiries you may also contact our e-mail address
+                        Appointments are scheduled daily by phone or through book appointment form on our website . If
+                        you would like to schedule an appointment with one of our veterinarians, please call us at
+                        905.576.8885. For inquiries you may also contact our e-mail address
                         wilsonrdvetclinic@gmail.com.</div>
                 </div>
             </div>
@@ -95,7 +97,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false"
                     aria-controls="collapse4">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;How much
+                        <p class="question">  &nbsp;How much
                             does it cost for an examination?</p>
                     </h5>
                 </div>
@@ -116,7 +118,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false"
                     aria-controls="collapse5">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Where are
+                        <p class="question"> &nbsp;Where are
                             you located?
                         </p>
                     </h5>
@@ -137,7 +139,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false"
                     aria-controls="collapse6">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Do you
+                        <p class="question"> &nbsp;Do you
                             have surgical facilities?</p>
                     </h5>
                 </div>
@@ -156,7 +158,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false"
                     aria-controls="collapse7">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Will you
+                        <p class="question"> &nbsp;Will you
                             contact me to remind me about my pet's yearly check up?
                         </p>
                     </h5>
@@ -176,7 +178,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false"
                     aria-controls="collapse8">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;If my
+                        <p class="question">  &nbsp;If my
                             animal stays overnight, is there someone at the clinic through the night?
                         </p>
                     </h5>
@@ -194,7 +196,7 @@
                     data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false"
                     aria-controls="collapse9">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;What
+                        <p class="question">  &nbsp;What
                             should I do if my pet needs medical care after hours?
                         </p>
                     </h5>
@@ -208,12 +210,12 @@
         </div> --}}
 
 
-        {{-- <div class="card">
+            {{-- <div class="card">
                 <div class="card-header question-header " role="tab" id="heading10" class="collapsed"
                     data-toggle="collapse" data-parent="#accordion" href="#collapse10" aria-expanded="false"
                     aria-controls="collapse10">
                     <h5 class="mb-0">
-                        <p class="question"><i class="far fa-question-circle" style="color: yellow"></i> &nbsp;Are
+                        <p class="question">  &nbsp;Are
                             we covered by OHIP?</p>
                     </h5>
                 </div>
@@ -225,8 +227,13 @@
             </div> --}}
 
 
-    </div>
+        </div>
 
     </div>
 </section>
+<style>
+    .card-header {
+        background-color: #cac5c5 !important
+    }
+</style>
 @endsection

@@ -127,8 +127,8 @@
                     <ul>
                       <li>7 years equivalent to 50 -55 human years . </li>
                       <li>10 years old equivalent to 65 - 75 human years </li>
-                      <li>15 years old equivalent to 75- 100 </li>
-                      <li>20 years old equivalent to 95 -110 </li>
+                      <li>15 years old equivalent to 75- 100 human years</li>
+                      <li>20 years old equivalent to 95 -110 human years</li>
                     </ul>
 
                     <br>
@@ -164,7 +164,7 @@
                     <br>
                     <ul>
 
-                      <li>Semi-annual Veterinary visit </li>
+                      <li>Semi-annual Veterinary checkup </li>
                       <li>Specific diets for senior pets </li>
                       <li> Yearly bloodwork to check on all internal organ functions and detect the disease early</li>
                       <li>.monitoring weight as losing weight or gaining too much weigh could be signs of disease</li>
