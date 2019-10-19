@@ -71,14 +71,32 @@
                         </button>
                       </h5>
                     </div>
-                    {{-- <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
-                        <div class="card-body">
-                          <ul>
-                            In electrical stimulation, electrodes are placed on the surface of the skin, which can cause
-                            muscles to contract.
-                          </ul>
-                        </div>
-                      </div> --}}
+                    <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
+                      <div class="card-body">
+                        <ul>
+                          Congratulations for adding a new member to your family. A family member who,when properly
+                          treated and cared for, will provide you with years of enjoyment and unconditional love.
+                          <br>
+                          As a part of this family we would like to meet your puppy/kitten for a complete physical exam
+                          and will answer all your concerns .
+                          <br>
+                          <br>
+                          What happens during an Examination?
+                          <br>
+                          <br>
+                          The examination starts with taking the weight of your pet then our veterinarian will ask you
+                          some questions concerning your pet’s state of health.
+                          <br>
+                          This is very important for determining
+                          whether or not there are problem areas that need to be addressed.
+                          <br>
+
+                          After the history, Our veterinarian will perform a complete physical examination of your pet .
+                          Finally our veterinarian will recommend what your new family member need to keep him/her
+                          healthy .
+                        </ul>
+                      </div>
+                    </div>
                   </div>
                   <div class="card">
                     <div class="card-header service-header" id="heading7">
@@ -89,16 +107,30 @@
                         </button>
                       </h5>
                     </div>
-                    {{-- <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordionExample">
-                        <div class="card-body">
-                          <ul>
-                            TENS, or transcutaneous electrical nerve stimulation, is a type of electrical stimulation.
-                            It is a device that sends low current through the electrodes place on the skin surface. It
-                            provides pain relief by blocking nerve signals carrying pain messages to the brain. TENS
-                            also stimulates the production of endorphins – our natural pain relieving hormones.
-                          </ul>
-                        </div>
-                      </div> --}}
+                    <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordionExample">
+                      <div class="card-body">
+                        <ul>
+                          Maintaining your pet in top physical shape and optimum health is the goal of every responsible
+                          pet owner and our veterinarians goal.
+                          <br>
+                          <br>
+                          That’s why a routine physical examination that our veterinarian performs on your pet is
+                          crucial to maintaining your pet’s good health.
+                          <br>
+                          <br>
+
+                          Why are regular checkup important?
+                          <br>
+                          <br>
+                          An animal’s natural instinct is to try to hide health problems and unfortunately they cannot
+                          talk, these 2 factors make our job harder to know when they are not feeling well. 
+                          <br>
+                          Therefore
+                          taking your pet for a complete physical exam once a year is so important for early disease
+                          detection.
+                        </ul>
+                      </div>
+                    </div>
                   </div>
 
                 </ul>
@@ -356,18 +388,29 @@
                       </button>
                     </h5>
                   </div>
-                  {{-- <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
+                  <div id="collapse14" class="collapse" aria-labelledby="heading14" data-parent="#accordionExample">
                         <div class="card-body">
                           <ul>
-                            Range of motion exercises are often prescribed to increase or maintain flexibility of your
-                            joints and to reduce stiffness.
-                            There several types of range of motion exercises often prescribed including the following
-                            <li>Passive Range of Motion (PROM) Exercises</li>
-                            <li>Active Assistive Range of Motion (AAROM) Exercises</li>
-                            <li>Active Range of Motion (AROM) Exercises</li>
+                              <br>
+
+                              What’s spay and neuter?
+                              <br>
+                              <br>
+
+                              Spay: surgical procedure for mature female dog/cat involves complete removal of the do’s ovaries and uterus 
+                              Neuter : surgical procedure for mature male dog/cat involves removal of the two testicles .
+                              <br>
+                              <br>
+
+                              Why spay and neuter is important to my pet ? 
+                              <br>
+                              <br>
+
+                              Spaying your pet will protect them from a fatal diseases called pyrometer which is pus inside her uterus as well as decreasing the risk of mammary gland cancer .
+                              Neutering your pet will reduce the risk of prostate cancer as well as behavioural problems.
                           </ul>
                         </div>
-                      </div> --}}
+                      </div>
                 </div>
                 <div class="card">
                   <div class="card-header service-header" id="heading15">
