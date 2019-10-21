@@ -13,14 +13,14 @@
 
 
                 <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
-                    <h3 class="mbr-section-title display-3">Our Location</h3>
+                    <h3 class="mbr-section-title display-3 shadow-text">Our Location</h3>
                     <div class="lead">
 
-                        <p class="contact-text-edit"><strong>Address</strong><br>
+                        <p class="contact-text-edit "><strong>Address</strong><br>
                             371 Wilson Road South Oshawa, Ontario <br><br><br>
                             <strong>Contacts</strong><br>
                             Email: wilsonrdvetclinic@gmail.com<br>
-                            <h6 class="contact-text-edit">Phone: +1 905-576-8885</h6>
+                            <h6 class="contact-text-edit shadow-text">Phone: +1 905-576-8885</h6>
                             {{-- <h6>Fax: +1 289-660-8666</h6> --}}
                         </p>
                     </div>
@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="mbr-table-cell col-md-3 text-xs-center text-md-left content-size">
-                    <h3 class="mbr-section-title display-3">Hours</h3>
+                    <h3 class="mbr-section-title display-3 shadow-text">Hours</h3>
                     <div class="lead">
 
                         <p class="contact-text-edit">
