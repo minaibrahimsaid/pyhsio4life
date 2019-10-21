@@ -72,8 +72,8 @@
 
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"
                                         style="background: dodgerblue; padding: 0px !important;">
-                                        <a style="background-color:#6785c3; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: 12px;"
-                                            class="dropdown-item" href="/about-us">Meet Our Team</a>
+                                        {{-- <a style="background-color:#6785c3; border: 0px;  margin-top: 0px !important;     font-weight: bold;     font-size: 12px;"
+                                            class="dropdown-item" href="/about-us">Meet Our Team</a> --}}
                                         <a style="background-color:#6785c3; border: 0px;  margin-top: 0px !important;      font-weight: bold;    font-size: 12px;"
                                             class="dropdown-item" href="/gallery">Clinic Tour</a>
                                     </div>
