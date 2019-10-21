@@ -74,7 +74,7 @@
                     <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordionExample">
                       <div class="card-body">
                         <ul>
-                          Congratulations for adding a new member to your family. A family member who,when properly
+                          Congratulations for adding a new member to your family. A family member who when properly
                           treated and cared for, will provide you with years of enjoyment and unconditional love.
                           <br>
                           As a part of this family we would like to meet your puppy/kitten for a complete physical exam
@@ -84,14 +84,14 @@
                           What happens during an Examination?
                           <br>
                           <br>
-                          The examination starts with taking the weight of your pet then our veterinarian will ask you
+                          The examination starts with taking your pet’s weight then our veterinarian will ask you
                           some questions concerning your pet’s state of health.
                           <br>
                           This is very important for determining
                           whether or not there are problem areas that need to be addressed.
                           <br>
 
-                          After the history, Our veterinarian will perform a complete physical examination of your pet .
+                          After the history. Our veterinarian will perform a complete physical examination of your pet .
                           Finally our veterinarian will recommend what your new family member need to keep him/her
                           healthy .
                         </ul>
@@ -393,11 +393,11 @@
                           <ul>
                               <br>
 
-                              What’s spay and neuter?
+                              What does spay and neuter means ?
                               <br>
                               <br>
 
-                              Spay: surgical procedure for mature female dog/cat involves complete removal of the do’s ovaries and uterus 
+                              Spay: surgical procedure for mature female dog/cat involves complete removal of the do’s ovaries and uterus <br>
                               Neuter : surgical procedure for mature male dog/cat involves removal of the two testicles .
                               <br>
                               <br>
@@ -407,6 +407,8 @@
                               <br>
 
                               Spaying your pet will protect them from a fatal diseases called pyrometer which is pus inside her uterus as well as decreasing the risk of mammary gland cancer .
+                              <br>
+                              <br>
                               Neutering your pet will reduce the risk of prostate cancer as well as behavioural problems.
                           </ul>
                         </div>
