@@ -67,7 +67,7 @@
                       <h5 class="mb-0">
                         <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse6"
                           aria-expanded="false" aria-controls="collapse6">
-                          Puppy health
+                          Puppy/kitten
                         </button>
                       </h5>
                     </div>
