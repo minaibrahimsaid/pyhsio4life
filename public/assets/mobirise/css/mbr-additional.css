@@ -467,7 +467,7 @@ h6,
 }
 #ext_menu-7 .link[aria-expanded="true"],
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  /* color: #c0a375!important; */
 }
 #content2-j BLOCKQUOTE {
   color: #000000;
@@ -544,7 +544,7 @@ h6,
 }
 #ext_menu-c .link[aria-expanded="true"],
 #ext_menu-c .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  /* color: #c0a375!important; */
 }
 #header3-i .mbr-section-title,
 #header3-i .mbr-section-subtitle {
