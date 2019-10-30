@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="format-detection" content="telephone=no">
+    {{-- <meta name="format-detection" content="telephone=no"> --}}
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="generator" content="wilson road vet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
