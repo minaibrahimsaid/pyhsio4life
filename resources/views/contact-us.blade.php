@@ -20,7 +20,7 @@
                             371 Wilson Road South Oshawa, Ontario <br><br><br>
                             <strong>Contacts</strong><br>
                             Email: wilsonrdvetclinic@gmail.com<br>
-                            <div class="contact-text-edit shadow-text"  style=""><strong>Phone : <a style="color: white;"
+                            <div class="contact-text-edit shadow-text"  style=""><strong>Phone : <a style="color: white; font-weight: 900;"
                                 href="tel:+9055768885">
                                 +1 (905) 576 8885</a>  </strong></div>
                             {{-- <h6>Fax: +1 289-660-8666</h6> --}}
