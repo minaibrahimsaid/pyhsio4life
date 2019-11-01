@@ -23,7 +23,7 @@
                                                             <div>Preferred Appointment Date <span class="star">*</span>
                                                             </div>
                                                         </label>
-                                                        <div class="DayPickerInput"><input type="text"
+                                                        <div class="DayPickerInput"><input type="date"
                                                                 id="date-picker-input-1" class="form-control"
                                                                 name="date" /></div>
                                                     </div>
