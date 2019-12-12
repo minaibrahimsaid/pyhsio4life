@@ -143,7 +143,7 @@
               <h5 class="mb-0">
                 <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse8"
                   aria-expanded="false" aria-controls="collapse8">
-                  Seinor Exam
+                  Senior Exam
                 </button>
               </h5>
             </div>
