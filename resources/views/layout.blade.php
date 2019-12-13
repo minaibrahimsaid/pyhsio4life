@@ -43,6 +43,7 @@
                                 display: flex;
                                 justify-content: space-around;
                                 align-items: center;
+                                min-width:150px;
                                 flex-direction: column;">
                                     <h2 class="clinic-name"
                                         style="font-weight: bold;   font-family: Monotype Corsiva Regular;   font-size: xx-large;     text-align: center;">

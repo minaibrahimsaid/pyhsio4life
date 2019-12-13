@@ -233,7 +233,8 @@
 </section>
 <style>
     .card-header {
-        background-color: #cac5c5 !important
+        background-color: #cac5c5 !important;
+        cursor: pointer;
     }
 </style>
 @endsection
