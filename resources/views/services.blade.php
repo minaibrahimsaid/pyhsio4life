@@ -212,7 +212,7 @@
               <h5 class="mb-0">
                 <button class="service collapsed" type="button" data-toggle="collapse" data-target="#collapse11"
                   aria-expanded="false" aria-controls="collapse11">
-                  Mobile Servies
+                  Mobile Services
                 </button>
               </h5>
             </div>
