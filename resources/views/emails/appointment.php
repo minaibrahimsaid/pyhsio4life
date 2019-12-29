@@ -413,7 +413,7 @@
 <div style="color:#555555;font-family:'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif;line-height:150%;padding-top:5px;padding-right:10px;padding-bottom:30px;padding-left:10px;">
 <div style="font-size: 12px; line-height: 18px; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #555555;">
 <p style="font-size: 14px; line-height: 21px; margin: 0;"> <?php echo $ownername; ?> booked appointment at <?php echo $time; ?> in <?php echo $date; ?>  and his/her phone is <?php echo $phone; ?> and the email
-<?php echo $email; ?> and his/her condition is <?php echo $condition; ?>
+<?php echo $email; ?> and his/her condition is <?php echo $condition; ?> 
 this is for his/her <?php echo $species ?> named <?php echo $petName ?> it has <? echo $age ?> years old
  </p>
 </div>
