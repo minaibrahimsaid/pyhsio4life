@@ -24,4 +24,4 @@ $router->get('/booking', [
     'as' => 'booking', 'uses' => 'WelcomeController@booking'
 ] );
 $router->post('/booking', 'WelcomeController@addbooking');
-$router->post('/contact', 'WelcomeController@contactusmail');
+$router->post('/contact/', 'WelcomeController@contactusmail');
