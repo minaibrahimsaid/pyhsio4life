@@ -14,7 +14,7 @@
                                     appointment</p>
                                 <br>
                                 <div class="booking-step">
-                                    <form method="POST" action="/booking">
+                                    <form id="show-modal-book"  method="POST" action="/booking">
                                         <div class="form-container">
                                             <div class="row">
                                                 <div class="col-sm-6">

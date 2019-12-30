@@ -55,11 +55,11 @@ class WelcomeController extends Controller
     public function addbooking(Request $request)
     {
         $to_email = 'wilsonrdvetclinic@gmail.com';
-        Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
+            Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
             $message->to($to_email)->subject('new appointment');
             $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
         });
-        return redirect()->route('booking');
+        return redirect('/');
     }
 
     public function contactusmail(Request $request)
@@ -69,7 +69,7 @@ class WelcomeController extends Controller
             $message->to($to_email)->subject('new message');
             $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
         });
-        return redirect()->route('contact-us');
+        return redirect('/');
     }
 
     public function team()
