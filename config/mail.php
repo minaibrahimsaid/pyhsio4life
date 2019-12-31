@@ -14,7 +14,7 @@ return [
     |            "sparkpost", "postmark", "log", "array"
     |
     */
-    'driver' => env('sendmail'),
+    'driver' => env('MAIL_DRIVER', 'smtp'),
     /*
     |--------------------------------------------------------------------------
     | SMTP Host Address
