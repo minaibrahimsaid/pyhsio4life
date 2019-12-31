@@ -14,7 +14,7 @@ return [
     |            "sparkpost", "postmark", "log", "array"
     |
     */
-    'driver' => env('MAIL_DRIVER', 'smtp'),
+    'driver' => env('sendmail'),
     /*
     |--------------------------------------------------------------------------
     | SMTP Host Address
@@ -112,11 +112,4 @@ return [
     |
     */
     'log_channel' => env('MAIL_LOG_CHANNEL'),
-    'stream' => [
-        'ssl' => [
-            'allow_self_signed' => true,
-            'verify_peer' => false,
-            'verify_peer_name' => false,
-        ],
-    ]
 ];
