@@ -84,7 +84,7 @@ return [
     | been provided here, which will work well on most of your systems.
     |
     */
-    'sendmail' => '/usr/sbin/sendmail -t',
+    'sendmail' => '/usr/sbin/sendmail -bs',
     /*
     |--------------------------------------------------------------------------
     | Markdown Mail Settings
