@@ -84,7 +84,7 @@ return [
     | been provided here, which will work well on most of your systems.
     |
     */
-    'sendmail' => '/usr/sbin/sendmail -bs',
+    'sendmail' => '/usr/sbin/sendmail -t',
     /*
     |--------------------------------------------------------------------------
     | Markdown Mail Settings
@@ -112,4 +112,12 @@ return [
     |
     */
     'log_channel' => env('MAIL_LOG_CHANNEL'),
+    'stream' => [
+        'ssl' => [
+            'allow_self_signed' => true,
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+        ],
+    ]
+
 ];

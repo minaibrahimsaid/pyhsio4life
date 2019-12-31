@@ -66,6 +66,8 @@ class WelcomeController extends Controller
     {
         $to_email = 'minaimakar@gmail.com';
         Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
+            $https['ssl']['verify_peer'] = FALSE;
+            $https['ssl']['verify_peer_name'] = FALSE;
             $message->to($to_email)->subject('new message');
             $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
         });
