@@ -92,7 +92,7 @@
                     </div>
 
 
-                    <form id="show-modal-contact" action="/contact/" method="post" data-form-title="CONTACT FORM">
+                    <form id="show-modal-contact" action="/contact" method="post" data-form-title="CONTACT FORM">
 
                         <input type="hidden"
                             value="KiEHc9gxwm1lopCsmozqaw7WAT0DDNukedzIpSSewEZgq3VpRoO3+K/Z4cMWAETnG1DgSc4Ncu1HgdTQRrWO2QdfpNtUWqHy3wzklwKZCH76Ikgjl8bz/qRugOP+zbub"
