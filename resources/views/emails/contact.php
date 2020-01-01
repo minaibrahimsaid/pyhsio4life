@@ -405,7 +405,7 @@
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
 <div style="color:#132F40;font-family:'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif;line-height:120%;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
 <div style="font-size: 12px; line-height: 14px; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #132F40;">
-<p style="font-size: 14px; line-height: 26px; margin: 0;"><span style="font-size: 22px;"> New Message</span></p>
+<p style="font-size: 14px; line-height: 26px; margin: 0;"><span style="font-size: 22px;">Message</span></p>
 </div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
