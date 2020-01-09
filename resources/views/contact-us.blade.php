@@ -9,9 +9,6 @@
     <div class="container">
         <div class="row">
             <div class="mbr-table-md-up" >
-
-
-
                 <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
                     <h3 class="mbr-section-title display-3 shadow-text">Our Location</h3>
                     <div class="lead">
@@ -65,7 +62,15 @@
     </div>
 
 </section>
-
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+  function onSubmit(token) {
+    document.getElementById("show-modal-contact").submit();
+    $("#modal-message").text("Thank you for contacting us");
+    $("#myModal").modal("show");
+    $('#show-modal-contact').prop( "disabled", true );
+  }
+</script>
 
 <section class="engine"></section>
 <section class="mbr-section mbr-after-navbar" id="form1-x"
@@ -133,8 +138,7 @@
                             <textarea class="form-control" name="note" rows="7" data-form-field="Message"
                                 id="form1-x-message"></textarea>
                         </div>
-
-                        <div><button type="submit" class="btn btn-primary">CONTACT US</button></div>
+                        <div><button class="btn btn-primary g-recaptcha" data-sitekey={{env('SECRET_CLIENT_KEY')}} data-callback='onSubmit'>Contact Us</button></div>
 
                     </form>
                 </div>

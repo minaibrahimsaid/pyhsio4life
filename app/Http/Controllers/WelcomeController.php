@@ -54,22 +54,32 @@ class WelcomeController extends Controller
 
     public function addbooking(Request $request)
     {
-        $to_email = 'wilsonrdvetclinic@gmail.com';
+        $secret = env('SECRET_SERVER_KEY');
+        $captchaId = $request['g-recaptcha-response'];
+        $responseCaptcha = json_decode(file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $captchaId));
+        if ($responseCaptcha->success === true) {
+            $to_email = 'wilsonrdvetclinic@gmail.com';
             Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
-            $message->to($to_email)->subject('new appointment');
-            $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
-        });
-        return redirect('/');
+                $message->to($to_email)->subject('message');
+                $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
+            });
+            return redirect()->route('booking');
+        }
     }
 
     public function contactusmail(Request $request)
     {
-        $to_email = 'wilsonrdvetclinic@gmail.com';
-        Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
-            $message->to($to_email)->subject('message');
-            $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
-        });
-        return redirect('/');
+        $secret = env('SECRET_SERVER_KEY');
+        $captchaId = $request['g-recaptcha-response'];
+        $responseCaptcha = json_decode(file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $captchaId));
+        if ($responseCaptcha->success === true) {
+            $to_email = 'wilsonrdvetclinic@gmail.com';
+            Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
+                $message->to($to_email)->subject('message');
+                $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
+            });
+            return redirect()->route('contact-us');
+        }
     }
 
     public function team()
