@@ -32,11 +32,11 @@
                     <div class="lead">
 
                         <p class="contact-text-edit">
-                            <strong>Monday </strong> 9:00 am – 6:00 pm<br>
-                            <strong>Tuesday </strong> 9:00 am – 6:00 pm<br>
-                            <strong>Wednesday </strong> 9:00 am – 6:00 pm<br>
-                            <strong>Thursday </strong>9:00 am – 6:00 pm<br>
-                            <strong>Friday </strong>9:00 am – 6:00 pm<br>
+                            <strong>Monday </strong> 9:00 am – 7:00 pm<br>
+                            <strong>Tuesday </strong> 9:00 am – 7:00 pm<br>
+                            <strong>Wednesday </strong> 9:00 am – 7:00 pm<br>
+                            <strong>Thursday </strong>9:00 am – 7:00 pm<br>
+                            <strong>Friday </strong>9:00 am – 7:00 pm<br>
                             <strong>Saturday </strong>10:00 am – 6:00 pm<br>
                             <strong>Sunday </strong> Day off<br>
                         </p>
