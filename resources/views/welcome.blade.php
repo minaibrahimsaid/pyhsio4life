@@ -13,7 +13,7 @@
                     <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="5"></li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
-                    <div  class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image:  url(assets/images/masks.jpg); ">
+                    <div class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image:  url(assets/images/masks.jpg); ">
                         <div class="mbr-table-cell">
                             <h2 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
@@ -24,13 +24,17 @@
                                 <h3 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
                                     font-size: 36px;
+                                    color:darkred;
+                                    text-shadow:unset;
                                     text-align: center;">We are open with altered</h3>
                                 <h3 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
                                     font-size: 36px;
+                                    text-shadow:unset;
+                                    color:darkred;
                                     text-align: center;">prorocols for everyones safety</h3>
                             </h2>
-                            <div style="text-align: center;width: 100%"><a style="color:#FFFFFF" class=" display-1 readmore shadow-text" href="/covid-19">Read more</a></div>
+                            <div style="text-align: center;width: 100%"><a style="color:#FFFFFF" class="readmore display-1 readmore shadow-text" href="/covid-19">Read more</a></div>
                             <!-- <div class="container-slide container" style="margin-top: 350px;">
                                 <div class="row">
                                     <div class="col-md-12 col-md-offset-1 text-xs-center">
@@ -236,7 +240,7 @@
 
     .readmore:hover {
         background-color: #FFFFFF;
-        color: #000000;
+        color: #000000 !important;
         text-shadow: unset;
         text-decoration: unset;
     }
