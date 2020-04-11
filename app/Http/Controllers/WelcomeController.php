@@ -42,6 +42,10 @@ class WelcomeController extends Controller
         return view('gallery');
     }
 
+    public function covid19()
+    {
+        return view('covid19');
+    }
     public function aboutus()
     {
         return view('aboutus');
@@ -54,23 +58,36 @@ class WelcomeController extends Controller
 
     public function addbooking(Request $request)
     {
-        $to_email = 'physio4lifeajax@gmail.com';
-        Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
-            $message->to($to_email)->subject('new appointment');
-            $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
-        });
-        return redirect()->route('booking');
+        $secret = env('SECRET_SERVER_KEY');
+        $captchaId = $request['g-recaptcha-response'];
+        $responseCaptcha = json_decode(file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $captchaId));
+        if ($responseCaptcha->success === true) {
+            $to_email = 'wilsonrdvetclinic@gmail.com';
+            Mail::send('emails.appointment', $request->all(), function ($message) use ($to_email) {
+                $message->to($to_email)->subject('message');
+                $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
+            });
+            return redirect()->route('booking');
+        }
     }
 
     public function contactusmail(Request $request)
     {
-        // dd($request->all());
-        // $to_email = 'Physio4lifeajax@gmail.com';
-        $to_email="physio4lifeajax@gmail.com";
-        Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
-            $message->to($to_email)->subject('new message');
-            $message->from('physio4lifewebsite@gmail.com', 'Physio4life');
-        });
-        return redirect()->route('contact-us');
+        $secret = env('SECRET_SERVER_KEY');
+        $captchaId = $request['g-recaptcha-response'];
+        $responseCaptcha = json_decode(file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $captchaId));
+        if ($responseCaptcha->success === true) {
+            $to_email = 'wilsonrdvetclinic@gmail.com';
+            Mail::send('emails.contact', $request->all(), function ($message) use ($to_email) {
+                $message->to($to_email)->subject('message');
+                $message->from('wilsonrdvetclinic@gmail.com', 'wilsonrdvetclinic');
+            });
+            return redirect()->route('contact-us');
+        }
+    }
+
+    public function team()
+    {
+        return view('team');
     }
 }
