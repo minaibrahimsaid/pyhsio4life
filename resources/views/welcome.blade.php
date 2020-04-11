@@ -102,6 +102,29 @@
                             </div>
                         </div>
                     </div>
+                    <div id="offer-slide6" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);     margin-top: 90px;">
+
+                        <div style="    height: 100%;
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;">
+                            <h2 id="slidetext2" class="mbr-section-title display-1 shadow-text" style="    
+                                    font-family: Monotype Corsiva Regular;
+                                 text-align: center; 
+                                 margin-top: 90px;
+
+                                ">Competitive affordable Spay & Neuter prices&nbsp;
+                            </h2>
+                            <div class="mbr-overlay"></div>
+                            <div class="container-slide container" style="margin-top: 350px;">
+                                <div class="row">
+                                    <div class="col-md-12 col-md-offset-1 text-xs-center">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div id="offer-slide3" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/25.jpg);">
                         <div class="mbr-table-cell">
                             <h2 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    

@@ -137,7 +137,7 @@
         }
 
         #covidlocation {
-            width: 80% !important;
+            width: 100% !important;
         }
 
         #covidtext {
