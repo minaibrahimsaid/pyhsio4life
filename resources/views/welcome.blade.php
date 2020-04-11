@@ -13,11 +13,13 @@
                     <li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="5"></li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
-                    <div id="offer-slide1" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image:  url(assets/images/masks.jpg); ">
+                    <div  class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full active" data-bg-video-slide="false" style="background-image:  url(assets/images/masks.jpg); ">
                         <div class="mbr-table-cell">
                             <h2 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
                                     text-align: center;
+                                    color:darkred;
+                                    text-shadow:unset;
                                         ">Covid 19&nbsp;Update : April 4
                                 <h3 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
@@ -28,7 +30,7 @@
                                     font-size: 36px;
                                     text-align: center;">prorocols for everyones safety</h3>
                             </h2>
-                            <div style="text-align: center;width: 100%"><a class="mbr-section-title display-1 readmore shadow-text" href="/covid-19">Read more</a></div>
+                            <div style="text-align: center;width: 100%"><a style="color:#FFFFFF" class=" display-1 readmore shadow-text" href="/covid-19">Read more</a></div>
                             <!-- <div class="container-slide container" style="margin-top: 350px;">
                                 <div class="row">
                                     <div class="col-md-12 col-md-offset-1 text-xs-center">
@@ -38,7 +40,7 @@
                             </div> -->
                         </div>
                     </div>
-                    <div id="offer-slide2" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full " data-bg-video-slide="false" style="margin-top: 70px; background-image: url(assets/images/1.jpg); ">
+                    <div id="offer-slide" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full " data-bg-video-slide="false" style="margin-top: 70px; background-image: url(assets/images/1.jpg); ">
                         <div class="mbr-table-cell">
                             <div id="per15"><img src="assets/images/15.png" width="15%">
                                 <div style="">
@@ -73,7 +75,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="offer-slide3" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);     margin-top: 90px;">
+                    <div id="offer-slide2" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);     margin-top: 90px;">
 
                         <div style="    height: 100%;
                             display: flex;
@@ -96,7 +98,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="offer-slide4" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/25.jpg);">
+                    <div id="offer-slide3" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/25.jpg);">
                         <div class="mbr-table-cell">
                             <h2 id="text3-slide" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
@@ -113,7 +115,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="offer-slide5" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/88.jpg);     margin-top: 70px;">
+                    <div id="offer-slide4" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image: url(assets/images/88.jpg);     margin-top: 70px;">
                         <div class="mbr-table-cell">
                             <div class="mbr-overlay"></div>
                             <div class="container-slide">
