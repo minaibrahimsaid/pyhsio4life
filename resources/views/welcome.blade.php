@@ -1,6 +1,6 @@
 @extends('layout')
 @section('view')
-<section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000000" id="slider-0">
+<section class="mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar" data-ride="carousel" data-keyboard="false" data-wrap="true" data-pause="false" data-interval="5000" id="slider-0">
     <div>
         <div>
             <div>
@@ -84,12 +84,20 @@
                         <div style="    height: 100%;
                             display: flex;
                             flex-direction: column;">
-                            <h3 id="slidetext2" class="mbr-section-title display-1 shadow-text" style="    
+                            <h3  class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
                                  text-align: left; 
                                  margin-top: 90px;
-                                 width:30%;
-                                ">It’s a heartworm,fleas and tick season
+                                 width:60%;
+                                 padding-left:10px;
+                                ">It’s a heartworm, fleas and tick season
+                            </h3>
+                            <h3  class="mbr-section-title display-1 shadow-text" style="    
+                                    font-family: Monotype Corsiva Regular;
+                                 text-align: left; 
+                                 width:50%;
+                                 padding-left:10px;
+                                ">
                                 Is your dog protected?&nbsp;
                             </h3>
                             <div class="mbr-overlay"></div>
@@ -251,7 +259,7 @@
             margin-top: 90px !important
         }
 
-        #new1  h3{
+        #new1 h3 {
             width: 80% !important
         }
     }
