@@ -79,19 +79,19 @@
                             </div>
                         </div>
                     </div>
-                    <div id="offer-slide2" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/2.jpg);     margin-top: 90px;">
+                    <div id="new1" class="mbr-section mbr-section-hero carousel-item dark center mbr-section-full" data-bg-video-slide="false" style="background-image:  url(assets/images/new1.jpg);     margin-top: 90px;">
 
                         <div style="    height: 100%;
                             display: flex;
-                            flex-direction: column;
-                            align-items: center;">
-                            <h2 id="slidetext2" class="mbr-section-title display-1 shadow-text" style="    
+                            flex-direction: column;">
+                            <h3 id="slidetext2" class="mbr-section-title display-1 shadow-text" style="    
                                     font-family: Monotype Corsiva Regular;
-                                 text-align: center; 
+                                 text-align: left; 
                                  margin-top: 90px;
-
-                                ">Competitive affordable Spay & Neuter prices&nbsp;
-                            </h2>
+                                 width:30%;
+                                ">It’s a heartworm,fleas and tick season
+                                Is your dog protected?&nbsp;
+                            </h3>
                             <div class="mbr-overlay"></div>
                             <div class="container-slide container" style="margin-top: 350px;">
                                 <div class="row">
@@ -251,6 +251,9 @@
             margin-top: 90px !important
         }
 
+        #new1  h3{
+            width: 80% !important
+        }
     }
 
     .readmore {
