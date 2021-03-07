@@ -153,6 +153,30 @@
 
             </div>
 
+            <div class="row">
+            <div class="col-xs-12 col-md-6">
+                <div class="mbr-author card-footer" style="text-align: center;">
+                            <div class="mbr-author-name">Monika</div>
+                            <small class="mbr-author-desc">Registered Massage Therapist (RMT)</small>
+                        </div>
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                        <ul>
+                        <li> Monika had been registered nurse in Czech republic, in 2010 completed massage courses and has started practising massage therapy in Czech republic
+                        </li>
+                        <li>Since moving to Canada in 2012 she had worked in Vancouver practising Swedish massage, hot stone massage, Breuss massage and reflexology (trained by Chinese acupuncturist). </li>
+                        <li>She graduated from Canadian College of Massage Therapists in Toronto 2019 and became registered massage therapist in Ontario. She is a member of CMTO and RMTAO.</li>
+                        <li>She completed various massage courses – Indian head massage, Hot stone massage, Breuss massage and in Hawaii Lomi Lomi massage and Ayurvedic massage. </li>
+                        <li>She enjoys treating with advance massage therapy techniques.</li>
+                        <li>She likes working out – qi gong and yoga. She loves hiking, spending time in nature and playing piano.</li>
+                        <li>Healthy lifestyle and holistic, natural healing are her favorite.</li>
+                        </ul>
+                        </div>
+                        
+                    </div>
+                </div><div class="col-xs-12 col-md-6">
+            </div>
+
         </div>
 
     </div>
