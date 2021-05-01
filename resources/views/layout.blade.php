@@ -58,7 +58,7 @@
 
                         <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse"
                             data-target="#exCollapsingNavbar">
-                            <div class="hamburger-icon"></div>
+                            <i class="fas fa-bars"></i>
                         </button>
                         <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm"
                             id="exCollapsingNavbar">

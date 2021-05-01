@@ -32,7 +32,7 @@
                                     font-size: 36px;
                                     text-shadow:unset;
                                     color:darkred;
-                                    text-align: center;">prorocols for everyones safety</h3>
+                                    text-align: center;">protocols for everyones safety</h3>
                             </h2>
                             <div style="text-align: center;width: 100%"><a style="color:#FFFFFF" class="readmore display-1 readmore shadow-text" href="/covid-19">Read more</a></div>
                             <!-- <div class="container-slide container" style="margin-top: 350px;">
